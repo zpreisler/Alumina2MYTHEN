@@ -1,0 +1,126 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_4002418
+_citation_journal_full    'Chemistry of Materials (1,1989-)'
+_citation_journal_volume  '18'
+_citation_page_first  '3242'
+_citation_page_last   '3248'
+_citation_year  '2007'
+_citation_title  'Fine-scale nanostructure in gamma - Al2 O3'
+loop_
+_publ_author_name
+  'Paglia G.'
+  'Bozin E.S.'
+  'Billinge S.J.L.'
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_common  'Alumina'
+_symmetry_space_group_name_H-M 'P 1'
+_space_group_IT_number 1
+_space_group_crystal_system 'triclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+_cell_length_a        3.40090
+_cell_length_b        2.78950
+_cell_length_c        7.07620
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.209   0.485   0.065    1.00000    1.000
+o      0.201   0.466   0.590    1.00000    1.000
+al      0.280   0.031   0.714    1.00000    1.000
+o      0.276   0.609   0.930    1.00000    1.000
+o      0.779   0.482   0.399    1.00000    1.000
+al      0.449   0.978   0.462    1.00000    1.000
+o      0.242   0.988   0.249    1.00000    1.000
+o      0.787   0.560   0.079    1.00000    1.000
+al      0.593   0.477   0.873    1.00000    1.000
+o      0.828   0.992   0.751    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.044000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     7.076200       1000.00
+     3.538100         57.07
+     3.400900        508.00
+     3.065259         72.23
+     2.789500         80.79
+     2.595136        861.76
+     2.451869        546.52
+     2.358733        115.39
+     2.190555        530.99
+     2.156794         86.33
+     2.063091        475.14
+     1.938194        169.22
+     1.841597        458.64
+     1.801138         38.76
+     1.769050          3.40
+     1.700450        147.27
+     1.653381         76.79
+     1.591696        120.98
+     1.569421         88.91
+     1.532629         68.87
+     1.493954        410.03
+     1.451945        115.03
+     1.422313        132.57
+     1.415240         52.44
+     1.394750        231.28
+     1.379374        105.47
+     1.368422         15.49
+     1.367800        114.50
+     1.343239        277.50
+     1.306621         41.38
+     1.297568          2.29
+     1.290444         31.32
+     1.269507         21.07
+     1.262099          9.60
+     1.236464         38.84
+     1.225934         46.61
+     1.212325        102.58
+     1.200565         27.79
+     1.183248         28.23
+     1.179367         40.70
+     1.133633         18.95
+     1.132095         33.81
+     1.122330         25.38
+     1.119360         41.44
+     1.114269          9.01
+     1.095278          1.97
+     1.087784          8.46
+     1.086271         22.48
+     1.079572         17.63
+     1.078397         28.68
+     1.066088         33.31
+     1.050221          8.20
+     1.042545         42.19
+     1.038842         10.32
+     1.034768         29.99
+     1.031545         37.30
+     1.021753         19.27
+     1.013454         33.46
+     1.010886          5.39
+     1.006803         69.44
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

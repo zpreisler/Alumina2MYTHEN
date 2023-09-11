@@ -1,0 +1,103 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_4102355
+_citation_journal_full    'Journal of the American Chemical Society'
+_citation_journal_volume  '132'
+_citation_page_first  '5704'
+_citation_page_last   '5710'
+_citation_year  '2010'
+_citation_title  'Half-Metallic Ferromagnetism and Large Negative Magnetoresistance in theNew Lacunar Spinel GaTi3VS8'
+loop_
+_publ_author_name
+  'Eugen Dorolti'
+  'Laurent Cario'
+  'Beno?t Corraze'
+  'Etienne Janod'
+  'Cristian Vaju'
+  'Hyun-Joo Koo'
+  'Erjun Kan'
+  'Myung-Hwan Whangbo'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_common  'Titanium(IV) oxide'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.58878
+_cell_length_b        4.58878
+_cell_length_c        2.95756
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    1.000
+o      0.302   0.302   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.259000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.244757       1000.00
+     2.485954        464.46
+     2.294390         62.22
+     2.185807        186.53
+     2.052165         60.15
+     1.686039        519.62
+     1.622379        158.64
+     1.478780         71.31
+     1.451100         73.60
+     1.422422          4.52
+     1.358645        170.90
+     1.345623         84.31
+     1.302743         11.29
+     1.272699          2.09
+     1.242977         16.94
+     1.199742          9.20
+     1.169053         34.52
+     1.147195         24.96
+     1.112943          8.15
+     1.092903         57.42
+     1.081586         29.21
+     1.041633         51.20
+     1.035730         40.70
+     1.026082         21.54
+     1.015792          0.64
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

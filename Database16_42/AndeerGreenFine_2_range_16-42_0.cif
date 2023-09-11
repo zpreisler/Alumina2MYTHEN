@@ -1,0 +1,23 @@
+_chemical_formula_sum  'Al2 O13 Si'
+_chemical_name_mineral  'V AndeerGreenFine'
+_chemical_name_common  'AndeerGreenFine'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.986989         15.58
+     4.583773         14.23
+     4.310847          17.3
+     3.576405          15.8
+     3.518429         30.82
+     3.337623        189.64
+     3.260725         20.66
+     3.166992         53.08
+     3.114498         28.48
+     3.028712         20.43
+     2.984602         18.91
+     2.888829        1000.0
+     2.609369         17.38
+     2.575165         23.54
+     2.456504         73.53
+     2.396972         18.21
+     2.251209         51.01

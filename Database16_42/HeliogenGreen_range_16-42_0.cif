@@ -1,0 +1,13 @@
+_chemical_formula_sum  'Cu Cl'
+_chemical_name_mineral  'V Polychloro copper phthalocyanine'
+_chemical_name_common  'Heliogen Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.027703        495.71
+     3.523906         543.9
+     3.425708        573.99
+     3.055464        451.66
+     2.855814        408.52
+     2.669546        1000.0
+     2.178307        322.84

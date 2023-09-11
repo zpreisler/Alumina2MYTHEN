@@ -1,0 +1,13 @@
+_chemical_formula_sum  'Al Fe2 H2 K Mg O12 Si4'
+_chemical_name_mineral  'Verona_Green_Earth'
+_chemical_name_common  'Verona_Green_Earth'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.517930        373.01
+     4.109568        286.23
+     3.786387        623.11
+     3.230380        292.26
+     3.034850        1000.0
+     2.964962        646.24
+     2.286889        789.98

@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C21 H20 O11'
+_chemical_name_mineral  'V Grains d Avignon immature'
+_chemical_name_common  'Grains d Avignon immature'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843         351.8
+     3.830601        426.84
+     3.662455        684.12
+     3.078341        1000.0
+     2.886918        211.53
+     2.691906        246.15
+     2.603346         93.64
+     2.354967        169.71
+     2.225230        224.62

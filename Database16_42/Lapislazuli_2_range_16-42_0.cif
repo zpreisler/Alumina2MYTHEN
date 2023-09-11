@@ -1,0 +1,23 @@
+_chemical_formula_sum  'Na Ca Al Si O S Cl'
+_chemical_name_mineral  'V Lapislazuli'
+_chemical_name_common  'Lapislazuli'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.697456         26.04
+     3.865911        104.06
+     3.749265        309.43
+     3.537677         33.26
+     3.330279         20.95
+     3.221230         27.21
+     3.091064         36.92
+     2.990556        1000.0
+     2.875871         25.55
+     2.632181         43.16
+     2.549018         31.92
+     2.482009         36.84
+     2.425026         22.04
+     2.359842         30.13
+     2.307540         24.58
+     2.279004         22.04
+     2.187542         23.52

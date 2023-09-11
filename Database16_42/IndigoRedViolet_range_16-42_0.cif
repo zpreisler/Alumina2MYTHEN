@@ -1,0 +1,18 @@
+_chemical_formula_sum  'C16 H10 N2 O2'
+_chemical_name_mineral  'V Indigo Red Violet'
+_chemical_name_common  'Indigo Red Violet'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.930624        1000.0
+     4.433067        235.83
+     3.395058         52.76
+     3.337623        100.75
+     3.205232         72.78
+     3.133985         32.95
+     2.475202        132.71
+     2.431545         84.96
+     2.396972        162.95
+     2.301761         30.27
+     2.255583         54.24
+     2.177303         96.42

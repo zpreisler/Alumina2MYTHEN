@@ -1,0 +1,96 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1101051
+_citation_journal_full    'Acta Crystallographica, Section C: Crystal Structure Communications'
+_citation_journal_volume  '45(12)'
+_citation_page_first  '1867'
+_citation_page_last   '1870'
+_citation_year  '1989'
+_citation_title  'u parameters for the wurtzite structure of ZnS and ZnO using powderneutron diffraction'
+loop_
+_publ_author_name
+  'Kisi E. H.'
+  'Elcombe M. M.'
+_chemical_formula_sum  'S Zn'
+_chemical_name_mineral  'Wurtzite'
+_chemical_name_common  'Zinc sulfide'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.82270
+_cell_length_b        3.82270
+_cell_length_c        6.26070
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.000
+s      0.333   0.667   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.085000
+_exptl_crystal_density_meas      4.090000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.310555        922.38
+     3.130350        589.72
+     2.926589       1000.00
+     2.274531        338.60
+     1.911350        654.15
+     1.828056          0.00
+     1.765408        644.20
+     1.655278         95.83
+     1.631301        417.79
+     1.600290        140.59
+     1.565175         15.83
+     1.463294         67.78
+     1.415001         15.52
+     1.409512          0.00
+     1.296861        189.69
+     1.251272         62.60
+     1.227006         92.82
+     1.210961         30.85
+     1.171168        126.28
+     1.161888         53.24
+     1.137266          5.85
+     1.103518         77.92
+     1.073154        186.30
+     1.047398          0.00
+     1.043450         12.35
+     1.040744         72.96
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

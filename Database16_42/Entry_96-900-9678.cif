@@ -1,0 +1,124 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009677
+_citation_journal_full    'Journal of Applied Physics'
+_citation_journal_volume  '49'
+_citation_page_first  '4411'
+_citation_page_last   '4416'
+_citation_year  '1978'
+_citation_title  'High-pressure single-crystal structure determinations for ruby up to 90 kbarusing an automatic diffractometerP = 90 kbar'
+loop_
+_publ_author_name
+  'd?Amour H'
+  'Schiferl D.'
+  'Denner W.'
+  'Schulz H.'
+  'Holzapfel W. B.'
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_mineral  'Corundum'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        4.71540
+_cell_length_b        4.71540
+_cell_length_c       12.85100
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.000   0.000   0.352    1.00000    0.139
+o      0.306   0.000   0.250    1.00000    0.220
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       9000000.000000
+_exptl_crystal_density_diffrn    4.105000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.446510        624.27
+     2.524993        953.44
+     2.357700        448.18
+     2.141833          4.18
+     2.065511        982.74
+     1.945942         14.97
+     1.723255        497.77
+     1.585340       1000.00
+     1.532463         26.09
+     1.500786         33.67
+     1.494876         73.43
+     1.391251        396.77
+     1.361219        612.20
+     1.323212         13.13
+     1.262497         14.57
+     1.225834        179.32
+     1.221362         94.57
+     1.181418          7.91
+     1.178850         70.62
+     1.148837          8.86
+     1.136596         57.20
+     1.128229          3.12
+     1.115407         43.36
+     1.112975         29.39
+     1.087613         86.10
+     1.070917         21.32
+     1.068170        102.06
+     1.036433          2.36
+     1.032756        209.86
+     1.008267         28.30
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

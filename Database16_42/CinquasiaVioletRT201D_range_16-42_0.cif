@@ -1,0 +1,19 @@
+_chemical_formula_sum  'N H C O'
+_chemical_name_mineral  'V Cinquasia Violet'
+_chemical_name_common  'CinquasiaVioletRT201D'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        259.94
+     4.073650        221.76
+     3.836957        531.79
+     3.301110        1000.0
+     3.082605        734.27
+     2.890651        154.63
+     2.804180         47.73
+     2.696709        218.35
+     2.606354         82.43
+     2.546147         67.14
+     2.414785         44.54
+     2.309872         92.83
+     2.231665        193.21

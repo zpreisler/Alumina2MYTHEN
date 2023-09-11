@@ -1,0 +1,129 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007662
+_citation_journal_full    'Acta Crystallographica, Section B'
+_citation_journal_volume  '40'
+_citation_page_first  '14'
+_citation_page_last   '20'
+_citation_year  '1984'
+_citation_title  'Room- and high-pressure crystal chemistry of CoAs and FeAs Locality: synthetic Note: anisoB's taken from ICSD Sample: Pnam refinement, P = .0001 GPa'
+loop_
+_publ_author_name
+  'Lyman P. S.'
+  'Prewitt C. T.'
+_chemical_formula_sum  'As Co'
+_chemical_name_mineral  'Modderite'
+_symmetry_space_group_name_H-M 'P n a m'
+_space_group_IT_number 62
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   'x, y, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        5.28570
+_cell_length_b        5.86750
+_cell_length_c        3.48830
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.002   0.200   0.250    1.00000    1.000
+as      0.200   0.587   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       100.000000
+_exptl_crystal_density_diffrn    8.217000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.927182          0.68
+     2.998428         71.54
+     2.933750         19.69
+     2.642850          0.00
+     2.608022       1000.00
+     2.565125        522.37
+     2.409691         49.65
+     2.106537        147.00
+     2.066540        406.60
+     1.982634        883.86
+     1.963591        320.97
+     1.834287         93.43
+     1.744150        327.79
+     1.711120         25.62
+     1.705979        405.49
+     1.687463        160.16
+     1.623513          0.87
+     1.594015          0.23
+     1.572145         51.03
+     1.519058         63.36
+     1.510442         30.05
+     1.499214          2.97
+     1.466875          5.93
+     1.455717          0.19
+     1.442319        145.44
+     1.433302         24.79
+     1.413455         55.53
+     1.412883         15.54
+     1.386082         13.33
+     1.321425         39.56
+     1.309999         28.97
+     1.309061         29.81
+     1.304011        131.00
+     1.289137         18.30
+     1.282563         30.83
+     1.263965         40.83
+     1.235731         46.38
+     1.225602          0.38
+     1.212762         87.60
+     1.209205         30.55
+     1.204846         10.62
+     1.203775         11.03
+     1.167764         32.25
+     1.145606         43.12
+     1.141798         20.49
+     1.140586          1.32
+     1.138829         18.10
+     1.127317          9.96
+     1.122626          4.53
+     1.114924         49.61
+     1.112249          6.04
+     1.098131         42.75
+     1.094940         30.83
+     1.088413         53.80
+     1.072692        122.81
+     1.072523          1.92
+     1.064311         12.12
+     1.059041         31.51
+     1.053269         33.05
+     1.047222         76.04
+     1.046975         25.05
+     1.044684         32.52
+     1.040389         12.23
+     1.036698         16.92
+     1.033270         28.29
+     1.025161          6.46
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

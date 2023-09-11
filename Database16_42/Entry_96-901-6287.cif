@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016286
+_citation_journal_full    'Acta Chemica Scandinavica A'
+_citation_journal_volume  '28'
+_citation_page_first  '99'
+_citation_page_last   '103'
+_citation_year  '1974'
+_citation_title  'Compounds with the skutterudite type crystal structure. III. Structural data for arsenides and antimonides,'
+loop_
+_publ_author_name
+  'Kjekshus A.'
+  'Rakke T.'
+_chemical_formula_sum  'As3 Co'
+_chemical_name_mineral  'Skutterudite'
+_symmetry_space_group_name_H-M 'I m -3'
+_space_group_IT_number 204
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        8.20550
+_cell_length_b        8.20550
+_cell_length_c        8.20550
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.250   0.250   0.250    1.00000    0.497
+as      0.000   0.344   0.151    1.00000    0.497
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.822000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.802164        134.46
+     4.102750         85.49
+     3.349881        100.46
+     2.901082         13.40
+     2.594807       1000.00
+     2.368724         18.14
+     2.193012        282.61
+     2.051375          3.98
+     1.934055         78.43
+     1.834806        341.71
+     1.749418         88.02
+     1.674941        193.87
+     1.609231        291.82
+     1.498112          2.40
+     1.450541          0.88
+     1.407232        119.78
+     1.367583         50.75
+     1.331108         12.74
+     1.297403         35.35
+     1.266136          6.19
+     1.237026         48.37
+     1.209835        122.33
+     1.184362         53.54
+     1.160433         37.61
+     1.137898         38.51
+     1.116627         37.08
+     1.096506          0.48
+     1.077435         83.26
+     1.042099         52.92
+     1.025687         17.84
+     1.010027         13.93
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

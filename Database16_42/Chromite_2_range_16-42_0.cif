@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Cr O Fe Mg Al Si'
+_chemical_name_mineral  'V Cr2O3 Fe2O3 MgO Al2O3 SiO2'
+_chemical_name_common  'Chromite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.890191        109.14
+     3.076265          46.4
+     2.949385        285.28
+     2.505304        1000.0
+     2.398266        112.17

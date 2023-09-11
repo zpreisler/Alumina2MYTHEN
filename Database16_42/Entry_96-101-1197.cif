@@ -1,0 +1,97 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011196
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '62'
+_citation_page_first  '260'
+_citation_page_last   '273'
+_citation_year  '1925'
+_citation_title  'Ueber die kristallstruktur des alpha- und beta-CdS, sowie des wurtzitsLocality: synthetic'
+loop_
+_publ_author_name
+  'Ulrich F.'
+  'Zachariasen W. H.'
+_chemical_formula_sum  'S Zn'
+_chemical_name_mineral  'Wurtzite-2H'
+_chemical_name_common  'Zinc sulfide - $-alpha'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.83600
+_cell_length_b        3.83600
+_cell_length_c        6.27700
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.000
+s      0.333   0.667   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.046000
+_exptl_crystal_density_meas      4.090000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.322073        924.40
+     3.138500        590.75
+     2.936210       1000.00
+     2.281393        340.00
+     1.918000        657.38
+     1.834280          0.00
+     1.770443        645.37
+     1.661037         96.39
+     1.636588        420.67
+     1.605766        141.24
+     1.569250         15.88
+     1.468105         68.30
+     1.418911         15.59
+     1.413852          0.00
+     1.300934        190.45
+     1.255626         63.00
+     1.231234         93.35
+     1.214540         31.03
+     1.174346        126.92
+     1.165790         53.62
+     1.140696          5.88
+     1.107358         78.26
+     1.076639        186.58
+     1.050400          0.00
+     1.046167         12.28
+     1.044264         73.27
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic at 1373 K
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

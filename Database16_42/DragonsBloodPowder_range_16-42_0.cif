@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C18 H18 O4'
+_chemical_name_mineral  'V Dragons Blood Powder'
+_chemical_name_common  'Dragons Blood Powder'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        319.23
+     3.824105        433.41
+     3.076265        1000.0
+     2.879574        205.04
+     2.683836        205.73
+     2.600345          87.0
+     2.220980        207.01

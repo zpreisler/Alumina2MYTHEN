@@ -1,0 +1,30 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+
+data_GialloDiSnPb_200s
+_chemical_name_mineral 'Lead-tin yellow'
+_chemical_formula_sum  'Pb2 Sn O4'
+_space_group_IT_number 255
+_space_group_crystal_system 'triclinic'
+_cell_measurement_radiation   'x-rays'
+
+
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+3.336958 1000.0
+3.168281  175.8
+3.105626  136.6
+2.820239  446.0
+2.770058  563.9
+2.568704  264.7
+2.062171   60.3
+2.029242   76.2
+2.012142   99.1
+1.970324   79.3
+1.957466  108.0
+1.862638  166.9
+1.802606  162.9
+1.763958   81.8
+1.724700  311.2

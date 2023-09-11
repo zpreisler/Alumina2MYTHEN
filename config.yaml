@@ -21,8 +21,10 @@ detectors:
 # Database
 # list of databases to load
 database: 
-  - '/home/shared/XRD_Databases/Database16_42/'
-  - '/home/shared/XRD_Databases/Standards/'
+  - 'Database16_42/'
+  - 'Standards/'
+  #- '/home/shared/XRD_Databases/Database16_42/'
+  #- '/home/shared/XRD_Databases/Standards/'
 
 # Data
 # data locations, parameters and preprocessing

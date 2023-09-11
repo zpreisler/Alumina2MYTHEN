@@ -1,0 +1,91 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1532514
+_citation_journal_full    'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_citation_journal_volume  '629'
+_citation_page_first  '1737'
+_citation_page_last   '1750'
+_citation_year  '2003'
+_citation_title  'Theoretical investigation of the solid state reaction of silicon nitrideand silicon dioxide forming silicon oxynitride (Si2 N2 O) under pressure'
+loop_
+_publ_author_name
+  'Kroll P.'
+  'Milko M.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.22440
+_cell_length_b        4.22440
+_cell_length_c        2.68960
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.307   0.307   0.000    1.00000    1.000
+si      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.157000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.987102       1000.00
+     2.268785        231.75
+     2.112200          6.70
+     1.998762        377.07
+     1.889209        144.73
+     1.545946        518.15
+     1.493551        170.31
+     1.344800         85.24
+     1.335873         50.84
+     1.305737         11.78
+     1.247503        218.72
+     1.226259         82.80
+     1.196425         16.54
+     1.171638          3.67
+     1.134392          8.37
+     1.095579         20.89
+     1.074146         20.64
+     1.056100         25.14
+     1.024568         18.55
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

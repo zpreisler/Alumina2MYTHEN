@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9011495
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '198'
+_citation_page_first  '177'
+_citation_page_last   '212'
+_citation_year  '1992'
+_citation_title  'Crystal structures of the low-temperature quartz-type phases of SiO2 and GeO2at elevated pressure P = 7.2GPa = 72 kbar'
+loop_
+_publ_author_name
+  'Glinnemann J.'
+  'King H. E.'
+  'Schulz H.'
+  'Hahn T.'
+  'La Placa S. J.'
+  'Dacol F.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 31 2 1 S'
+_space_group_IT_number 152
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.33333'
+   '-x+y, -x, z+0.66667'
+   'y, x, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'x-y, -y, -z'
+_cell_length_a        4.67640
+_cell_length_b        4.67640
+_cell_length_c        5.24750
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.450   0.000   0.000    1.00000    0.381
+o      0.401   0.297   -0.096    1.00000    0.747
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       7200000.000000
+_exptl_crystal_density_diffrn    3.012000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.049881        205.56
+     3.206089       1000.00
+     2.338200        138.54
+     2.202019        157.46
+     2.135770         58.44
+     2.024941         87.79
+     1.889164         16.22
+     1.749167         16.97
+     1.745616         80.22
+     1.605793         21.67
+     1.603045         78.59
+     1.530711          3.85
+     1.469468        113.22
+     1.400621         29.40
+     1.349960          0.58
+     1.323695         60.88
+     1.322154         81.26
+     1.307391         78.65
+     1.248030         50.36
+     1.200391         36.45
+     1.169100          5.84
+     1.151915         37.78
+     1.144101         19.12
+     1.141123         18.80
+     1.123235         43.03
+     1.101009          2.74
+     1.098355          3.64
+     1.068696          1.12
+     1.067885          2.39
+     1.032591         28.86
+     1.015941         13.83
+     1.012470          0.95
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

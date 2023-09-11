@@ -1,0 +1,9 @@
+_chemical_formula_sum  'Fe H O2'
+_chemical_name_mineral  'XLSTranslucentTellow'
+_chemical_name_common  'XLSTranslucentTellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.229049        538.95
+     2.709711        624.58
+     2.464443        1000.0

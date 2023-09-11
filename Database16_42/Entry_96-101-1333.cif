@@ -1,0 +1,109 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011332
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '74'
+_citation_page_first  '546'
+_citation_page_last   '551'
+_citation_year  '1930'
+_citation_title  'The crystal structure of cadmium chloride'
+loop_
+_publ_author_name
+  'Pauling L'
+  'Hoard J L'
+_chemical_formula_sum  'Cd Cl2'
+_chemical_name_common  'Cadmium chloride'
+_symmetry_space_group_name_H-M 'R -3 m'
+_space_group_IT_number 166
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y, -x, -z'
+   '-x, -z, -y'
+   '-z, -y, -x'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y, x, z'
+   'x, z, y'
+   'z, y, x'
+_cell_length_a        6.23000
+_cell_length_b        6.23000
+_cell_length_c        6.23000
+_cell_angle_alpha    36.0300
+_cell_angle_beta     36.0300
+_cell_angle_gamma    36.0300
+_cell_formula_units_Z 1
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.000   0.000   0.000    1.00000    1.000
+cl      0.250   0.250   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.067000
+_exptl_crystal_density_meas      4.050000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.819209        939.79
+     3.277837        689.83
+     3.117143         77.30
+     2.909605         22.19
+     2.651010       1000.00
+     2.412466        285.48
+     1.997725        154.41
+     1.939736         46.49
+     1.926727        343.11
+     1.829077        226.48
+     1.826389        282.05
+     1.661025         79.30
+     1.638919         13.61
+     1.606441         25.32
+     1.558572        153.63
+     1.546888         11.01
+     1.505509         54.21
+     1.454802         38.96
+     1.433238         44.59
+     1.386822         39.08
+     1.366978         73.77
+     1.325505         80.61
+     1.258059         53.01
+     1.248373          9.31
+     1.245811         25.51
+     1.211748        113.91
+     1.206233          4.04
+     1.186302         42.34
+     1.168091          3.56
+     1.163842          6.58
+     1.161014         97.54
+     1.149964         18.91
+     1.125570         35.11
+     1.112396         42.24
+     1.092612         31.87
+     1.092039         79.76
+     1.046167         14.06
+     1.039048          4.71
+     1.037078         34.63
+     1.022399          4.50
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

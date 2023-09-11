@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C8 H7 N O'
+_chemical_name_mineral  'V Irgazin Yellow Light Orange'
+_chemical_name_common  'Irgazin Yellow Light Orange'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.619692        102.54
+     4.153608        203.32
+     3.808283         46.06
+     3.554209        1000.0
+     3.246638        209.96
+     3.086776         62.26
+     3.043040        176.51
+     2.939724         62.98
+     2.809410        238.82
+     2.660082        185.23

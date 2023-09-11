@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Hg S'
+_chemical_name_mineral  'V Vermilion'
+_chemical_name_common  'Vermilion'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.607501         42.26
+     3.372343        1000.0
+     3.178154        111.91
+     2.870380        863.56
+     2.377013         56.42

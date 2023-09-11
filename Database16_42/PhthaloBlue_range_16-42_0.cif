@@ -1,0 +1,16 @@
+_chemical_formula_sum  'Cu'
+_chemical_name_mineral  'V Copper phthalocyanine'
+_chemical_name_common  'Phthalo Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.350960        332.12
+     3.843335        564.53
+     3.562464         62.56
+     3.362348        106.13
+     3.260725         64.14
+     3.082605        1000.0
+     2.894393        204.51
+     2.698366        254.84
+     2.609369         63.86
+     2.231665        272.28

@@ -1,0 +1,20 @@
+_chemical_formula_sum  'Si Al Fe Ca Ca S K Ti P O Na'
+_chemical_name_mineral  'V Pozzuolana'
+_chemical_name_common  'Pozzuolana Red Earth'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.087903         96.91
+     3.798981        153.49
+     3.659488        115.44
+     3.433492        403.35
+     3.274820        237.56
+     3.221230        594.84
+     2.994474        302.51
+     2.953287        486.93
+     2.913073        1000.0
+     2.804180         98.81
+     2.703193        197.32
+     2.561986        161.92
+     2.529063        348.77
+     2.218835        115.08

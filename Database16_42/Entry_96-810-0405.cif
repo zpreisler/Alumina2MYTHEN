@@ -1,0 +1,141 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_8100404
+_citation_journal_full    'ur Kristallographie - New Crystal Structures''
+_citation_journal_volume  '218(3)'
+_citation_page_first  '275'
+_citation_page_last   '275'
+_citation_year  '2003'
+_citation_title  'Crystal structure of sodium alumosilicate cyanide, Na~8~[AlSiO~4~]~6~(CN)~2~'
+loop_
+_publ_author_name
+  'Gesing Thorsten M.'
+  'Buhl J.-C.'
+_chemical_formula_sum  'C2 Al6 N2 Na16 O24 Si6'
+_chemical_name_common  'Cyanide Sodalite'
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_space_group_IT_number 218
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, -y+0.5'
+   'x, -y, -z'
+   '-x+0.5, -z+0.5, y+0.5'
+   '-z+0.5, -y+0.5, x+0.5'
+   '-x, y, -z'
+   'z+0.5, -y+0.5, -x+0.5'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, -z+0.5, -y+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   '-z+0.5, y+0.5, -x+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        8.91922
+_cell_length_b        8.91922
+_cell_length_c        8.91922
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 1
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+na      0.183   0.183   0.183    1.01000    1.600
+si      0.250   0.000   0.500    1.00000    0.800
+al      0.250   0.500   0.000    1.00000    0.600
+o      0.140   0.440   0.150    1.00000    0.700
+c      0.048   0.000   0.000    0.16700    1.600
+n      0.913   0.000   0.000    0.16700    1.600
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    293.000000
+_exptl_crystal_density_diffrn    2.228000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.306841        606.09
+     4.459610         29.60
+     3.988796         13.55
+     3.641256       1000.00
+     3.153420          4.91
+     2.820505        166.05
+     2.574757        287.70
+     2.473747          0.19
+     2.383762        134.55
+     2.229805         14.58
+     2.163229          0.31
+     2.102280        345.99
+     1.994398         21.12
+     1.946333          0.37
+     1.901584         24.03
+     1.820628         43.04
+     1.783844          0.12
+     1.749203         82.24
+     1.656258          2.92
+     1.628419         14.86
+     1.576710         95.04
+     1.529634        104.25
+     1.507623          0.96
+     1.486537         91.96
+     1.466311          0.52
+     1.446889         82.45
+     1.410253         14.38
+     1.392948          0.52
+     1.376266         51.21
+     1.344623         57.52
+     1.329599          0.37
+     1.315067         35.84
+     1.287379         28.92
+     1.274174          0.03
+     1.261368         11.83
+     1.236873          4.53
+     1.225149          0.41
+     1.213752         81.14
+     1.191881         20.02
+     1.171151         27.42
+     1.161184          0.23
+     1.141989          0.53
+     1.132742         23.63
+     1.114902          3.61
+     1.106293          0.27
+     1.097880         35.59
+     1.081614         19.37
+     1.073748          0.42
+     1.066051          2.89
+     1.051140         11.89
+     1.043916          0.06
+     1.036838          6.93
+     1.029903          0.46
+     1.023105         33.10
+     1.016439          1.08
+     1.009903          8.60
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

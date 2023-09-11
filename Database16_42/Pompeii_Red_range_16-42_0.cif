@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Pompeii Red'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.043040        289.38
+     2.899980        1000.0
+     2.698366         97.37
+     2.416036        279.57
+     2.216695        356.58

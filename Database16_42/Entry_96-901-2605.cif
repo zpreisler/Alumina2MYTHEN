@@ -1,0 +1,94 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9012604
+_citation_journal_full    'Solid State Communications'
+_citation_journal_volume  '72'
+_citation_page_first  '507'
+_citation_page_last   '511'
+_citation_year  '1989'
+_citation_title  'High-pressure crystal chemistry and amorphization of alpha-quartzLocality: syntheticSample: P = 9.5 GPa'
+loop_
+_publ_author_name
+  'Hazen R. M.'
+  'Finger L. W.'
+  'Hemley R. J.'
+  'Mao H. K.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_space_group_IT_number 152
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.33333'
+   '-x+y, -x, z+0.66667'
+   'x-y, -y, -z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   'y, x, -z'
+_cell_length_a        4.59400
+_cell_length_b        4.59400
+_cell_length_c        5.20000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.449   0.000   0.333    1.00000    0.510
+o      0.386   0.295   0.241    1.00000    0.859
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       9500000.000000
+_exptl_crystal_density_diffrn    3.149000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.978521        170.89
+     3.159768       1000.00
+     2.297000        170.80
+     2.176457        185.48
+     2.101136         52.91
+     1.989260         86.10
+     1.857950         11.91
+     1.733333         20.92
+     1.721430         81.34
+     1.589070         20.50
+     1.579884         82.81
+     1.503739          7.00
+     1.444551        116.34
+     1.383601         29.31
+     1.326174          2.48
+     1.306830         61.57
+     1.301706         89.48
+     1.285041         75.79
+     1.235705         54.30
+     1.181370         34.75
+     1.148500          5.49
+     1.135867         33.84
+     1.131374         16.66
+     1.121472         21.69
+     1.103443         41.51
+     1.088228          3.35
+     1.079408          3.35
+     1.053256          0.80
+     1.050568          2.93
+     1.015752         23.38
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

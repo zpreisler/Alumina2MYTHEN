@@ -1,0 +1,99 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9015022
+_citation_journal_full    'Materials Research Society Symposia Proceedings'
+_citation_journal_volume  '121'
+_citation_page_first  '155'
+_citation_page_last   '165'
+_citation_year  '1988'
+_citation_title  'Mathematical Modeling of the structures and bulk moduli of TX2 quartzand cristobalite structure types, T = C, Si, Ge and X = O, S'
+loop_
+_publ_author_name
+  'Gibbs G. V.'
+  'Boisen M. B.'
+  'Downs R. T.'
+  'Lasaga A. C.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 32 2 1 S'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y, x, -z+0.66667'
+   '-y, x-y, z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z'
+_cell_length_a        4.92900
+_cell_length_b        4.92900
+_cell_length_c        5.31900
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.464   0.000   0.000    1.00000    1.000
+o      0.414   0.276   0.109    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.675000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.268639        217.79
+     3.329140       1000.00
+     2.464500         83.52
+     2.257245         92.34
+     2.236131         43.42
+     2.134320         59.41
+     1.980802         30.91
+     1.807675        104.78
+     1.773000          5.86
+     1.664570         45.82
+     1.637377         18.92
+     1.613394          2.63
+     1.543930         93.29
+     1.439249         18.11
+     1.422880          2.35
+     1.379409         57.68
+     1.374547         51.25
+     1.363814         58.20
+     1.269575         26.80
+     1.254604         28.14
+     1.232250         11.24
+     1.200456          9.55
+     1.193287         28.84
+     1.183907         31.10
+     1.170269         18.83
+     1.155627         11.55
+     1.128623          1.92
+     1.118066          0.22
+     1.109713          2.72
+     1.081580         27.70
+     1.067160          3.17
+     1.046309         12.09
+     1.032228         11.32
+     1.026139         13.23
+     1.011866         11.64
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   theoretical
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Cr O H'
+_chemical_name_mineral  'V Viridian Green'
+_chemical_name_common  'Viridian Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.362348        1000.0
+     3.246638        574.23
+     2.386918        653.88
+     2.332188        681.32

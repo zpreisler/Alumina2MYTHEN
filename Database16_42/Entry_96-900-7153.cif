@@ -1,0 +1,91 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007152
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '29'
+_citation_page_first  '633'
+_citation_page_last   '641'
+_citation_year  '2002'
+_citation_title  'Bonding character of SiO2 stishovite under high pressures up to 30 GPaSample: P = 9.26 GPa'
+loop_
+_publ_author_name
+  'Yamanaka T.'
+  'Fukuda T.'
+  'Tsuchiya J.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Stishovite'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.13400
+_cell_length_b        4.13400
+_cell_length_c        2.65400
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.000   0.000   0.000    1.00000    0.383
+o      0.306   0.306   0.000    1.00000    0.317
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       9260000.000000
+_exptl_crystal_density_diffrn    4.399000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.923179       1000.00
+     2.233365        251.38
+     2.067000          6.28
+     1.964950        403.88
+     1.848781        146.57
+     1.516998        572.07
+     1.461590        191.80
+     1.327000        100.63
+     1.307286         60.05
+     1.280283         12.68
+     1.222977        256.73
+     1.208324        100.10
+     1.172735         22.05
+     1.146565          4.71
+     1.116682          9.98
+     1.078045         26.48
+     1.052543         26.40
+     1.033500         34.48
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

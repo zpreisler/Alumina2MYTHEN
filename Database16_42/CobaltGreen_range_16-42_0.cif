@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Co2 Ti O4'
+_chemical_name_mineral  'V Cobalt titanate'
+_chemical_name_common  'Cobalt Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.920317         42.07
+     4.387544         59.97
+     3.938561         76.62
+     3.601897         77.49
+     3.459703        160.59
+     3.325279        172.36
+     3.114498        193.68
+     2.982557        324.04
+     2.837799        135.69
+     2.732701        111.37
+     2.537575        1000.0
+     2.419863        220.66
+     2.216695         94.38

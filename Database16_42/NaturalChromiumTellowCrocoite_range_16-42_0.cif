@@ -1,0 +1,20 @@
+_chemical_formula_sum  'Pb Cr O4'
+_chemical_name_mineral  'V Crocoite'
+_chemical_name_common  'Natural Chromium Tellow Crocoite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.028782         50.54
+     4.787120         19.81
+     4.458184        103.71
+     3.758476         92.66
+     3.496826        547.63
+     3.296320        1000.0
+     3.162593        107.27
+     3.036868        522.62
+     2.717863        265.35
+     2.658550         30.97
+     2.600345         83.73
+     2.549018        222.68
+     2.326277        146.58
+     2.257805        356.95

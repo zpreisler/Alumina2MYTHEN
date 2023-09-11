@@ -1,0 +1,107 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1525723
+_citation_journal_full    'Journal of Alloys Compd.'
+_citation_journal_volume  '316'
+_citation_page_first  '21'
+_citation_page_last   '38'
+_citation_year  '2001'
+_citation_title  'Nitrogen ordering and ferromagnetic properties of epsilon-(Fe3 N1+x)(0.10 < x < 0.39) and epsilon-(Fe3 (N0.80 C0.20)1.38)'
+loop_
+_publ_author_name
+  'Leineweber A.'
+  'Huening F.'
+  'Jacobs H.'
+  'Kockelmann W.'
+  'Lueken H.'
+_chemical_formula_sum  'C0.2792 Fe3 N1.1168'
+_chemical_name_common  'Fe3 (N0.8 C0.2)1.396'
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_space_group_IT_number 162
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   '-y, -x, -z'
+   '-x+y, y, -z'
+   'x, x-y, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   'y, x, z'
+   'x-y, -y, z'
+   '-x, -x+y, z'
+_cell_length_a        4.77430
+_cell_length_b        4.77430
+_cell_length_c        4.40630
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.333   0.000   0.250    1.00000    1.000
+n      0.333   0.667   0.000    0.06300    1.000
+n      0.000   0.000   0.000    0.76200    1.000
+c      0.333   0.667   0.000    0.01600    1.000
+n      0.333   0.667   0.500    0.67300    1.000
+c      0.000   0.000   0.000    0.19000    1.000
+c      0.333   0.667   0.500    0.16800    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.122000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.406300          1.06
+     4.134665          0.01
+     3.015108         17.97
+     2.387150        163.58
+     2.203150        213.70
+     2.098921       1000.00
+     2.067333          0.00
+     1.944347          0.00
+     1.871578          2.69
+     1.619008        173.24
+     1.562757          0.00
+     1.507554          0.00
+     1.472866          1.71
+     1.468767          0.02
+     1.384035          0.63
+     1.378222        151.02
+     1.315379          0.05
+     1.274649          0.00
+     1.250946        128.38
+     1.197345          0.32
+     1.193575         12.58
+     1.168431        109.94
+     1.152057         91.48
+     1.146750          0.00
+     1.109782          0.46
+     1.101575         19.87
+     1.070261          0.41
+     1.064444          0.00
+     1.049461         29.00
+     1.033666          0.00
+     1.017205          0.00
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,22 @@
+_chemical_formula_sum  'Ba S O4'
+_chemical_name_mineral  'V Barium Sulphate'
+_chemical_name_common  'BariumSulphate'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.462399        105.57
+     4.367048        167.49
+     3.925177        168.66
+     3.783212        114.48
+     3.587752        626.54
+     3.454428        521.55
+     3.315568        1000.0
+     3.099572        576.48
+     2.834207        383.03
+     2.727763        290.86
+     2.479295         142.4
+     2.319191         107.3
+     2.297193        124.18
+     2.271121        131.95
+     2.210404        202.02
+     2.169206          51.4

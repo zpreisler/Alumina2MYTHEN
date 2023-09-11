@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Pb Sn O'
+_chemical_name_mineral  'V Lead stannate'
+_chemical_name_common  'Lead Tin Yellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.630386         67.28
+     3.352413         50.87
+     3.281915        102.66
+     3.239699         89.67
+     3.097467        1000.0
+     2.682275        430.95
+     2.629110        109.06
+     2.457802          84.2
+     2.238139         56.72

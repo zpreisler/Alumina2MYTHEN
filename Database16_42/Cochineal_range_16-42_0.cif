@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C Al H Ca O'
+_chemical_name_mineral  'V Cochineal'
+_chemical_name_common  'Cochineal'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.334782        278.58
+     4.142508         53.88
+     3.836957        434.79
+     3.076265        1000.0
+     2.883287        204.07
+     2.688688        231.36
+     2.598811          90.7
+     2.410913         58.27
+     2.225230        210.34

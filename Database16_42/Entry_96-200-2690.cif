@@ -1,0 +1,139 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2002689
+_citation_journal_full    'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_citation_journal_volume  '620'
+_citation_page_first  '1137'
+_citation_page_last   '1141'
+_citation_year  '1994'
+_citation_title  'Cd Hg O2: ein Oxomercurat mit Verwandtschaft zur Crednerit-Struktur'
+loop_
+_publ_author_name
+  'Hansen Th'
+  'Mueller-Buschbaum Hk'
+_chemical_formula_sum  'Cd Hg O2'
+_chemical_name_common  'Cadmium mercurate'
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_space_group_IT_number 12
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        5.93300
+_cell_length_b        3.45200
+_cell_length_c        5.87600
+_cell_angle_alpha    90.0000
+_cell_angle_beta     91.2600
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.000   0.000   0.000    1.00000    1.000
+hg      0.000   0.500   0.500    1.00000    1.000
+o      0.334   0.000   0.793    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    9.523000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.874579        159.46
+     2.983532        126.72
+     2.965783        532.66
+     2.937290        475.55
+     2.672083        713.77
+     2.671257         16.76
+     2.648324       1000.00
+     2.624405         59.19
+     2.110308        255.72
+     2.104806         33.57
+     2.081656         15.35
+     2.064405        200.73
+     1.958193         20.80
+     1.726000        129.99
+     1.715691          8.40
+     1.656003         13.27
+     1.655414        196.77
+     1.650907          8.95
+     1.645450        216.32
+     1.638500        190.60
+     1.628837        170.80
+     1.617853          3.74
+     1.493946         17.13
+     1.491766        117.74
+     1.488101        109.48
+     1.482891         57.26
+     1.469319         15.96
+     1.468645         64.83
+     1.449707          6.53
+     1.445354          7.89
+     1.442077         15.72
+     1.430347          3.19
+     1.336041         95.23
+     1.335629         41.82
+     1.327777         34.87
+     1.324162         80.47
+     1.323468          5.47
+     1.312203         44.48
+     1.311918         11.09
+     1.304755         41.43
+     1.302827         68.01
+     1.294816          9.45
+     1.278412         63.12
+     1.194885          1.55
+     1.193032          5.73
+     1.180377          3.02
+     1.174916          1.47
+     1.169856          2.65
+     1.129608          5.38
+     1.126372          3.43
+     1.124779         41.59
+     1.121912          5.20
+     1.118524         46.79
+     1.110149         37.43
+     1.108426         46.87
+     1.108132          6.03
+     1.106242         46.73
+     1.105333          3.32
+     1.101325          2.92
+     1.100642          2.29
+     1.097797         36.15
+     1.097349         37.71
+     1.089104         38.79
+     1.084190          2.53
+     1.056300         37.20
+     1.055811          3.65
+     1.055404          2.42
+     1.055154         19.83
+     1.052853          2.39
+     1.052403         32.11
+     1.044597         40.51
+     1.040872          3.59
+     1.040828         38.45
+     1.032203         15.34
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

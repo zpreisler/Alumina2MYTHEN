@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Cd S Se Zr Ti'
+_chemical_name_mineral  'V IWAEnogu Iwabeni'
+_chemical_name_common  'IWAEnogu Iwabeni'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.642087        574.74
+     3.367338        1000.0
+     3.207492        619.92
+     2.477907        225.66

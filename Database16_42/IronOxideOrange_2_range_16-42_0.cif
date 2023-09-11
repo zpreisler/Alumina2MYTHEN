@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Fe2 O3 '
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Iron Oxide Orange'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.217536        665.27
+     3.706937        161.35
+     3.392518        193.58
+     2.698366        1000.0
+     2.522050        313.31
+     2.195787        499.68

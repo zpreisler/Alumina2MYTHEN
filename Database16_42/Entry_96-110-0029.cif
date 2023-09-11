@@ -1,0 +1,108 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1100028
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie'
+_citation_journal_volume  '90(1-6)'
+_citation_page_first  '120'
+_citation_page_last   '142'
+_citation_year  '1935'
+_citation_title  'Geometrical and Optical Properties, and Crystal Structure of Tenorite'
+loop_
+_publ_author_name
+  'Tunell G.'
+  'Posnjak E.'
+  'Ksanda C. J.'
+_chemical_formula_sum  'Cu O'
+_chemical_name_mineral  'Tenorite'
+_chemical_name_common  'copper(II) oxide'
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_space_group_IT_number 15
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.65300
+_cell_length_b        3.41000
+_cell_length_c        5.10800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     99.4800
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.250   0.000    1.00000    1.000
+o      0.000   0.916   0.750    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.609000
+_exptl_crystal_density_meas      6.450000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.737159         59.93
+     2.519120        302.54
+     2.510819        801.12
+     2.311769       1000.00
+     2.294727        230.22
+     1.951564         16.32
+     1.855348        279.39
+     1.769019         10.53
+     1.705000        111.06
+     1.615028          6.95
+     1.572378        144.32
+     1.498570        198.67
+     1.411992        153.56
+     1.400358        148.75
+     1.395790          3.31
+     1.372610         93.09
+     1.368580        134.18
+     1.354816          2.88
+     1.307004          2.37
+     1.295951         73.19
+     1.289076          2.24
+     1.259560         55.13
+     1.255410         64.38
+     1.196468          1.55
+     1.189920         20.96
+     1.189455          1.48
+     1.162768         46.95
+     1.155885         46.07
+     1.149849          1.26
+     1.147364         37.18
+     1.115958          1.12
+     1.115780         16.42
+     1.103790          1.05
+     1.103331          0.00
+     1.086820         60.44
+     1.068981         28.33
+     1.034621         12.81
+     1.025680          0.00
+     1.013959          0.77
+     1.013295          0.78
+     1.013095         29.51
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

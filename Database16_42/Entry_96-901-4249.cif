@@ -1,0 +1,121 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9014248
+_citation_journal_full    'Skrifter utgitt av det Norske Videnskaps-Akademi i Oslo'
+_citation_journal_volume  '1'
+_citation_page_first  '1'
+_citation_page_last   '165'
+_citation_year  '1928'
+_citation_title  'Untersuchungen ueber die Kristallstruktur von Sesquioxyden undVerbindungen ABO3_cod_database_code 1010586'
+loop_
+_publ_author_name
+  'Zachariasen W.'
+_chemical_formula_sum  'Mn2 O3'
+_chemical_name_mineral  'Bixbyite'
+_symmetry_space_group_name_H-M 'I 21 3'
+_space_group_IT_number 199
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x+0.5'
+   '-y, -z+0.5, x'
+   '-y+0.5, -z, x+0.5'
+   'z, -x, -y+0.5'
+   'z+0.5, -x+0.5, -y'
+   '-y+0.5, z, -x'
+   '-y, z+0.5, -x+0.5'
+   '-z, -x+0.5, y'
+   '-z+0.5, -x, y+0.5'
+   '-z+0.5, x, -y'
+   '-z, x+0.5, -y+0.5'
+   'y, -z, -x+0.5'
+   'y+0.5, -z+0.5, -x'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   'x, -y, -z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y, -z'
+   '-x, y+0.5, -z+0.5'
+_cell_length_a        9.41000
+_cell_length_b        9.41000
+_cell_length_c        9.41000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.250   0.250   0.250    1.00000    1.000
+mn      0.021   0.000   0.250    1.00000    1.000
+mn      0.542   0.000   0.250    1.00000    1.000
+o      0.125   0.125   0.375    1.00000    1.000
+o      0.125   0.375   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.034000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.653875          2.89
+     4.705000          1.73
+     3.841616          5.87
+     2.975703          4.62
+     2.716433       1000.00
+     2.514928        164.46
+     2.352500        127.53
+     2.217958         57.61
+     2.104140         10.42
+     2.006219          1.10
+     1.920808          7.05
+     1.845453         59.41
+     1.718023         43.71
+     1.663469        473.69
+     1.613802         22.38
+     1.568333          3.55
+     1.526504         37.62
+     1.487852          8.08
+     1.451994         22.75
+     1.418611        204.87
+     1.387429         14.98
+     1.358216         14.49
+     1.330775         18.77
+     1.304932          7.56
+     1.280539         22.43
+     1.257464         10.37
+     1.235594          2.24
+     1.195071         17.21
+     1.176250         43.27
+     1.158291         20.02
+     1.141130         11.86
+     1.124710         18.62
+     1.108979          7.46
+     1.093890         20.60
+     1.079401         45.03
+     1.065473          7.23
+     1.052070         11.26
+     1.039161          5.56
+     1.026715          5.47
+     1.014706         23.89
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

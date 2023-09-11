@@ -1,0 +1,166 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2300129
+_citation_journal_full    'Journal of Applied Crystallography'
+_citation_journal_volume  '40(4)'
+_citation_page_first  '761'
+_citation_page_last   '770'
+_citation_year  '2007'
+_citation_title  'Crystal structures and thermal expansion of \a-MgSO~4~ and \b-MgSO~4~from 4.2 to 300K by neutron powder diffraction'
+loop_
+_publ_author_name
+  'Fortes A. D.'
+  'Wood I. G.'
+  'Vocadlo L.'
+  'Brand H. E. A.'
+  'Knight K. S.'
+_chemical_formula_sum  'Mg O4 S'
+_chemical_name_common  'Magnesium sulfate'
+_symmetry_space_group_name_H-M 'C m c m'
+_space_group_IT_number 63
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, -y, z+0.5'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, y, -z+0.5'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        5.16863
+_cell_length_b        7.86781
+_cell_length_c        6.46674
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mg      0.000   0.000   0.000    1.00000    0.666
+s      0.000   0.351   0.250    1.00000    0.623
+o      0.000   0.250   0.063    1.00000    0.649
+o      0.234   0.462   0.250    1.00000    0.657
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    4.000000
+_exptl_crystal_density_diffrn    3.040000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.319866          1.37
+     3.933905         24.22
+     3.592112       1000.00
+     3.360883        554.91
+     3.233370         36.56
+     2.588573        528.87
+     2.584315        196.35
+     2.497903         30.73
+     2.338757        237.33
+     2.199341          0.02
+     2.159933        118.13
+     2.048678         29.57
+     2.018736        108.27
+     1.966952         54.32
+     1.928786          0.28
+     1.894995          0.29
+     1.890388         79.11
+     1.881828          1.68
+     1.796056        109.91
+     1.682998          6.51
+     1.680442         81.79
+     1.628742         55.79
+     1.616685         84.39
+     1.585032         61.62
+     1.565174          2.76
+     1.525762         12.26
+     1.521251         57.08
+     1.514125          0.71
+     1.505345         12.03
+     1.495336         28.31
+     1.492873         46.33
+     1.466145         11.43
+     1.452964          0.17
+     1.439955         56.38
+     1.408797        199.55
+     1.405532          0.59
+     1.370591         12.70
+     1.364694         16.02
+     1.329879         63.36
+     1.326556          0.01
+     1.315409          2.38
+     1.311302          4.46
+     1.294286          0.68
+     1.292157         54.60
+     1.285146          0.20
+     1.266517         26.33
+     1.248952          1.45
+     1.239009         40.50
+     1.234184         45.75
+     1.228649         14.23
+     1.227629          1.00
+     1.215172          3.51
+     1.206088         25.55
+     1.199890          1.17
+     1.197371         11.79
+     1.169378          3.65
+     1.165907          2.07
+     1.161884          5.55
+     1.150716         24.01
+     1.147691          0.02
+     1.143573         11.50
+     1.131812          1.05
+     1.124515          3.02
+     1.120294          0.05
+     1.109628          5.08
+     1.101700          6.85
+     1.099671          2.25
+     1.098304          0.31
+     1.093432          4.81
+     1.082798          0.06
+     1.080661          0.00
+     1.079967          5.54
+     1.077790          6.02
+     1.075277         38.68
+     1.066760         17.43
+     1.065214          0.03
+     1.045734         20.64
+     1.039946         29.90
+     1.039483          4.30
+     1.027871         16.55
+     1.025511         19.69
+     1.024917          0.18
+     1.024339         28.33
+     1.022770         33.59
+     1.018414         13.23
+     1.012282         13.10
+     1.009368         27.20
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Formed by reacting MgO with H2SO4 in excess then drying for 24 hr at 400C.
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

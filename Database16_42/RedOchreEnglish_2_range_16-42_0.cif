@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Red Ochre English'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.966217        128.19
+     3.706937        180.94
+     3.018605        204.68
+     2.706448        1000.0
+     2.516442        498.52
+     2.210404        287.64

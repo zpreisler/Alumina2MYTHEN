@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Fe C K N O'
+_chemical_name_mineral  'X Prussian Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.628783        616.63
+     3.038687        544.14
+     2.557318       1000.00
+     2.291133        916.47
+     2.104111        483.62

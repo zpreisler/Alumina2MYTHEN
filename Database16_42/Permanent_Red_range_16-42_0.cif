@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C26 H22 N4 O4'
+_chemical_name_mineral  'V Permanent Red'
+_chemical_name_common  'Permanent Red'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843        367.95
+     3.821027        538.11
+     3.483513        158.99
+     3.074193        1000.0
+     2.879574        214.76
+     2.685478        221.09
+     2.598811         83.46
+     2.218835        206.97

@@ -1,0 +1,135 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9014524
+_citation_journal_full    'The Canadian Mineralogist'
+_citation_journal_volume  '48'
+_citation_page_first  '1225'
+_citation_page_last   '1236'
+_citation_year  '2010'
+_citation_title  'Temperature dependence of the structural parametersin the transformation of aragonite to calcite,as determined from in situ synchrotron powder X-ray-diffraction dataNote: T = 599 CNote: P = 101 kPa'
+loop_
+_publ_author_name
+  'Antao S. M.'
+  'Hassan I.'
+_chemical_formula_sum  'C Ca O3'
+_chemical_name_mineral  'Calcite'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        4.97660
+_cell_length_b        4.97660
+_cell_length_c       17.37570
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ca      0.000   0.000   0.000    1.00000    2.937
+c      0.000   0.000   0.250    1.00000    4.974
+o      0.251   0.000   0.250    1.00000    4.974
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.676000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.860894         80.01
+     3.059505       1000.00
+     2.895950         15.80
+     2.488300        140.91
+     2.286242        137.32
+     2.091551        125.75
+     1.939587        166.08
+     1.930447         54.49
+     1.887306        163.69
+     1.621863         20.70
+     1.611530          9.32
+     1.601074         74.09
+     1.529752         19.34
+     1.525348         14.20
+     1.525256         38.40
+     1.474969         11.06
+     1.447975         22.88
+     1.436621         35.63
+     1.361900          6.30
+     1.352632         15.13
+     1.303179         17.56
+     1.286965          7.29
+     1.251503         14.14
+     1.244150          6.90
+     1.216402          0.00
+     1.192654          2.72
+     1.192522          0.00
+     1.188397         14.56
+     1.184185          5.21
+     1.152502         19.61
+     1.143121         11.82
+     1.134003          1.59
+     1.130342          0.00
+     1.076972          0.00
+     1.075497          4.30
+     1.069274          0.36
+     1.053065          5.97
+     1.050161          0.92
+     1.047221         11.68
+     1.045805          0.00
+     1.045776          9.42
+     1.033285          0.80
+     1.019835         10.33
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Cuenca, Spain
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

@@ -1,0 +1,17 @@
+_chemical_formula_sum  'C13 H12 O8'
+_chemical_name_mineral  'Nettle'
+_chemical_name_common  'Nettle'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        264.22
+     3.824105        335.69
+     3.532156        977.31
+     3.076265        1000.0
+     2.881384        222.48
+     2.691906        225.99
+     2.598811         104.4
+     2.427617         72.43
+     2.377013        277.95
+     2.328649         76.48
+     2.218835        230.51

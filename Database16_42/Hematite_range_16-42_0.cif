@@ -1,0 +1,13 @@
+_chemical_formula_sum  'Fe O Si'
+_chemical_name_mineral  'V Iron oxide Quartz Silica'
+_chemical_name_common  'Hematite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.700861        103.54
+     3.352413         164.8
+     3.072123         69.34
+     2.894393        330.03
+     2.698366        1000.0
+     2.517807        273.11
+     2.210404        184.26

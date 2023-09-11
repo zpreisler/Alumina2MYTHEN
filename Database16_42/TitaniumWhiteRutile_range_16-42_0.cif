@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Ti O2'
+_chemical_name_mineral  'V Rutile'
+_chemical_name_common  'Titanium White Rutile'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.260725        1000.0
+     3.076265         38.74
+     3.028712         58.87
+     2.488789        612.57
+     2.299503         99.68
+     2.189572        335.46

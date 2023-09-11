@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Co Al S P'
+_chemical_name_mineral  'V Cobalt Blue'
+_chemical_name_common  'Cobalt Blue Dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.066469        126.28
+     3.518429        244.96
+     2.836046        583.89
+     2.644539        1000.0
+     2.328649        253.46

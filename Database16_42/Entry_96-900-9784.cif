@@ -1,0 +1,96 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009783
+_citation_journal_full    'Journal of the American Chemical Society'
+_citation_journal_volume  '47'
+_citation_page_first  '781'
+_citation_page_last   '790'
+_citation_year  '1925'
+_citation_title  'Crystal structures of hematite and corundumLocality: Ceylon'
+loop_
+_publ_author_name
+  'Pauling L.'
+  'Hendricks S. B.'
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_mineral  'Corundum'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        5.12000
+_cell_length_b        5.12000
+_cell_length_c        5.12000
+_cell_angle_alpha    55.2800
+_cell_angle_beta     55.2800
+_cell_angle_gamma    55.2800
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.355   0.355   0.355    1.00000    1.000
+o      0.553   -0.053   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.008000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.473977        548.48
+     2.546650       1000.00
+     2.375243        433.13
+     2.161714         12.60
+     2.081763        929.63
+     1.960749          5.56
+     1.736988        500.85
+     1.598734        768.78
+     1.543906         28.57
+     1.512103         18.57
+     1.508382        107.50
+     1.402082        369.86
+     1.371347        505.70
+     1.333702         13.63
+     1.273325         23.55
+     1.237009        133.49
+     1.232094         76.28
+     1.191108          7.75
+     1.187621         54.28
+     1.157992          2.32
+     1.136640          2.66
+     1.123768         29.07
+     1.122239         39.75
+     1.097139         55.36
+     1.080857          8.10
+     1.076334         77.83
+     1.044454          1.89
+     1.040881        124.89
+     1.015815         19.20
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

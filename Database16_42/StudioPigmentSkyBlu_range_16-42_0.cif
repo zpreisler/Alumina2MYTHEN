@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Ca C O3'
+_chemical_name_mineral  'V Calcite'
+_chemical_name_common  'Studio Pigment Sky Blu'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.908491         50.51
+     3.057510        1000.0
+     2.859463          24.3
+     2.508078        127.59
+     2.298319        193.51

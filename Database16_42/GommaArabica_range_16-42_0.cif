@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C12 H36'
+_chemical_name_mineral  'V Gomma Arabica'
+_chemical_name_common  'Gomma Arabica'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750         500.8
+     3.824105        879.53
+     3.507661        354.71
+     3.069953        1000.0
+     2.870380        222.51
+     2.682275         290.4
+     2.594365         78.82
+     2.534731         65.98
+     2.398266         35.43
+     2.215652         247.5

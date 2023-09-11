@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C'
+_chemical_name_mineral  'Vine_Black'
+_chemical_name_common  'Vine_Black'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.334782        316.39
+     3.830601        535.98
+     3.379880        451.28
+     3.076265        1000.0
+     2.879574        213.02
+     2.691906        254.22
+     2.598811         71.76
+     2.538964         45.79
+     2.223077        252.53

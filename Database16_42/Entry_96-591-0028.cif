@@ -1,0 +1,89 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_5910027
+_citation_journal_full    'The second edition of Structure of Crystals'
+_citation_page_first  '275'
+_citation_page_last   '275'
+_citation_year  '1931'
+_citation_title  'Page 275 from the second edition of Structure of Crystals by Wyckoffpublished by The Chemical Catalog Company, INC, New York in 1931& http://www.crystallography.net/'
+loop_
+_publ_author_name
+  'Wyckoff R. W. G.'
+_chemical_formula_sum  'C Co O3'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        5.67000
+_cell_length_b        5.67000
+_cell_length_c        5.67000
+_cell_angle_alpha    48.1400
+_cell_angle_beta     48.1400
+_cell_angle_gamma    48.1400
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.250   0.250   0.250    1.00000    1.000
+c      0.000   0.000   0.000    1.00000    1.000
+o      0.239   -0.239   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.983000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.533416         16.82
+     2.738034       1000.00
+     2.500927         46.56
+     2.312523         94.57
+     1.934957        178.88
+     1.766708         33.33
+     1.698665        172.96
+     1.697904        195.98
+     1.483993        132.80
+     1.405184          4.12
+     1.403894         24.25
+     1.369017         13.15
+     1.335136         44.24
+     1.250464         32.34
+     1.200869         23.46
+     1.178059         12.68
+     1.177805         10.62
+     1.156262          6.69
+     1.099951         13.30
+     1.098920          6.05
+     1.065741         31.65
+     1.065177         39.75
+     1.049521         28.17
+     1.035396          1.55
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Warning: Ambiguous space group information. Crystal system has been deduced from unit cell parameters only! 
+##############################################################################
+
+

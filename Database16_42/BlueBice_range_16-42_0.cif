@@ -1,0 +1,22 @@
+_chemical_formula_sum  'Cu Ca C'
+_chemical_name_mineral  'V Basic copper calcium carbonate'
+_chemical_name_common  'BlueBice'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.253176         55.91
+     4.142508         23.16
+     3.885406         90.47
+     3.709830        129.43
+     3.551419        157.76
+     3.475495         34.79
+     3.036868        1000.0
+     2.855814        135.46
+     2.785145          45.1
+     2.671169         35.95
+     2.598811         35.21
+     2.522050        155.98
+     2.468499         38.87
+     2.341701         42.21
+     2.288060        175.08
+     2.234897         73.41

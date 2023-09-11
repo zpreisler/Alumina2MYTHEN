@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Zn O'
+_chemical_name_mineral  'V Zinc White'
+_chemical_name_common  'Zinc White'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.728055         17.76
+     2.913073         19.03
+     2.816474        525.16
+     2.691906         24.79
+     2.606354        403.28
+     2.477907        1000.0

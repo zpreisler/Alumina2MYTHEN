@@ -1,0 +1,113 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_7054164
+_citation_page_first  '1558'
+_citation_page_last   '1561'
+_citation_year  '2009'
+_citation_title  'Magnetism and lattice dynamics of FeNCN compared to FeO'
+loop_
+_publ_author_name
+  'Herlitschke M.'
+  'Tchougr?eff A. L.'
+  'Soudackov A. V.'
+  'Klobes B.'
+  'Stork L.'
+  'Dronskowski R.'
+  'Hermann R. P.'
+_chemical_formula_sum  'C Fe N2'
+_chemical_name_common  'Iron(II) cyanamide'
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_space_group_IT_number 194
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+   '-x+y, y, -z+0.5'
+   'x, x-y, -z+0.5'
+   '-x, -y, -z'
+   '-x+y, -x, -z+0.5'
+   'y, -x+y, -z'
+   'x, y, -z+0.5'
+   'x-y, x, -z'
+   '-y, x-y, -z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.26890
+_cell_length_b        3.26890
+_cell_length_c        9.40080
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      1.000   0.000   0.500    1.00000    0.013
+n      0.667   0.333   0.380    1.00000    0.015
+c      0.667   0.333   0.250    1.00000    0.012
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    293.000000
+_exptl_crystal_density_diffrn    3.660000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.700400        561.38
+     2.830950        304.00
+     2.710707        229.03
+     2.425079       1000.00
+     2.350200         70.14
+     2.100655         10.73
+     1.808274        423.05
+     1.634450        275.04
+     1.566800         21.02
+     1.566208          0.94
+     1.543781        146.39
+     1.415475         38.68
+     1.399698         14.96
+     1.370851        148.13
+     1.355354        131.76
+     1.341855         70.39
+     1.289976          1.16
+     1.213363         10.70
+     1.212539         94.38
+     1.175100         25.37
+     1.131055         39.73
+     1.130832          0.18
+     1.085314         32.14
+     1.069999         30.61
+     1.063134         11.07
+     1.050327         61.59
+     1.043308        113.16
+     1.012594          0.89
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

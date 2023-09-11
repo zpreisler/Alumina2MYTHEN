@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C18 H30 O2'
+_chemical_name_mineral  'Olio'
+_chemical_name_common  'Olio'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.318726        381.71
+     3.821027        539.02
+     3.065828        1000.0
+     2.872178        206.37
+     2.790302         31.43
+     2.682275        256.09
+     2.594365         77.58
+     2.216695        248.88

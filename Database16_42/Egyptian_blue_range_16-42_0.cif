@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Ca Cu Si4 O10'
+_chemical_name_mineral  'V Cuprorivaite'
+_chemical_name_common  'Egyptian blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843         31.58
+     3.802023        820.54
+     3.656527         34.12
+     3.362348        1000.0
+     3.298713        112.16
+     3.191634        103.79
+     3.053318        249.03
+     3.000469        233.39
+     2.618459        477.59
+     2.520611         59.96
+     2.378223        185.42
+     2.320398         48.03
+     2.264442        306.28

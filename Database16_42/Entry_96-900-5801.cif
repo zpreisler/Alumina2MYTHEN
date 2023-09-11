@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9005800
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '13'
+_citation_page_first  '146'
+_citation_page_last   '151'
+_citation_year  '1986'
+_citation_title  'High temperature X-ray study of single crystal stishovitesynthesized with Li2WO4 as fluxSample: T = 400 C'
+loop_
+_publ_author_name
+  'Endo S.'
+  'Akai T.'
+  'Akahama Y.'
+  'Wakatsuki M.'
+  'Nakamura T.'
+  'Tomii Y.'
+  'Koto K.'
+  'Ito Y.'
+  'Tokonami M.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Stishovite'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.19290
+_cell_length_b        4.19290
+_cell_length_c        2.67040
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.000   0.000   0.000    1.00000    0.450
+o      0.305   0.305   0.000    1.00000    0.469
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    673.100000
+_exptl_crystal_density_diffrn    4.250000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.964828       1000.00
+     2.252380        249.73
+     2.096450          6.06
+     1.984209        399.01
+     1.875122        145.89
+     1.534581        565.72
+     1.482414        192.30
+     1.335200         96.64
+     1.325911         60.23
+     1.296098         12.16
+     1.238286        250.61
+     1.217440         96.47
+     1.187579         21.72
+     1.162901          4.60
+     1.126190          9.90
+     1.087641         24.52
+     1.066191         26.24
+     1.048225         33.49
+     1.016928         23.40
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

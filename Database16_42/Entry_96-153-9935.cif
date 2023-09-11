@@ -1,0 +1,133 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1539934
+_citation_journal_full    'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_citation_journal_volume  '276'
+_citation_page_first  '95'
+_citation_page_last   '112'
+_citation_year  '1954'
+_citation_title  'Zur Kenntnis der faserigen Siliciumdioxyd-Modifikation'
+loop_
+_publ_author_name
+  'Weiss A.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'I c m a'
+_space_group_IT_number 72
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   'x, -y+0.5, -z'
+   'x+0.5, -y, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'x, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   '-x, y+0.5, z'
+   '-x+0.5, y, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.72000
+_cell_length_b        5.16000
+_cell_length_c        8.36000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.000   0.250   0.000    1.00000    1.000
+o      0.209   0.000   0.110    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    1.960000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.180000        514.52
+     4.110155       1000.00
+     2.675696        462.01
+     2.580000          2.37
+     2.399655         96.23
+     2.360000          0.00
+     2.195473         60.76
+     2.185166        116.71
+     2.090000          0.03
+     2.078772         19.42
+     2.055077         52.60
+     1.792078         13.09
+     1.757113        114.36
+     1.741364        155.35
+     1.700350         15.09
+     1.624002        123.70
+     1.607454         87.62
+     1.576038         17.83
+     1.564643         93.02
+     1.546190          6.72
+     1.507317         40.65
+     1.415957         16.26
+     1.393333          2.58
+     1.371182          2.75
+     1.370052         29.96
+     1.344950         48.68
+     1.337848          2.84
+     1.326257         67.49
+     1.318978          0.53
+     1.293646         13.83
+     1.290000         24.19
+     1.278443          2.48
+     1.243853          3.18
+     1.232636         15.85
+     1.230803         31.91
+     1.225975         24.20
+     1.221267          1.08
+     1.210025         11.63
+     1.199827         20.45
+     1.180000         10.12
+     1.157798          9.92
+     1.145809         21.22
+     1.139568          3.35
+     1.136227         14.40
+     1.135618         10.21
+     1.131935          0.85
+     1.118571          5.10
+     1.097737          0.60
+     1.092583         11.83
+     1.087937          6.24
+     1.073090          2.67
+     1.068878          0.20
+     1.063278          4.73
+     1.056311         13.32
+     1.055263          5.43
+     1.047182          3.33
+     1.045000          8.21
+     1.043588          1.87
+     1.039386         11.49
+     1.027539          2.64
+     1.022414          2.67
+     1.014859          0.50
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,94 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514101
+_citation_journal_full    'Izvestiya Akademii Nauk SSSR, Seriya Fizicheskaya'
+_citation_journal_volume  '15'
+_citation_page_first  '179'
+_citation_page_last   '186'
+_citation_year  '1951'
+_citation_title  'The structure of the modifications of manganese oxide'
+loop_
+_publ_author_name
+  'Kondrashev Yu. D.'
+  'Zaslavskii A. I.'
+_chemical_formula_sum  'Mn O2'
+_chemical_name_mineral  'Pyrolusite'
+_chemical_name_common  'Manganese(IV) Oxide - Beta'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.38800
+_cell_length_b        4.38800
+_cell_length_c        2.86500
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.000   0.000   0.000    1.00000    1.000
+o      0.302   0.302   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.233000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.102785       1000.00
+     2.398938        537.40
+     2.194000         90.94
+     2.104911        134.55
+     1.962373         41.31
+     1.619005        504.70
+     1.551392        143.88
+     1.432500         65.59
+     1.387607         78.70
+     1.364223          3.00
+     1.302716        152.33
+     1.300581         86.10
+     1.248842          7.80
+     1.217012          1.41
+     1.199469         22.72
+     1.157021          6.43
+     1.120140         42.42
+     1.097000         24.45
+     1.064246          5.68
+     1.052455         55.61
+     1.034262         27.40
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

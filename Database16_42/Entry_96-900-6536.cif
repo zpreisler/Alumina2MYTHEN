@@ -1,0 +1,89 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9006535
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '25'
+_citation_page_first  '130'
+_citation_page_last   '137'
+_citation_year  '1998'
+_citation_title  'Pressure dependence of hydrogen bonding in metal deuteroxides: a neutron powder diffraction study of Mn(OD)2 and beta-Co(OD)2. Sample: P = 0.0 GPa'
+loop_
+_publ_author_name
+  'Parise J. B.'
+  'Theroux B.'
+  'Li R.'
+  'Loveday J. S.'
+  'Marshall W. G.'
+  'Klotz S.'
+_chemical_formula_sum  'Co D2 O2'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        3.18340
+_cell_length_b        3.18340
+_cell_length_c        4.64450
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    0.076
+o      0.333   0.667   0.225    1.00000    0.655
+h      0.371   -0.371   0.427    0.33330    0.126
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.866000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.644500        907.93
+     2.756905        328.94
+     2.370710       1000.00
+     2.322250         40.04
+     1.776110        488.11
+     1.591700        240.17
+     1.548167         21.91
+     1.505732        199.33
+     1.378453         41.44
+     1.349886        154.78
+     1.321479        120.82
+     1.312905         46.28
+     1.185355        104.12
+     1.161125         19.49
+     1.109790         43.27
+     1.070089         43.58
+     1.042012         35.58
+     1.029507         62.36
+     1.016738        103.94
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

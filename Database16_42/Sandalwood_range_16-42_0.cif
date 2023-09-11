@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C30 H48 O2'
+_chemical_name_mineral  'Sandalwood'
+_chemical_name_common  'Sandalwood'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885        353.22
+     3.821027         515.7
+     3.065828        1000.0
+     2.874068        217.88
+     2.680638        244.23
+     2.603346         86.08
+     2.216695        229.44

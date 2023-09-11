@@ -1,0 +1,126 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_8103726
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (145,1977-148,1979)'
+_citation_journal_volume  '148'
+_citation_page_first  '237'
+_citation_page_last   '253'
+_citation_year  '1978'
+_citation_title  'Thermal change in unit-cell dimensions, and a hexagonal structure oftridymite'
+loop_
+_publ_author_name
+  'Kihara K.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_space_group_IT_number 194
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+   '-x+y, y, -z+0.5'
+   'x, x-y, -z+0.5'
+   '-x, -y, -z'
+   '-x+y, -x, -z+0.5'
+   'y, -x+y, -z'
+   'x, y, -z+0.5'
+   'x-y, x, -z'
+   '-y, x-y, -z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        5.05200
+_cell_length_b        5.05200
+_cell_length_c        8.27000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.333   0.667   0.062    1.00000    1.000
+o      0.333   0.667   0.250    1.00000    1.000
+o      0.500   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.183000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.375160       1000.00
+     4.135000        545.67
+     3.867308        548.33
+     3.005204        192.55
+     2.526000        219.71
+     2.332316        102.53
+     2.187580          5.54
+     2.155609          6.17
+     2.114842         79.42
+     2.067500         46.84
+     1.933654         60.85
+     1.869295         25.87
+     1.713583         39.39
+     1.653655         78.45
+     1.621555         56.26
+     1.599917          0.01
+     1.547135         82.61
+     1.535424         35.30
+     1.502602         24.20
+     1.458387         32.29
+     1.418076         41.99
+     1.378333          0.54
+     1.375352          3.73
+     1.319336         43.25
+     1.314639          2.48
+     1.291393          8.58
+     1.263000         62.94
+     1.213451         20.85
+     1.209929         38.48
+     1.207911         39.47
+     1.200596         15.70
+     1.191733          0.00
+     1.169433         53.53
+     1.166158         30.40
+     1.164351         11.43
+     1.140577          0.80
+     1.110613         18.38
+     1.093790          0.00
+     1.084347          5.32
+     1.077804         13.03
+     1.058775          2.54
+     1.057421          1.97
+     1.046517          3.32
+     1.039519          0.65
+     1.033750          0.18
+     1.016684          7.25
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

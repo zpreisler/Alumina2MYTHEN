@@ -1,0 +1,107 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9013305
+_citation_journal_full    'The Canadian Mineralogist'
+_citation_journal_volume  '36'
+_citation_page_first  '775'
+_citation_page_last   '778'
+_citation_year  '1998'
+_citation_title  'The occurence of two rare polytypes of wurtzite, 4H and 8H,at Mont Saint-Hilaire, QuebecLocality: Mont Saint-Hilaire, Quebec, Canada'
+loop_
+_publ_author_name
+  'Chao G. Y.'
+  'Gault R. A.'
+_chemical_formula_sum  'S Zn'
+_chemical_name_mineral  'Wurtzite-4H'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.82270
+_cell_length_b        3.82270
+_cell_length_c       12.52000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.000   0.000   0.000    1.00000    1.000
+zn      0.333   0.667   0.250    1.00000    1.000
+s      0.000   0.000   0.188    1.00000    1.000
+s      0.333   0.667   0.438    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.085000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.310555        251.11
+     3.200556       1000.00
+     3.130000        643.50
+     2.926517        815.84
+     2.593610        124.56
+     2.274397         92.45
+     1.997079        302.03
+     1.911350        712.64
+     1.765266        525.37
+     1.655278         26.12
+     1.640998        112.01
+     1.631251        455.93
+     1.600278        114.68
+     1.573600         53.44
+     1.565000         17.24
+     1.538667         21.89
+     1.463259         18.50
+     1.414871          4.23
+     1.380841         73.71
+     1.296805        154.84
+     1.282486         23.06
+     1.251272         17.02
+     1.245070         73.64
+     1.227001         75.77
+     1.214851         18.44
+     1.210880         33.60
+     1.198559         14.85
+     1.171054        103.34
+     1.161870         14.50
+     1.137199          1.59
+     1.119302         64.65
+     1.103518         84.88
+     1.076345         28.36
+     1.073122        152.09
+     1.064966         11.27
+     1.043333         13.37
+     1.040731         79.64
+     1.025278         20.11
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,21 @@
+_chemical_formula_sum  'C17 H13 N3 O3'
+_chemical_name_mineral  'V Studio Red Helio'
+_chemical_name_common  'Studio Red Helio'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.055229         33.18
+     4.767996          88.2
+     4.342750        313.98
+     3.827350        625.02
+     3.680056         73.34
+     3.543078        439.78
+     3.405254        450.53
+     3.301110         815.9
+     3.078341        1000.0
+     2.877676        212.23
+     2.685478        208.24
+     2.598811         89.48
+     2.263351         54.97
+     2.220980        205.67
+     2.187542         69.43

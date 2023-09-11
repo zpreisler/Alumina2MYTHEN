@@ -1,0 +1,104 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011054
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '62(1-6)'
+_citation_page_first  '260'
+_citation_page_last   '273'
+_citation_year  '1925'
+_citation_title  'XIV. \"Uber die Kristallstruktur des \a- und \b-CdS, sowie des Wurtzits'
+loop_
+_publ_author_name
+  'Ulrich F.'
+  'Zachariasen W.'
+_chemical_formula_sum  'Cd S'
+_chemical_name_mineral  'Greenockite'
+_chemical_name_common  'Cadmium sulfide - \a'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        4.15000
+_cell_length_b        4.15000
+_cell_length_c        6.73700
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.333   0.667   0.000    1.00000    1.000
+s      0.333   0.667   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.775000
+_exptl_crystal_density_meas      4.820000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.594006        592.30
+     3.368500        427.10
+     3.170998       1000.00
+     2.457746        258.54
+     2.075000        453.58
+     1.983070          0.00
+     1.904461        454.54
+     1.797003         68.08
+     1.766705        339.61
+     1.736297        153.28
+     1.684250         23.38
+     1.585499         56.38
+     1.525091         23.93
+     1.524014          0.00
+     1.403080        141.97
+     1.358406         46.26
+     1.331607        108.41
+     1.307690         51.49
+     1.261651         93.34
+     1.259824         45.48
+     1.228873         10.04
+     1.198002         56.74
+     1.179498          0.00
+     1.162303        137.24
+     1.130055          0.00
+     1.128742         60.52
+     1.122833          9.91
+     1.078021         53.62
+     1.071747         12.84
+     1.057358         11.84
+     1.056999          0.00
+     1.037500         35.83
+     1.025412          0.00
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

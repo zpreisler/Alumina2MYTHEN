@@ -1,0 +1,102 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9005028
+_citation_journal_full    'European Journal of Mineralogy'
+_citation_journal_volume  '2'
+_citation_page_first  '63'
+_citation_page_last   '77'
+_citation_year  '1990'
+_citation_title  'An X-ray study of the temperature dependence of the quartz structureSample: at T = 869 K'
+loop_
+_publ_author_name
+  'Kihara K.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 62 2 2'
+_space_group_IT_number 180
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.33333'
+   '-y, x-y, z+0.66667'
+   '-x, -y, z'
+   '-x+y, -x, z+0.33333'
+   'y, -x+y, z+0.66667'
+   'x-y, -y, -z'
+   '-x, -x+y, -z+0.33333'
+   'y, x, -z+0.66667'
+   '-y, -x, -z+0.66667'
+   '-x+y, y, -z'
+   'x, x-y, -z+0.33333'
+_cell_length_a        4.99710
+_cell_length_b        4.99710
+_cell_length_c        5.45740
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.500   0.000   0.000    1.00000    1.762
+o      0.415   0.208   0.167    1.00000    4.318
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    869.000000
+_exptl_crystal_density_diffrn    2.536000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.327615        181.29
+     3.390878       1000.00
+     2.498550         37.31
+     2.308176         20.21
+     2.271779          2.03
+     2.163808         34.91
+     2.011470         26.29
+     1.842744        147.34
+     1.819133          0.35
+     1.695439         10.35
+     1.676996          4.52
+     1.635685          0.84
+     1.566823         59.20
+     1.470637          2.47
+     1.442538          8.66
+     1.402936         31.21
+     1.394640          9.25
+     1.392433         56.82
+     1.301216          5.31
+     1.275297         15.88
+     1.249275         15.89
+     1.217776          0.61
+     1.216305         16.28
+     1.200265          4.37
+     1.197454         17.36
+     1.172248         25.24
+     1.154088          0.79
+     1.135889          0.37
+     1.130293          0.17
+     1.098674          9.20
+     1.081904          7.05
+     1.061251          0.25
+     1.058338          7.85
+     1.047720          9.44
+     1.029819          7.62
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

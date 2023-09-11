@@ -1,0 +1,12 @@
+_chemical_formula_sum  'O17 Pb3 Si6 Sn'
+_chemical_name_mineral  'V IWAEnogu Iwamomo'
+_chemical_name_common  'IWAEnogu Iwamomo'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.114240        292.74
+     3.298713        1000.0
+     3.076265        844.93
+     2.669546        905.56
+     2.638345        831.72
+     2.416036        483.27

@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Fe C N H O'
+_chemical_name_mineral  'V PrussianBlue'
+_chemical_name_common  'PrussianBlue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.202385        1000.0
+     3.642087        729.69
+     2.557671        891.03
+     2.286889        616.26

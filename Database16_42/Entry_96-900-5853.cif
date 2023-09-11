@@ -1,0 +1,91 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9005852
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '14'
+_citation_page_first  '139'
+_citation_page_last   '150'
+_citation_year  '1987'
+_citation_title  'Exploration of structure and bonding in stishovite with Fourier andPseudoaton Refinement methods using single crystal and powderX-ray diffraction dataSample: IAM'
+loop_
+_publ_author_name
+  'Spackman M. A.'
+  'Hill R. J.'
+  'Gibbs G. V.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Stishovite'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.17730
+_cell_length_b        4.17730
+_cell_length_c        2.66550
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.000   0.000   0.000    1.00000    0.175
+o      0.306   0.306   0.000    1.00000    0.226
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.290000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.953797       1000.00
+     2.247019        247.87
+     2.088650          6.97
+     1.978889        399.26
+     1.868145        150.15
+     1.529825        586.71
+     1.476899        196.48
+     1.332750        102.02
+     1.320978         62.85
+     1.291850         13.39
+     1.234180        268.53
+     1.214818        104.33
+     1.183602         21.74
+     1.158575          4.75
+     1.123510         11.39
+     1.084953         27.21
+     1.062543         29.56
+     1.044325         36.13
+     1.013144         25.88
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

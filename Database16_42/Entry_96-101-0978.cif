@@ -1,0 +1,110 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1010977
+_citation_journal_full    'Journal of the American Chemical Society'
+_citation_journal_volume  '46'
+_citation_page_first  '2457'
+_citation_page_last   '2462'
+_citation_year  '1924'
+_citation_title  'The crystal structure of tetragonal lead monoxide'
+loop_
+_publ_author_name
+  'Dickinson R G'
+  'Friauf J B'
+_chemical_formula_sum  'O Pb'
+_chemical_name_mineral  'Litharge'
+_chemical_name_common  'Lead oxide'
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_space_group_IT_number 129
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z'
+   '-y+0.5, x+0.5, z'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z'
+   'y, x, -z'
+   '-y, -x, -z'
+   'x+0.5, y+0.5, -z'
+   '-x, y, z'
+   'x, -y, z'
+   '-y+0.5, -x+0.5, z'
+   'y+0.5, x+0.5, z'
+_cell_length_a        3.99000
+_cell_length_b        3.99000
+_cell_length_c        5.01000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+pb      0.000   0.500   0.240    1.00000    1.000
+o      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    9.293000
+_exptl_crystal_density_meas      9.270000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.010000         19.57
+     3.121129       1000.00
+     2.821356        320.53
+     2.505000        113.42
+     2.458347          0.16
+     2.121543          5.21
+     1.995000        157.05
+     1.873207        250.56
+     1.853457          3.80
+     1.680948        304.67
+     1.670000          0.55
+     1.560565        101.03
+     1.540508        107.84
+     1.453356          2.83
+     1.437114          5.30
+     1.410678         45.25
+     1.357876          1.02
+     1.285475         56.70
+     1.280559          0.97
+     1.261749         47.44
+     1.252500         13.55
+     1.229174         42.49
+     1.223543          0.01
+     1.219301         90.56
+     1.195006          2.70
+     1.174696          0.65
+     1.144765         31.74
+     1.126873         78.16
+     1.080580         63.09
+     1.077655          0.59
+     1.060772         31.23
+     1.040376         27.71
+     1.025161          3.44
+     1.012252          0.85
+     1.006717          2.97
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic from melt with KOH
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

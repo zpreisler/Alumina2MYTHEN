@@ -1,0 +1,95 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+
+data_1011341
+_citation_journal_full    'Skrifter utgitt av det Norske Videnskaps-Akademi i Oslo 1: Matematisk-Naturvidenskapelig Klasse'
+_citation_journal_id_ASTM 'SUNVAQ'
+_citation_journal_volume  '1928'
+_citation_page_first  '1'
+_citation_page_last   '165'
+_citation_year  '1928'
+_citation_title  'Untersuchungen ueber die Kristallstruktur von Sesquioxyden undVerbindungen A B O3'
+loop_
+_publ_author_name
+  'Zachariasen W H'
+_chemical_formula_sum  'C Cd O3'
+_chemical_name_common  'Cadmium carbonate'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        6.11200
+_cell_length_b        6.11200
+_cell_length_c        6.11200
+_cell_angle_alpha    47.4000
+_cell_angle_beta     47.4000
+_cell_angle_gamma    47.4000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.000   0.000   0.000    1.00000    1.000
+c      0.250   0.250   0.250    1.00000    1.000
+o      -0.250   0.750   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.059114
+_exptl_crystal_density_meas      5.020000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.769062       1000.00
+     2.937553        417.42
+     2.706905         26.20
+     2.456705        246.73
+     2.058107         40.77
+     1.884531        248.15
+     1.832312         93.68
+     1.819191        223.13
+     1.577648        129.89
+     1.517369         55.64
+     1.495265         87.77
+     1.468776         89.95
+     1.418379         35.72
+     1.353453         21.11
+     1.290976          9.91
+     1.260652         45.10
+     1.256354         51.71
+     1.228352         42.04
+     1.185455         35.86
+     1.167894         38.94
+     1.142797         35.96
+     1.133264         30.66
+     1.119251         16.71
+     1.118571         12.58
+     1.054773          5.40
+     1.029053         22.55
+     1.020297         22.80
+     1.018527          5.02
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

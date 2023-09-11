@@ -1,0 +1,104 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1535066
+_citation_journal_full    'Physical Review, Serie 3. B - Condensed Matter (18,1978-)'
+_citation_journal_volume  '41'
+_citation_page_first  '10866'
+_citation_page_last   '10869'
+_citation_year  '1990'
+_citation_title  'Interatomic potentials and the structural properties of silicon dioxideunder pressure'
+loop_
+_publ_author_name
+  'Massidda S.'
+  'Continenza A.'
+  'Freeman A.J.'
+  'de Pascale T.M.'
+  'Meloni F.'
+  'Serra M.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        5.02000
+_cell_length_b        5.02000
+_cell_length_c        5.56000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.460   0.000   0.667    1.00000    1.000
+o      0.426   0.277   0.788    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.466000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.347448        228.77
+     3.424789       1000.00
+     2.510000         57.50
+     2.342093         71.62
+     2.287690         40.57
+     2.173724         52.13
+     2.024503         35.15
+     1.863000        110.75
+     1.853333          2.11
+     1.712395         53.76
+     1.704879         15.41
+     1.643181          3.47
+     1.575804         75.38
+     1.490941         23.25
+     1.449149          3.17
+     1.414557         54.34
+     1.410311         56.95
+     1.402301         47.07
+     1.323974         19.47
+     1.285037         22.41
+     1.255000          9.47
+     1.229520         31.85
+     1.224201          9.36
+     1.215992         23.61
+     1.205765         31.79
+     1.178374         10.46
+     1.171047          4.19
+     1.143845          0.27
+     1.141596          2.04
+     1.106197         26.33
+     1.086862          3.36
+     1.077317         14.07
+     1.066673         12.95
+     1.061229         14.03
+     1.039164         11.01
+     1.016692          8.02
+     1.012251          3.54
+     1.010692          6.63
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

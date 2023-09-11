@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C21 H20 O6'
+_chemical_name_mineral  'V Turmeric powder'
+_chemical_name_common  'Turmeric powder'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.688112         74.05
+     4.342750        397.33
+     3.836957        540.28
+     3.078341        1000.0
+     2.886918        245.88
+     2.691906         277.7
+     2.610842         118.0
+     2.228442        281.84

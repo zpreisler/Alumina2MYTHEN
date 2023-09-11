@@ -1,0 +1,154 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007710
+_citation_journal_full    'Acta Crystallographica, Section C'
+_citation_journal_volume  '41'
+_citation_page_first  '1281'
+_citation_page_last   '1284'
+_citation_year  '1985'
+_citation_title  'Refinement of the structure of orthorhombic PbO (massicot) byRietveld analysis of neutron powder diffraction dataLocality: synthetic: Merck 'pro analyse' (batch number 0093820)'
+loop_
+_publ_author_name
+  'Hill R. J.'
+_chemical_formula_sum  'O Pb'
+_chemical_name_mineral  'Massicot'
+_symmetry_space_group_name_H-M 'P b c m'
+_space_group_IT_number 57
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z+0.5'
+   'x, -y+0.5, -z'
+   '-x, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   'x, y, -z+0.5'
+   '-x, y+0.5, z'
+   'x, -y+0.5, z+0.5'
+_cell_length_a        5.89310
+_cell_length_b        5.49040
+_cell_length_c        4.75280
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+pb      0.230   -0.012   0.250    1.00000    1.069
+o      -0.135   0.092   0.250    1.00000    1.140
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    9.641000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.893100         49.92
+     4.017125         13.57
+     3.068042       1000.00
+     2.946550        245.20
+     2.745200        220.90
+     2.596288          1.41
+     2.488448          6.94
+     2.377160          1.48
+     2.376400        162.11
+     2.278493         17.15
+     2.204558          0.35
+     2.203952          7.02
+     2.045316          3.67
+     2.008563        152.63
+     1.964367         14.41
+     1.850133          4.44
+     1.849775        119.95
+     1.849552          0.27
+     1.796718        118.01
+     1.752960          0.64
+     1.747791          7.29
+     1.723639        180.90
+     1.718615          4.05
+     1.640390        157.77
+     1.597504         11.50
+     1.554661          0.92
+     1.534021        119.68
+     1.514256          0.01
+     1.514059         11.13
+     1.477619          7.39
+     1.473794        101.11
+     1.473275         18.48
+     1.459578          0.26
+     1.422936          0.09
+     1.407985          6.30
+     1.372600         18.04
+     1.372161          0.36
+     1.363155         18.81
+     1.352371          3.36
+     1.339042          1.12
+     1.336818          0.36
+     1.336412          0.02
+     1.325786         11.30
+     1.318708          2.22
+     1.300988          0.83
+     1.298144         24.50
+     1.288866         54.64
+     1.286882          0.01
+     1.252273          1.85
+     1.252162         20.33
+     1.244224         25.13
+     1.243897          1.07
+     1.220816          0.10
+     1.203662          3.91
+     1.203207         47.22
+     1.188580         21.31
+     1.188200         13.84
+     1.178620          3.97
+     1.173810         45.49
+     1.166590          1.39
+     1.165118          0.46
+     1.164760          0.61
+     1.152367          0.03
+     1.147625          0.31
+     1.139403          0.37
+     1.139246         30.80
+     1.125138          2.26
+     1.124897          0.01
+     1.119918         28.83
+     1.115564          9.27
+     1.109631          2.57
+     1.102279         33.21
+     1.101976         18.47
+     1.094877          0.23
+     1.090440         19.24
+     1.083022          6.22
+     1.080429          0.07
+     1.079500          2.42
+     1.072239          0.70
+     1.058625          7.92
+     1.055953          0.40
+     1.055887          5.67
+     1.052688         31.70
+     1.037399          1.05
+     1.036886          0.04
+     1.033428          0.45
+     1.028952          0.17
+     1.022681         26.00
+     1.022658         29.47
+     1.021689          0.01
+     1.016917          3.47
+     1.016679          2.69
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

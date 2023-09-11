@@ -1,0 +1,113 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007497
+_citation_journal_full    'Acta Crystallographica, Section A'
+_citation_journal_volume  '46(4)'
+_citation_page_first  '271'
+_citation_page_last   '284'
+_citation_year  '1990'
+_citation_title  'Accurate structure analysis with synchrotron radiation.The electron density in Al2O3 and Cu2OLocality: syntheticNote: Atomic parameters were mislabeled in the publication.They have been fixed in this dataset.'
+loop_
+_publ_author_name
+  'Kirfel A.'
+  'Eichhorn K.'
+_chemical_formula_sum  'Cu2 O'
+_chemical_name_mineral  'Cuprite'
+_symmetry_space_group_name_H-M 'P n -3 m'
+_space_group_IT_number 224
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -z+0.5, y+0.5'
+   'x, -y, -z'
+   'x+0.5, z+0.5, -y+0.5'
+   'z+0.5, y+0.5, -x+0.5'
+   '-x, y, -z'
+   '-z+0.5, y+0.5, x+0.5'
+   'y, -x, -z'
+   '-y, x, -z'
+   '-x, z, -y'
+   '-x, -z, y'
+   '-z, -y, x'
+   'z, -y, -x'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z+0.5, x+0.5, y+0.5'
+   'y+0.5, -z+0.5, x+0.5'
+   'z+0.5, x+0.5, -y+0.5'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y+0.5, z+0.5, x+0.5'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, y+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   'z+0.5, -y+0.5, x+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+   'x, -z, -y'
+   'x, z, y'
+   '-z, y, -x'
+   'z, y, x'
+_cell_length_a        4.26850
+_cell_length_b        4.26850
+_cell_length_c        4.26850
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.250   0.250    1.00000    1.500
+o      0.000   0.000   0.000    1.00000    1.484
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.110000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.018285         43.16
+     2.464420       1000.00
+     2.134250        366.65
+     1.742608          9.71
+     1.509143        292.70
+     1.349818          2.61
+     1.287001        237.39
+     1.232210         53.66
+     1.140805          2.17
+     1.067125         31.21
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

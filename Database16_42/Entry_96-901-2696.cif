@@ -1,0 +1,126 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9012695
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '57'
+_citation_page_first  '343'
+_citation_page_last   '350'
+_citation_year  '1985'
+_citation_title  'Monoxyde quadratique PbO alpha(I): Description de la transition structuraleferroelastique Method: Neutron Diffraction T = 30 K Locality: synthetic'
+loop_
+_publ_author_name
+  'Boher P.'
+  'Garnier P.'
+  'Gavarri J. R.'
+  'Hewat A. W.'
+_chemical_formula_sum  'O Pb'
+_chemical_name_mineral  'Litharge'
+_symmetry_space_group_name_H-M 'C m m a'
+_space_group_IT_number 67
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x, y+0.5, -z'
+   '-x+0.5, y, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, y+0.5, -z'
+   'x+0.5, y, -z'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z'
+   'x, -y+0.5, z'
+   'x+0.5, -y, z'
+_cell_length_a        5.61120
+_cell_length_b        5.60910
+_cell_length_c        4.99350
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+pb      0.000   0.250   0.764    1.00000    0.499
+o      0.250   0.000   0.000    1.00000    0.846
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    30.000000
+_exptl_crystal_density_diffrn    9.433000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.993500         26.07
+     3.106112       1000.00
+     2.805600        161.77
+     2.804550        161.61
+     2.496750        114.25
+     2.445971          0.02
+     2.445275          0.02
+     2.113066         10.51
+     1.983487        162.18
+     1.865142        129.14
+     1.864834        129.07
+     1.843388          5.48
+     1.671937        161.35
+     1.671493        161.20
+     1.664500          1.55
+     1.553056        107.91
+     1.534864        113.23
+     1.446322          3.03
+     1.446034          3.03
+     1.431525          4.83
+     1.431385          4.83
+     1.402800         24.79
+     1.402275         24.76
+     1.350521          0.79
+     1.350052          0.79
+     1.278266         63.88
+     1.275031          2.77
+     1.254608         27.16
+     1.254327         27.14
+     1.248375         14.58
+     1.222985         24.21
+     1.222638         24.19
+     1.216791          0.08
+     1.216534          0.08
+     1.213958         50.55
+     1.213787         50.53
+     1.190804          6.06
+     1.168555          1.47
+     1.140562         17.77
+     1.140491         17.76
+     1.121034         45.50
+     1.120833         45.48
+     1.074646         38.09
+     1.074292         38.06
+     1.072663          0.88
+     1.072428          0.88
+     1.056533         35.83
+     1.035371         33.13
+     1.020995          4.12
+     1.020893          4.12
+     1.006964          1.04
+     1.006673          1.04
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

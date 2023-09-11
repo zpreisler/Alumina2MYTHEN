@@ -1,0 +1,139 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9005053
+_citation_journal_full    'European Journal of Mineralogy'
+_citation_journal_volume  '2'
+_citation_page_first  '787'
+_citation_page_last   '798'
+_citation_year  '1990'
+_citation_title  'Crystal structure of MAPO-20 sodalite: theoretical analysisof three-color ordering of Mg, Al and P in a sodalite unitSample: Neutron refinement at T = 20 K'
+loop_
+_publ_author_name
+  'Han S.'
+  'Smith J. V.'
+  'Pluth J. J.'
+  'Richardson J. W.'
+_chemical_formula_sum  'Al O4 P'
+_chemical_name_mineral  'Sodalite'
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_space_group_IT_number 218
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, -y+0.5'
+   'x, -y, -z'
+   '-x+0.5, -z+0.5, y+0.5'
+   '-z+0.5, -y+0.5, x+0.5'
+   '-x, y, -z'
+   'z+0.5, -y+0.5, -x+0.5'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, -z+0.5, -y+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   '-z+0.5, y+0.5, -x+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        8.99420
+_cell_length_b        8.99420
+_cell_length_c        8.99420
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+p      0.250   0.500   0.000    1.00000    2.605
+al      0.250   0.000   0.500    1.00000    3.079
+o      0.035   0.661   0.640    1.00000    8.527
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    20.000000
+_exptl_crystal_density_diffrn    1.670000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.359860       1000.00
+     4.497100         95.10
+     4.022328         33.09
+     3.671867        375.30
+     3.179930         91.43
+     2.844216         67.30
+     2.596402        122.27
+     2.494542          1.26
+     2.403801         21.12
+     2.248550         31.06
+     2.181414          0.45
+     2.119953         14.70
+     2.011164          4.34
+     1.962695          0.33
+     1.917570         21.29
+     1.835933          4.79
+     1.798840          0.05
+     1.763908         55.74
+     1.670181          0.75
+     1.642109         18.47
+     1.589965         23.21
+     1.542493         12.47
+     1.520297          0.73
+     1.499033         14.03
+     1.478637          0.00
+     1.459052          9.19
+     1.422108          2.44
+     1.404658          0.32
+     1.387835          5.02
+     1.355927         28.47
+     1.340776          0.32
+     1.326122          6.10
+     1.298201          8.95
+     1.284886          0.01
+     1.271972          8.89
+     1.247271          1.50
+     1.235448          0.41
+     1.223956         11.18
+     1.201900          4.65
+     1.180996          2.89
+     1.170945          0.04
+     1.151589          0.28
+     1.142265          4.15
+     1.124275          2.67
+     1.115593          0.05
+     1.107109          3.58
+     1.090707          1.78
+     1.082774          0.23
+     1.075012          2.16
+     1.059977          1.33
+     1.052691          0.00
+     1.045554          4.03
+     1.038561          0.01
+     1.031705          6.55
+     1.024984          0.40
+     1.018393          1.57
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,17 @@
+_chemical_formula_sum  'C7 H3 N O4'
+_chemical_name_mineral  'V Irgazin Red DPP BO'
+_chemical_name_common  'Irgazin Red DPP BO'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.334782        318.99
+     3.830601        545.95
+     3.618906         82.42
+     3.454428        203.32
+     3.149364        594.54
+     3.074193        1000.0
+     2.868585         355.0
+     2.783374        117.61
+     2.687042         218.6
+     2.598811         87.52
+     2.219881         230.1

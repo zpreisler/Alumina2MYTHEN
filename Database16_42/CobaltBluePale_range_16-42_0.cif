@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Co Al2 O4'
+_chemical_name_mineral  'V Cobalt alluminate'
+_chemical_name_common  'Cobalt Blue Pale'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.494263        231.84
+     3.354891        166.86
+     2.864911        615.22
+     2.554780         639.6
+     2.443284        1000.0
+     2.384479        198.13

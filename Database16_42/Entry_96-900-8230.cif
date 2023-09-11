@@ -1,0 +1,130 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008229
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '138'
+_citation_page_first  '274'
+_citation_page_last   '298'
+_citation_year  '1973'
+_citation_title  'High-temperature single-crystal study of the cristobalite inversionNote: Cell has been correctedSample: T = 210 CLocality: Ellora Caves, Hyderabad State, India'
+loop_
+_publ_author_name
+  'Peacor D. R.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Cristobalite'
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_space_group_IT_number 92
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.25'
+   '-x, -y, z+0.5'
+   'y+0.5, -x+0.5, z+0.75'
+   'x+0.5, -y+0.5, -z+0.75'
+   '-x+0.5, y+0.5, -z+0.25'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+_cell_length_a        4.99600
+_cell_length_b        4.99600
+_cell_length_c        7.01600
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.295   0.295   0.000    1.00000    1.234
+o      0.241   0.095   0.175    1.00000    2.613
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    483.100000
+_exptl_crystal_density_diffrn    2.279000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.069641       1000.00
+     3.532705          4.78
+     3.155291         75.56
+     2.870947         92.25
+     2.498000        125.86
+     2.489219         55.31
+     2.353290          0.85
+     2.234279          0.01
+     2.128934         23.88
+     2.118089          2.10
+     2.034820         27.54
+     1.950074         42.92
+     1.884509         44.59
+     1.766353          3.84
+     1.754000          6.74
+     1.712902          0.61
+     1.707238         21.43
+     1.654969          4.31
+     1.620314         39.02
+     1.615517         17.61
+     1.579874          2.76
+     1.577645          1.98
+     1.571016          0.15
+     1.541280         20.55
+     1.504419         21.24
+     1.440525         26.45
+     1.435473         14.51
+     1.409501         12.11
+     1.385641          0.07
+     1.379654         20.54
+     1.359383          8.66
+     1.356547          5.74
+     1.350927         15.03
+     1.309146         16.24
+     1.304093          0.32
+     1.288748         16.93
+     1.249000          1.78
+     1.244610          8.64
+     1.229667         10.31
+     1.223397          1.55
+     1.211708         13.86
+     1.207698          0.00
+     1.194031          1.40
+     1.192108         13.25
+     1.188289         13.51
+     1.177568          1.98
+     1.176645          2.12
+     1.173887          5.47
+     1.161325          3.81
+     1.145309          2.13
+     1.138563          0.01
+     1.117140          0.01
+     1.116351          5.46
+     1.110101         13.94
+     1.103242          9.46
+     1.101724          2.97
+     1.098707          1.97
+     1.087293          3.19
+     1.075875          1.70
+     1.073065          0.28
+     1.064467          3.55
+     1.059045          0.10
+     1.051764          2.10
+     1.049138          3.20
+     1.036023          0.09
+     1.017410          1.11
+     1.008037          3.43
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

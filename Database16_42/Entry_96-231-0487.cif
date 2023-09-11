@@ -1,0 +1,130 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2310486
+_citation_journal_full    'Acta Crystallographica (1,1948-23,1967)'
+_citation_journal_volume  '23'
+_citation_page_first  '334'
+_citation_page_last   '336'
+_citation_year  '1967'
+_citation_title  'The structure of Ti O2 II, a high-pressure phase of Ti O2'
+loop_
+_publ_author_name
+  'Simons P.Y.'
+  'Dachille F.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_common  'Titanium(IV) oxide'
+_symmetry_space_group_name_H-M 'P b c n'
+_space_group_IT_number 60
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x, y, -z+0.5'
+   '-x, -y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x, -y, z+0.5'
+_cell_length_a        4.51500
+_cell_length_b        5.49700
+_cell_length_c        4.93900
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.286   0.376   0.412    1.00000    1.000
+ti      0.000   0.171   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.328000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.488981        469.53
+     2.849671       1000.00
+     2.748500         96.32
+     2.469500        112.57
+     2.401669         97.60
+     2.257500         26.38
+     2.166595        107.13
+     2.120353        177.95
+     2.015680         88.17
+     1.923402         11.72
+     1.836943         51.41
+     1.744491         42.66
+     1.701508          0.01
+     1.697843        149.65
+     1.666210        181.27
+     1.644900        280.73
+     1.605621          3.56
+     1.594568          5.57
+     1.488899        137.87
+     1.451579          2.99
+     1.424835         35.70
+     1.412346        116.77
+     1.399077        102.21
+     1.392676        112.50
+     1.374250         24.73
+     1.367095          2.39
+     1.347936          0.23
+     1.323955         37.52
+     1.292868          0.02
+     1.285147          5.89
+     1.275292         10.27
+     1.270460          0.01
+     1.251402         23.90
+     1.234750          7.36
+     1.232744          1.45
+     1.200834          0.73
+     1.197331          7.05
+     1.191015          5.09
+     1.181924          0.00
+     1.173855          0.18
+     1.164170          0.00
+     1.164007          9.30
+     1.162994         14.92
+     1.160491         11.20
+     1.142042         39.56
+     1.132033          0.09
+     1.128750         20.25
+     1.126313          6.89
+     1.092823          0.00
+     1.088799         16.94
+     1.083298         32.60
+     1.078974          2.38
+     1.076443          0.01
+     1.068189          5.27
+     1.062855          0.63
+     1.060176         13.90
+     1.055001         14.84
+     1.052155         43.60
+     1.044129          5.20
+     1.044050         19.80
+     1.029878          0.04
+     1.027328          0.00
+     1.026595         12.40
+     1.021551         14.98
+     1.009148          2.13
+     1.007840          9.50
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

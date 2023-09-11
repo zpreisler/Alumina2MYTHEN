@@ -1,0 +1,99 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9013321
+_citation_journal_full    'The Canadian Mineralogist'
+_citation_journal_volume  '46'
+_citation_page_first  '1501'
+_citation_page_last   '1509'
+_citation_year  '2008'
+_citation_title  'State-of-the-art high-resolution powder x-ray diffraction (HRPXRD)illustrated with Rietveld structure refinement of quartz, sodalite,tremolite, and meionite Locality: not specified'
+loop_
+_publ_author_name
+  'Antao S. M.'
+  'Hassan I.'
+  'Wang J.'
+  'Lee P. L.'
+  'Toby B. H.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.91344
+_cell_length_b        4.91344
+_cell_length_c        5.40512
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.470   0.000   0.667    1.00000    0.489
+o      0.415   0.268   0.785    1.00000    0.860
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.649000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.255161        202.75
+     3.343421       1000.00
+     2.456718         71.17
+     2.281324         72.31
+     2.236538         32.95
+     2.127581         53.59
+     1.979732         32.41
+     1.817876        126.77
+     1.801706          3.21
+     1.671710         39.16
+     1.659110         16.85
+     1.608300          2.37
+     1.541507         92.20
+     1.452873         17.56
+     1.418387          4.49
+     1.382083         58.01
+     1.374937         68.65
+     1.371936         43.18
+     1.287899         23.07
+     1.255924         28.65
+     1.228359         15.18
+     1.199813         30.33
+     1.197817          8.28
+     1.183995         25.30
+     1.180169         28.31
+     1.153005         18.86
+     1.140662          2.84
+     1.118269          0.29
+     1.114474          2.87
+     1.081544         30.32
+     1.063790          5.61
+     1.047741         15.88
+     1.043767         11.14
+     1.034584         16.96
+     1.014924         15.00
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

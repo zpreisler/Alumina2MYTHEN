@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C30 H20 O11'
+_chemical_name_mineral  'V Gamboge powder'
+_chemical_name_common  'Gamboge powder'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        325.26
+     3.821027        415.19
+     3.069953        1000.0
+     2.879574        215.92
+     2.687042        214.34
+     2.600345        105.92
+     2.218835        239.94

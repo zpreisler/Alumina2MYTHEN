@@ -1,0 +1,20 @@
+_chemical_formula_sum  'Al'
+_chemical_name_mineral  'V Madder Lake Genuine'
+_chemical_name_common  'Madder Lake Genuine'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.930624        1000.0
+     4.420616        406.22
+     3.833695         40.51
+     3.362348        123.45
+     3.317990        159.42
+     3.184824        164.01
+     3.103791         87.61
+     2.693479         27.73
+     2.453848        308.95
+     2.418607         89.49
+     2.383201        288.37
+     2.289176         79.54
+     2.244653        152.54
+     2.163199        118.03

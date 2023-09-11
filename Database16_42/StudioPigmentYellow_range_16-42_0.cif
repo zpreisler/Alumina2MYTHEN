@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Ca C O3'
+_chemical_name_mineral  'V Calcite'
+_chemical_name_common  'Studio Pigment Yellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.885406         27.51
+     3.036868        1000.0
+     2.845012         23.93
+     2.495609         75.51
+     2.285775        131.23

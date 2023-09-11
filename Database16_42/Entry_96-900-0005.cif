@@ -1,0 +1,94 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9000004
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '10'
+_citation_page_first  '281'
+_citation_page_last   '304'
+_citation_year  '1925'
+_citation_title  'The crystal structures of some metallic sulfides Locality: unknown'
+loop_
+_publ_author_name
+  'Ramsdell L. S.'
+_chemical_formula_sum  'Hg S'
+_chemical_name_mineral  'Cinnabar'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.15000
+_cell_length_b        4.15000
+_cell_length_c        9.51000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.333   0.333   0.000    1.00000    1.000
+s      0.333   0.333   0.500    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    8.169000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.594006          0.00
+     3.361935        761.86
+     3.170000        219.00
+     2.867151       1000.00
+     2.377374          0.00
+     2.075000        376.72
+     1.982899        324.53
+     1.901806          0.00
+     1.765756        118.62
+     1.736133        223.90
+     1.681102        100.13
+     1.680968        183.48
+     1.585000         49.42
+     1.563327          0.00
+     1.450233          0.00
+     1.433576        101.99
+     1.402095          0.00
+     1.344757         88.45
+     1.306215         39.66
+     1.306152        143.61
+     1.270808         35.81
+     1.259574        125.48
+     1.198002         52.36
+     1.188687          0.00
+     1.179462         99.19
+     1.136621          0.00
+     1.128616         42.84
+     1.120645         46.26
+     1.105426         44.36
+     1.083717         20.93
+     1.056667          6.52
+     1.037500         33.89
+     1.031473          0.00
+     1.031432          0.00
+     1.013760          0.00
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

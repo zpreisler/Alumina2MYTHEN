@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Fe3 O4'
+_chemical_name_mineral  'V Magnetite'
+_chemical_name_common  'Magnetite Black'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.817792         87.05
+     3.379880        194.48
+     3.063770        265.31
+     2.966885        223.94
+     2.530512        1000.0
+     2.421183        166.76

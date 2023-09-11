@@ -1,0 +1,154 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011087
+_citation_journal_full    'Bulletin de la Societe Francaise de Mineralogie (-71,1948)'
+_citation_journal_volume  '58'
+_citation_page_first  '6'
+_citation_page_last   '76'
+_citation_year  '1935'
+_citation_title  'Etude de quelques derives de l'oxyde ferrique (Fe O * O H, Fe O2 Na, FeO Cl) determination de leurs structures.'
+loop_
+_publ_author_name
+  'Goldsztaub M S'
+_chemical_formula_sum  'Fe H O2'
+_chemical_name_mineral  'Goethite'
+_chemical_name_common  'Iron(III) oxide hydroxide'
+_symmetry_space_group_name_H-M 'P b n m'
+_space_group_IT_number 62
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   'x, y, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.64000
+_cell_length_b       10.00000
+_cell_length_c        3.03000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.250   0.292   0.250    1.00000    1.000
+o      0.750   0.458   0.250    1.00000    1.000
+fe      0.530   0.650   0.250    1.00000    1.000
+h      -1.000   -1.000   -1.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.197000
+_exptl_crystal_density_meas      4.170000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.000000        152.30
+     4.208981       1000.00
+     3.401131         48.32
+     2.707179        648.74
+     2.591319        309.81
+     2.536981         22.85
+     2.500000         77.92
+     2.459078        745.93
+     2.320000         40.66
+     2.262412        155.16
+     2.259977         39.94
+     2.200873        138.14
+     2.104490         24.41
+     2.018783         56.56
+     1.928355         90.07
+     1.904189          3.22
+     1.836648          0.11
+     1.811569         19.39
+     1.780698          8.92
+     1.728479        443.87
+     1.700565        155.37
+     1.666667         51.57
+     1.612248         32.24
+     1.570632        228.25
+     1.568547          1.43
+     1.528493         27.95
+     1.515000        107.46
+     1.514820         13.81
+     1.482967         55.70
+     1.477588         23.85
+     1.460326         96.40
+     1.449904          8.99
+     1.425470         49.69
+     1.402994         45.68
+     1.392966          3.26
+     1.383913          4.42
+     1.377574         19.58
+     1.365326         59.15
+     1.364686         61.11
+     1.353589         37.22
+     1.328089         35.35
+     1.322059        102.87
+     1.315301          0.27
+     1.295660         19.07
+     1.273136          6.62
+     1.268490         10.99
+     1.258406          8.21
+     1.250000          0.25
+     1.247920         21.13
+     1.244789          8.14
+     1.235875          1.11
+     1.229539          7.56
+     1.223495          0.01
+     1.216449          0.52
+     1.206969          1.44
+     1.206527         14.57
+     1.185548          0.93
+     1.168704          0.01
+     1.160000         22.37
+     1.155531         29.42
+     1.152273          9.87
+     1.134497         43.17
+     1.133710          3.00
+     1.131206         56.70
+     1.129988          1.37
+     1.128872          7.28
+     1.121284          0.19
+     1.121060         18.43
+     1.100437          6.94
+     1.095557          1.19
+     1.089706          0.63
+     1.080562          8.15
+     1.077023          8.11
+     1.076005         11.80
+     1.071203          6.67
+     1.061818          9.00
+     1.058759         11.24
+     1.057792         12.26
+     1.052245          3.26
+     1.049422         15.21
+     1.034334         34.46
+     1.030279         18.47
+     1.029388         28.69
+     1.017778         26.59
+     1.014231         35.69
+     1.009392         22.75
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   from Restormel mine, Lanlivery, Cornwall
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

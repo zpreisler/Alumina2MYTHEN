@@ -1,0 +1,132 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9010203
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '92'
+_citation_page_first  '829'
+_citation_page_last   '836'
+_citation_year  '2007'
+_citation_title  'Order and miscibility in the otavite - magnesite solid solution Locality: synthetic Sample: X_Mg = 0, synthesized at 600 C, 1 GPa, 3 h'
+loop_
+_publ_author_name
+  'Bromiley F. A.'
+  'Boffa Ballaran T.'
+  'Langenhorst F.'
+  'Seifert F.'
+_chemical_formula_sum  'C Cd O3'
+_chemical_name_mineral  'Otavite'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        4.92070
+_cell_length_b        4.92070
+_cell_length_c       16.29680
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.000   0.000   0.000    1.00000    2.052
+c      0.000   0.000   0.250    1.00000    1.658
+o      0.260   0.000   0.250    1.00000    1.658
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.027000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.776214        744.95
+     2.944868       1000.00
+     2.716133         35.58
+     2.460350        326.60
+     2.241196         50.46
+     2.061414        228.24
+     1.888107        134.43
+     1.837903        192.24
+     1.823470        296.39
+     1.602868          8.30
+     1.580104        153.74
+     1.522170         41.03
+     1.497873        107.52
+     1.472434         48.43
+     1.458363          6.61
+     1.443985          4.79
+     1.420484         69.09
+     1.358067         24.82
+     1.324578          3.00
+     1.294461         31.86
+     1.263456         50.16
+     1.258738         30.93
+     1.230175         21.50
+     1.199795          0.13
+     1.188964         36.13
+     1.178818          0.03
+     1.169674         24.28
+     1.145580         35.47
+     1.135115         46.43
+     1.122917         10.83
+     1.120598         33.25
+     1.111117          0.02
+     1.090402          1.09
+     1.056372          4.65
+     1.053883          0.01
+     1.030707         21.47
+     1.022306         30.90
+     1.021549         11.53
+     1.017562          0.06
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

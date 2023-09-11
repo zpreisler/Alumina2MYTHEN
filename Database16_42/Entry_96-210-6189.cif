@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2106188
+_citation_journal_full    'Acta Crystallographica B (24,1968-38,1982)'
+_citation_journal_volume  '27'
+_citation_page_first  '2288'
+_citation_page_last   '2289'
+_citation_year  '1971'
+_citation_title  'The refinement of the crystal structure of skutterudite, Co As3'
+loop_
+_publ_author_name
+  'Mandel N.'
+  'Donohue J.'
+_chemical_formula_sum  'As3 Co'
+_chemical_name_common  'Co As3'
+_symmetry_space_group_name_H-M 'I m -3'
+_space_group_IT_number 204
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        8.19500
+_cell_length_b        8.19500
+_cell_length_c        8.19500
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 8
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.250   0.250   0.250    1.00000    1.000
+as      0.000   0.340   0.150    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.847000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.794740        108.97
+     4.097500        101.36
+     3.345595        124.63
+     2.897370         10.97
+     2.591486       1000.00
+     2.365693         15.93
+     2.190206        305.78
+     2.048750          5.72
+     1.931580         72.25
+     1.832458        332.21
+     1.747180         77.25
+     1.672797        192.84
+     1.607172        264.24
+     1.496195          1.52
+     1.448685          0.73
+     1.405431        136.61
+     1.365833         47.02
+     1.329404         11.13
+     1.295743         31.14
+     1.264516          2.44
+     1.235443         45.03
+     1.208287        108.65
+     1.182846         41.74
+     1.158948         28.33
+     1.136442         30.94
+     1.115198         35.99
+     1.095103          1.82
+     1.076056         65.10
+     1.040766         46.26
+     1.024375         12.68
+     1.008735         12.23
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

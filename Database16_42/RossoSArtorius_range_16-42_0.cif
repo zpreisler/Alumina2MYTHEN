@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Rosso Sartorius'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.496406        276.64
+     3.562464        632.31
+     2.695132        928.03
+     2.515010        1000.0
+     2.344106        667.02
+     2.198909        533.33

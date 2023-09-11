@@ -1,0 +1,17 @@
+_chemical_formula_sum  'Mn H O P'
+_chemical_name_mineral  'V Manganese ammonium pyrophosphate'
+_chemical_name_common  'Manganese Violet'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.202349        343.58
+     3.604625        260.62
+     3.443927          68.9
+     3.337623        139.29
+     3.162593        115.75
+     3.084689        283.28
+     2.932098        1000.0
+     2.744349         124.2
+     2.396972        455.32
+     2.319191        114.59
+     2.256720        130.69

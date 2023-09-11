@@ -1,0 +1,128 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9001580
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '79'
+_citation_page_first  '9'
+_citation_page_last   '14'
+_citation_year  '1994'
+_citation_title  'The pressure behavior of alpha cristobaliteP = 0.73 GPa'
+loop_
+_publ_author_name
+  'Downs R. T.'
+  'Palmer D. C.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Cristobalite'
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_space_group_IT_number 92
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.25'
+   '-x, -y, z+0.5'
+   'y+0.5, -x+0.5, z+0.75'
+   'x+0.5, -y+0.5, -z+0.75'
+   '-x+0.5, y+0.5, -z+0.25'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+_cell_length_a        4.90280
+_cell_length_b        4.90280
+_cell_length_c        6.77820
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.309   0.309   0.000    1.00000    0.630
+o      0.236   0.120   0.187    1.00000    1.069
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       730000.000000
+_exptl_crystal_density_diffrn    2.449000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.972529       1000.00
+     3.466803         12.71
+     3.086521        118.52
+     2.787860        154.48
+     2.451400        171.51
+     2.423461         22.33
+     2.305270          0.00
+     2.192599          0.05
+     2.086168         37.77
+     2.051989          1.61
+     1.986265         16.78
+     1.892887         64.84
+     1.840927         62.22
+     1.733402          8.04
+     1.694550         15.35
+     1.679357          0.92
+     1.661373         31.76
+     1.601586          4.64
+     1.588740         37.73
+     1.573488          5.71
+     1.550402          8.50
+     1.543260          5.30
+     1.522415          0.71
+     1.511369         38.42
+     1.472056         51.82
+     1.409878         13.38
+     1.393930         16.89
+     1.375287         15.34
+     1.359792          0.05
+     1.340792         26.41
+     1.333229         15.37
+     1.324176          5.30
+     1.306612         27.82
+     1.278371         38.54
+     1.262546          0.06
+     1.262001         33.96
+     1.225700          0.06
+     1.211730          5.68
+     1.206139         11.78
+     1.189104         14.01
+     1.186324          1.35
+     1.176336          0.34
+     1.171218          8.33
+     1.165066         11.79
+     1.155601          6.73
+     1.153049         17.54
+     1.152635          4.05
+     1.143872         11.66
+     1.139164          5.79
+     1.122044          1.28
+     1.100854          0.31
+     1.096299          1.19
+     1.093766          4.46
+     1.082235         10.33
+     1.077377          8.17
+     1.074111         18.95
+     1.067853          1.33
+     1.060550          3.56
+     1.052270          1.22
+     1.043391          0.45
+     1.043084          9.58
+     1.028840          4.69
+     1.025995          0.71
+     1.020537          3.30
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

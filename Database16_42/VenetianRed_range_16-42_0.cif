@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Venetian Red'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.334782        395.67
+     3.830601        362.56
+     3.697982         43.44
+     3.510381        458.37
+     3.076265        1000.0
+     2.894393        442.22
+     2.793779         42.52
+     2.698366        307.03
+     2.638345          99.3
+     2.598811         89.02
+     2.522050        151.34
+     2.409667         46.06
+     2.219881        233.38

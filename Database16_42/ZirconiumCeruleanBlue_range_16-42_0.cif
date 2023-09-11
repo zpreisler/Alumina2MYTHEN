@@ -1,0 +1,14 @@
+_chemical_formula_sum  'O4 Si V Zr'
+_chemical_name_mineral  'ZirconiumCeruleanBlue'
+_chemical_name_common  'ZirconiumCeruleanBlue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.496406        229.18
+     3.362348        367.46
+     3.322846        465.03
+     3.175937          42.8
+     2.655414         51.52
+     2.524864        1000.0
+     2.340529          72.0
+     2.222028        129.57

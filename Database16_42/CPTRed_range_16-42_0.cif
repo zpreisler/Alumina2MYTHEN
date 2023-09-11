@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C40 H23 Cl5 N6 O4'
+_chemical_name_mineral  'V CPT Red'
+_chemical_name_common  'CPTRed'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.018056         97.87
+     4.330809        352.59
+     3.827350        497.73
+     3.260725        144.08
+     3.074193        1000.0
+     2.877676        275.61
+     2.797265         38.12
+     2.688688        253.36
+     2.598811         80.23
+     2.218835        245.75

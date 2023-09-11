@@ -1,0 +1,115 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1010963
+_citation_journal_full    'Proceedings of the Physico-Mathematical Society of Japan'
+_citation_journal_volume  '20'
+_citation_page_first  '230'
+_citation_page_last   '241'
+_citation_year  '1938'
+_citation_title  'An investigation on oxidation of crystal surfaces with electrondiffraction method, II.- copper single crystals'
+loop_
+_publ_author_name
+  'Yamaguti T'
+_chemical_formula_sum  'Cu2 O'
+_chemical_name_mineral  'Cuprite'
+_chemical_name_common  'Copper(I) oxide'
+_symmetry_space_group_name_H-M 'P n -3 m'
+_space_group_IT_number 224
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -z+0.5, y+0.5'
+   'x, -y, -z'
+   'x+0.5, z+0.5, -y+0.5'
+   'z+0.5, y+0.5, -x+0.5'
+   '-x, y, -z'
+   '-z+0.5, y+0.5, x+0.5'
+   'y, -x, -z'
+   '-y, x, -z'
+   '-x, z, -y'
+   '-x, -z, y'
+   '-z, -y, x'
+   'z, -y, -x'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z+0.5, x+0.5, y+0.5'
+   'y+0.5, -z+0.5, x+0.5'
+   'z+0.5, x+0.5, -y+0.5'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y+0.5, z+0.5, x+0.5'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, y+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   'z+0.5, -y+0.5, x+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+   'x, -z, -y'
+   'x, z, y'
+   '-z, y, -x'
+   'z, y, x'
+_cell_length_a        4.25800
+_cell_length_b        4.25800
+_cell_length_c        4.25800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.000   0.000   0.000    1.00000    1.000
+cu      0.250   0.250   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.155000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.010861         42.53
+     2.458357       1000.00
+     2.129000        371.64
+     1.738321         10.06
+     1.505430        312.52
+     1.346498          2.85
+     1.283835        264.16
+     1.229179         60.59
+     1.137998          2.50
+     1.064500         37.26
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

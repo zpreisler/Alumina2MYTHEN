@@ -1,0 +1,14 @@
+_chemical_formula_sum  'Si Fe'
+_chemical_name_mineral  'V AegirineFine'
+_chemical_name_common  'AegirineFine'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.352413        1000.0
+     3.200611        219.89
+     3.151543        299.57
+     3.004513         89.59
+     2.928253        203.28
+     2.896223        580.93
+     2.827138         60.64
+     2.475202        167.55

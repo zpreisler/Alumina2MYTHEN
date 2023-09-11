@@ -1,0 +1,100 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2100188
+_citation_journal_full    'Acta Crystallographica Section B'
+_citation_journal_volume  '61(2)'
+_citation_page_first  '129'
+_citation_page_last   '132'
+_citation_year  '2005'
+_citation_title  'On the structure of aragonite'
+loop_
+_publ_author_name
+  'Caspi El?ad N.'
+  'Pokroy Boaz'
+  'Lee Peter L.'
+  'Quintana John P.'
+  'Zolotoyabko Emil'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.91427
+_cell_length_b        4.91427
+_cell_length_c        5.40580
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.472   0.000   0.667    1.00000    0.595
+o      0.416   0.266   0.788    1.00000    1.379
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.647000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.255883        205.33
+     3.343932       1000.00
+     2.457135         65.90
+     2.281640         64.80
+     2.236901         30.10
+     2.127941         53.12
+     1.980056         32.01
+     1.818148        127.67
+     1.801933          2.85
+     1.671966         34.67
+     1.659330         15.17
+     1.608572          1.92
+     1.541763         87.33
+     1.453078         15.68
+     1.418628          5.04
+     1.382301         55.25
+     1.375135         66.85
+     1.372165         38.27
+     1.288067         20.22
+     1.256125         26.48
+     1.228567         15.27
+     1.199993         27.29
+     1.198018          6.84
+     1.184157         24.31
+     1.180369         24.16
+     1.153199         19.79
+     1.140820          2.59
+     1.118450          0.26
+     1.114644          2.44
+     1.081720         27.21
+     1.063971          6.23
+     1.047876         14.87
+     1.043943          9.06
+     1.034733         16.19
+     1.015082         14.74
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,18 @@
+_chemical_formula_sum  'C28 H14 N2 O4'
+_chemical_name_mineral  'V Indanthren Blue'
+_chemical_name_common  'Indanthren Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.395711        409.86
+     3.952039        652.93
+     3.833695        725.12
+     3.621806         399.1
+     3.459703        989.69
+     3.337623        821.66
+     3.105905        792.73
+     2.839555        552.79
+     2.740999         464.6
+     2.699947        358.81
+     2.301761        279.65
+     2.227388        380.91

@@ -1,0 +1,130 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011088
+_citation_journal_full    'Bulletin de la Societe Francaise de Mineralogie (-71,1948)'
+_citation_journal_volume  '58'
+_citation_page_first  '6'
+_citation_page_last   '6'
+_citation_year  '1935'
+_citation_title  'Etude de quelques derives de l'oxyde ferrique (Fe O.OH, FeO2Na, FeOCl)determination de leurs structures.'
+loop_
+_publ_author_name
+  'Goldsztaub M S'
+_chemical_formula_sum  'Fe H O2'
+_chemical_name_mineral  'Lepidocrocite'
+_chemical_name_common  'Iron(III) oxide hydroxide'
+_symmetry_space_group_name_H-M 'A m a m'
+_space_group_IT_number 63
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x, y+0.5, z+0.5'
+   '-x, -y, z'
+   '-x, -y+0.5, z+0.5'
+   'x+0.5, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x, -y+0.5, -z+0.5'
+   'x, y, -z'
+   'x, y+0.5, -z+0.5'
+   '-x+0.5, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        3.87000
+_cell_length_b       12.40000
+_cell_length_c        3.06000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.250   -0.190   0.000    1.00000    1.000
+o      0.250   0.190   0.000    1.00000    1.000
+o      0.250   0.423   0.000    1.00000    1.000
+h      -1.000   -1.000   -1.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.019000
+_exptl_crystal_density_meas      3.950000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.200000       1000.00
+     3.282943        389.31
+     3.100000          0.02
+     2.970877         34.49
+     2.459377        427.70
+     2.419473         63.77
+     2.356567        163.95
+     2.075695        120.22
+     2.066667         29.33
+     1.935000        157.80
+     1.926687        278.03
+     1.847131         74.82
+     1.823008         45.84
+     1.724761         28.87
+     1.641471          0.06
+     1.621408          7.24
+     1.550000         57.62
+     1.533073          6.97
+     1.530000         63.06
+     1.520735        150.07
+     1.485439         28.24
+     1.438882          2.74
+     1.425311         45.16
+     1.412507         12.08
+     1.386790         38.52
+     1.371996          0.01
+     1.365303        122.14
+     1.293136         18.25
+     1.262952         12.86
+     1.256306          1.12
+     1.240000         12.22
+     1.229688          7.51
+     1.209736         39.84
+     1.201638          6.20
+     1.200156         40.69
+     1.194920         12.57
+     1.190996          6.75
+     1.183266         15.34
+     1.180864          8.63
+     1.178283         22.65
+     1.171948         15.92
+     1.142387          9.90
+     1.119208          0.00
+     1.094314          6.17
+     1.088876         25.10
+     1.071920          3.85
+     1.057779         10.47
+     1.053701          1.41
+     1.048176          1.37
+     1.044024         11.91
+     1.037848          7.46
+     1.033333          0.01
+     1.020351          8.00
+     1.016567          0.83
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   from Siegen
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

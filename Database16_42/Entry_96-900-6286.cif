@@ -1,0 +1,103 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9006285
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '21'
+_citation_page_first  '269'
+_citation_page_last   '284'
+_citation_year  '1994'
+_citation_title  'Framework silica structures generated using simulated annealingwith a potential energy function based on an H6Si2O7 moleculeSample: 2'
+loop_
+_publ_author_name
+  'Boisen M. B.'
+  'Gibbs G. V.'
+  'Bukowinski M. S. T.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_space_group_IT_number 122
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   'x, -y+0.5, -z+0.25'
+   'x+0.5, -y, -z+0.75'
+   '-x, y+0.5, -z+0.25'
+   '-x+0.5, y, -z+0.75'
+   '-y, -x+0.5, z+0.25'
+   '-y+0.5, -x, z+0.75'
+   'y, x+0.5, z+0.25'
+   'y+0.5, x, z+0.75'
+_cell_length_a        4.74810
+_cell_length_b        4.74810
+_cell_length_c        7.48800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.500   0.500   0.500    1.00000    1.000
+o      0.250   0.623   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.364000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.009905       1000.00
+     2.499587        313.02
+     2.374050         15.27
+     2.209331         11.74
+     2.042864         77.26
+     2.004952         27.87
+     1.872000          0.05
+     1.678707         23.24
+     1.617333        114.37
+     1.548488          5.21
+     1.501481         14.26
+     1.469978         62.22
+     1.428241          3.88
+     1.393591         48.12
+     1.336635         20.70
+     1.296982         43.11
+     1.249794         16.38
+     1.223839         34.32
+     1.187025          6.54
+     1.171274          8.21
+     1.169797         16.31
+     1.164720          8.48
+     1.138202         22.05
+     1.131517          6.86
+     1.104665          1.61
+     1.087804          9.15
+     1.072259         12.16
+     1.061707         17.38
+     1.045657          3.26
+     1.043558          8.20
+     1.021432          2.21
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

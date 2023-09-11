@@ -1,0 +1,19 @@
+_chemical_formula_sum  'C7 H3 N O4'
+_chemical_name_mineral  'XSL Irgazin Red DPP'
+_chemical_name_common  'XSL Irgazin Red DPP'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.606156        128.69
+     4.342750        306.85
+     3.843335        648.46
+     3.630386        197.02
+     3.459703        374.17
+     3.153725        1000.0
+     3.076265        872.04
+     2.881384        555.36
+     2.788524        306.99
+     2.691906        268.57
+     2.606354        133.18
+     2.256720         102.1
+     2.228442        260.86

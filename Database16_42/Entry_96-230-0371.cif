@@ -1,0 +1,101 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2300370
+_citation_journal_full    'Journal of Applied Crystallography'
+_citation_journal_volume  '45(2)'
+_citation_page_first  '272'
+_citation_page_last   '278'
+_citation_year  '2012'
+_citation_title  'Modulation of quartz-like GeO~2~ structure by Si substitution: an X-raydiffraction study of Ge~1{-~<i>x</i>}Si<i>~x~</i>O~2~ (0 {\/leq} <i>x</i>< 0.2) flux-grown single crystals'
+loop_
+_publ_author_name
+  'Lignie Adrien'
+  'Granier Dominique'
+  'Armand Pascale'
+  'Haines Julien'
+  'Papet Philippe'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.91636
+_cell_length_b        4.91636
+_cell_length_c        5.40840
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.470   0.000   0.667    1.00000    0.545
+o      0.414   0.268   -0.214    1.00000    0.983
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    298.000000
+_exptl_crystal_density_diffrn    2.644000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.257693        199.85
+     3.345426       1000.00
+     2.458180         72.29
+     2.282701         72.59
+     2.237873         32.51
+     2.128846         53.39
+     1.980913         31.21
+     1.818967        126.18
+     1.802800          3.21
+     1.672713         38.76
+     1.660114         16.53
+     1.609257          2.35
+     1.542425         91.94
+     1.453749         17.53
+     1.419231          4.23
+     1.382910         56.94
+     1.375765         67.79
+     1.372754         42.54
+     1.288680         22.64
+     1.256675         28.23
+     1.229090         14.97
+     1.200533         29.49
+     1.198530          8.33
+     1.184711         24.67
+     1.180871         27.78
+     1.153692         18.17
+     1.141351          2.80
+     1.118937          0.24
+     1.115142          2.72
+     1.082189         29.33
+     1.064423          5.36
+     1.048376         15.47
+     1.044389         10.75
+     1.035207         16.53
+     1.015532         14.45
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

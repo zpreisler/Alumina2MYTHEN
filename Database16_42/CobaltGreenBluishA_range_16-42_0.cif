@@ -1,0 +1,9 @@
+_chemical_formula_sum  'Co Zn O'
+_chemical_name_mineral  'V Cobalt zinc oxide'
+_chemical_name_common  'Cobalt Green Bluish'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.827138        496.23
+     2.601808        392.15
+     2.477907        1000.0

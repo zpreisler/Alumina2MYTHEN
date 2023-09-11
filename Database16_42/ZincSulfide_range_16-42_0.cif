@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Zn S'
+_chemical_name_mineral  'V Zinc Sulfide'
+_chemical_name_common  'Zinc Sulfide'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.317990        407.54
+     3.133985        1000.0
+     2.928253         295.6
+     2.709711         60.46
+     2.274477         84.37

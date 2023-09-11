@@ -1,0 +1,103 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1100021
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '38'
+_citation_page_first  '381'
+_citation_page_last   '385'
+_citation_year  '1981'
+loop_
+_publ_author_name
+  'Izumi F'
+_chemical_formula_sum  'O Sn'
+_chemical_name_mineral  'Romarchite'
+_chemical_name_common  'Tin oxide'
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_space_group_IT_number 129
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z'
+   '-y+0.5, x+0.5, z'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z'
+   'y, x, -z'
+   '-y, -x, -z'
+   'x+0.5, y+0.5, -z'
+   '-x, y, z'
+   'x, -y, z'
+   '-y+0.5, -x+0.5, z'
+   'y+0.5, x+0.5, z'
+_cell_length_a        3.79860
+_cell_length_b        3.79860
+_cell_length_c        4.84080
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+sn      0.500   0.000   0.237    1.00000    1.000
+o      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.405000
+_exptl_crystal_density_meas      6.400000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.840800         49.19
+     2.988373       1000.00
+     2.686016        273.29
+     2.420400         98.07
+     2.348683          1.47
+     2.041241          8.50
+     1.899300        156.85
+     1.798075        251.05
+     1.768080          7.95
+     1.613600          0.57
+     1.602947        265.81
+     1.494187         78.33
+     1.485159         93.80
+     1.390482          4.13
+     1.383198          9.26
+     1.343008         40.90
+     1.294126          1.97
+     1.229722          1.00
+     1.224988         46.48
+     1.210200         12.19
+     1.201223         35.35
+     1.174342         31.62
+     1.169944         74.11
+     1.165864          0.02
+     1.153094          3.91
+     1.121950          0.91
+     1.103378         23.41
+     1.075998         69.35
+     1.032249          0.63
+     1.029444         52.44
+     1.020621         27.79
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

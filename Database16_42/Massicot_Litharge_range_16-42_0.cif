@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Pb O'
+_chemical_name_mineral  'V Massicot'
+_chemical_name_common  'Massicot_Litharge'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.359858          23.8
+     3.260725         16.63
+     3.063770        302.78
+     2.947486        1000.0
+     2.734405         27.21
+     2.616902         27.65
+     2.503885         26.86
+     2.379496         27.91
+     2.274477         20.67

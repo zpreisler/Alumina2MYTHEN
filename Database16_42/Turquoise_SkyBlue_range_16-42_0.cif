@@ -1,0 +1,20 @@
+_chemical_formula_sum  'Cu Al P H O'
+_chemical_name_mineral  'V Turquoise Sky Blue'
+_chemical_name_common  'Turquoise Sky Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.860437        130.53
+     4.190983         96.42
+     3.703896        848.05
+     3.446546        422.59
+     3.374851        239.26
+     3.289161        316.35
+     3.097467        139.03
+     2.909372        1000.0
+     2.522050        193.95
+     2.413472         70.92
+     2.351355         95.21
+     2.309872        227.39
+     2.233783        180.63
+     2.179363          89.5

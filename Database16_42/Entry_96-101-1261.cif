@@ -1,0 +1,172 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011260
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '62(1-6)'
+_citation_page_first  '260'
+_citation_page_last   '273'
+_citation_year  '1925'
+_citation_title  'XIV. \"Uber die Kristallstruktur des \a- und \b-CdS, sowie des Wurtzits'
+loop_
+_publ_author_name
+  'Ulrich F.'
+  'Zachariasen W.'
+_chemical_formula_sum  'Cd S'
+_chemical_name_mineral  'Hawleyite'
+_chemical_name_common  'Cadmium sulfide - \b'
+_symmetry_space_group_name_H-M 'F -4 3 m'
+_space_group_IT_number 216
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   'x+0.5, y, z+0.5'
+   'x, y+0.5, z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z'
+   'y+0.5, -x, -z+0.5'
+   'y, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   '-x, -y+0.5, z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z'
+   '-y+0.5, x, -z+0.5'
+   '-y, x+0.5, -z+0.5'
+   '-x, z, -y'
+   '-x+0.5, z+0.5, -y'
+   '-x+0.5, z, -y+0.5'
+   '-x, z+0.5, -y+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z'
+   'x+0.5, -y, -z+0.5'
+   'x, -y+0.5, -z+0.5'
+   '-x, -z, y'
+   '-x+0.5, -z+0.5, y'
+   '-x+0.5, -z, y+0.5'
+   '-x, -z+0.5, y+0.5'
+   '-z, -y, x'
+   '-z+0.5, -y+0.5, x'
+   '-z+0.5, -y, x+0.5'
+   '-z, -y+0.5, x+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x+0.5, y, -z+0.5'
+   '-x, y+0.5, -z+0.5'
+   'z, -y, -x'
+   'z+0.5, -y+0.5, -x'
+   'z+0.5, -y, -x+0.5'
+   'z, -y+0.5, -x+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y'
+   'z+0.5, x, y+0.5'
+   'z, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x'
+   'y+0.5, z, x+0.5'
+   'y, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x'
+   '-y+0.5, -z, x+0.5'
+   '-y, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y'
+   'z+0.5, -x, -y+0.5'
+   'z, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x'
+   '-y+0.5, z, -x+0.5'
+   '-y, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y'
+   '-z+0.5, -x, y+0.5'
+   '-z, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y'
+   '-z+0.5, x, -y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x'
+   'y+0.5, -z, -x+0.5'
+   'y, -z+0.5, -x+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z'
+   '-y+0.5, -x, z+0.5'
+   '-y, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z'
+   'y+0.5, x, z+0.5'
+   'y, x+0.5, z+0.5'
+   'x, -z, -y'
+   'x+0.5, -z+0.5, -y'
+   'x+0.5, -z, -y+0.5'
+   'x, -z+0.5, -y+0.5'
+   'x, z, y'
+   'x+0.5, z+0.5, y'
+   'x+0.5, z, y+0.5'
+   'x, z+0.5, y+0.5'
+   '-z, y, -x'
+   '-z+0.5, y+0.5, -x'
+   '-z+0.5, y, -x+0.5'
+   '-z, y+0.5, -x+0.5'
+   'z, y, x'
+   'z+0.5, y+0.5, x'
+   'z+0.5, y, x+0.5'
+   'z, y+0.5, x+0.5'
+_cell_length_a        5.82000
+_cell_length_b        5.82000
+_cell_length_c        5.82000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.000   0.000   0.000    1.00000    1.000
+s      0.250   0.250   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.867000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.360179       1000.00
+     2.910000        231.61
+     2.057681        519.42
+     1.754796        390.37
+     1.680089         54.61
+     1.455000         71.51
+     1.335200        134.69
+     1.301392         59.50
+     1.188003        129.67
+     1.120060         92.67
+     1.028840         41.38
+     0.983760         99.22
+     0.970000         28.80
+     0.920223         71.08
+     0.887542         47.20
+     0.877398         22.66
+     0.840045         27.07
+     0.814963        124.95
+     0.807089         32.25
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

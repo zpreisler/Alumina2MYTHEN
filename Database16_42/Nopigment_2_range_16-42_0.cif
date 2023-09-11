@@ -1,0 +1,14 @@
+_chemical_formula_sum  ''
+_chemical_name_mineral  'Nopigment'
+_chemical_name_common  'Nopigment'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.310847        353.01
+     3.811501        529.48
+     3.065828        1000.0
+     2.874068        202.29
+     2.783374         31.06
+     2.682275        220.18
+     2.594365         74.55
+     2.216695        216.57

@@ -1,0 +1,94 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9000614
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '63'
+_citation_page_first  '289'
+_citation_page_last   '292'
+_citation_year  '1978'
+_citation_title  'The crystal structures and compressibilities of layer minerals at highpressure.  I. SnS2, berndtiteP = 12 kbar'
+loop_
+_publ_author_name
+  'Hazen R. M.'
+  'Finger L. W.'
+_chemical_formula_sum  'S2 Sn'
+_chemical_name_mineral  'Berndtite-2T'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        3.61600
+_cell_length_b        3.61600
+_cell_length_c        5.68000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+sn      0.000   0.000   0.000    1.00000    1.699
+s      0.667   0.333   -0.259    1.00000    1.299
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       1200000.000000
+_exptl_crystal_density_diffrn    4.721000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.680000        806.34
+     3.131548        289.85
+     2.840000         27.04
+     2.742372       1000.00
+     2.103723        545.07
+     1.893333         45.95
+     1.808000        231.02
+     1.722826        152.32
+     1.620223        142.64
+     1.565774         29.46
+     1.525163         21.23
+     1.509471        118.67
+     1.420000         28.62
+     1.371186        102.13
+     1.307576         61.24
+     1.293254         26.60
+     1.206615         41.20
+     1.183614         17.16
+     1.158723         77.90
+     1.136000          3.32
+     1.116743         64.19
+     1.092528         80.57
+     1.067906         31.35
+     1.051861         11.10
+     1.043849         26.02
+     1.026656         18.32
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

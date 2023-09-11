@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Pb S O4'
+_chemical_name_mineral  'V Lead Sulfate'
+_chemical_name_common  'LeadSulfate'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.574881        116.38
+     4.283294        190.75
+     3.604625        891.14
+     3.352413        595.69
+     3.281915        523.99
+     3.004513        270.35
+     2.955195        298.31
+     2.693479         86.55
+     2.629110        1000.0
+     2.432816        146.29
+     2.266682        149.46
+     2.232723        288.93

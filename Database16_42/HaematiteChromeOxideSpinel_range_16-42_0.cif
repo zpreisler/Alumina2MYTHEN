@@ -1,0 +1,14 @@
+_chemical_formula_sum  'Mg Al Co Cr Fe Cu'
+_chemical_name_mineral  'V Cromossido di hematite'
+_chemical_name_common  'Haematite Chrome Oxide Spinel'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885        198.96
+     3.824105        272.86
+     3.688922        313.83
+     3.057510        944.23
+     2.881384        182.75
+     2.691906        1000.0
+     2.515010        728.35
+     2.210404         230.4

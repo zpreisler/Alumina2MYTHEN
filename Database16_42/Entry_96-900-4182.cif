@@ -1,0 +1,85 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9004181
+_citation_journal_full    'The Canadian Mineralogist'
+_citation_journal_volume  '23'
+_citation_page_first  '647'
+_citation_page_last   '654'
+_citation_year  '1985'
+_citation_title  'Anharmonic thermal vibrations in ZnOModel: 3-c, at T = 473 K'
+loop_
+_publ_author_name
+  'Kihara K.'
+  'Donnay G.'
+_chemical_formula_sum  'O Zn'
+_chemical_name_mineral  'Zincite'
+_chemical_name_common  'Zinc oxide'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.25330
+_cell_length_b        3.25330
+_cell_length_c        5.20730
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.679
+o      0.333   0.667   0.378    1.00000    1.558
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    473.000000
+_exptl_crystal_density_diffrn    5.663000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.817440        526.56
+     2.603650        385.94
+     2.477986       1000.00
+     1.912178        202.87
+     1.626650        291.34
+     1.477822        260.84
+     1.408720         38.29
+     1.379547        207.78
+     1.359839        107.57
+     1.301825         17.15
+     1.238993         31.66
+     1.181770         16.79
+     1.093818         65.99
+     1.064892         21.49
+     1.043300         69.01
+     1.016401         37.11
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

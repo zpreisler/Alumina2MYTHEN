@@ -1,0 +1,108 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016105
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '89'
+_citation_page_first  '184'
+_citation_page_last   '190'
+_citation_year  '1990'
+_citation_title  'Low-temperature structures of CuO and AgO and theirrelationships to those of MgO and PdONote: T = 11 K'
+loop_
+_publ_author_name
+  'Brese N. E.'
+  'O?Keeffe M'
+  'Ramakrishna B. L.'
+  'von Dreele R. B.'
+_chemical_formula_sum  'Cu O'
+_chemical_name_mineral  'Tenorite'
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_space_group_IT_number 15
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.68330
+_cell_length_b        3.42080
+_cell_length_c        5.12940
+_cell_angle_alpha    90.0000
+_cell_angle_beta     99.5670
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.250   0.000    1.00000    0.213
+o      0.000   0.418   0.250    1.00000    0.268
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.520000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.748826         59.68
+     2.529030        300.49
+     2.522157        801.55
+     2.320807       1000.00
+     2.309082        233.27
+     1.960287         17.11
+     1.866702        294.81
+     1.775685         11.26
+     1.710400        117.57
+     1.620270          7.28
+     1.579520        158.53
+     1.505102        220.97
+     1.416804        175.90
+     1.408808        170.85
+     1.403797          3.83
+     1.377748        107.91
+     1.374413        156.16
+     1.360822          3.22
+     1.314862          2.82
+     1.302745         87.51
+     1.294316          2.55
+     1.264515         65.98
+     1.261078         76.99
+     1.200723          1.82
+     1.195996         26.07
+     1.194533          1.83
+     1.169483         59.42
+     1.160404         57.44
+     1.155335          1.59
+     1.154541         47.10
+     1.123160         21.28
+     1.120995          1.37
+     1.107931          1.35
+     1.107022          0.00
+     1.090536         78.29
+     1.072536         37.38
+     1.038749         17.31
+     1.029297          0.00
+     1.019518          1.04
+     1.017161          1.01
+     1.016806         40.01
+     1.006410         55.19
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

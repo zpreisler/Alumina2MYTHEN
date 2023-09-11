@@ -1,0 +1,147 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9011356
+_citation_journal_full    'Acta Crystallographica, Section C'
+_citation_journal_volume  '41'
+_citation_page_first  '827'
+_citation_page_last   '832'
+_citation_year  '1985'
+_citation_title  'The structure of lazurite, ideally Na6Ca2(Al6Si6O24)S2, a member of thesodalite groupLocality: Baffin Island'
+loop_
+_publ_author_name
+  'Hassan I.'
+  'Peterson R. C.'
+  'Grundy H. D.'
+_chemical_formula_sum  'Al2.91 Ca0.6 Na3.48 O11.52 S Si3.09'
+_chemical_name_mineral  'Lazurite'
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_space_group_IT_number 218
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, -y+0.5'
+   'x, -y, -z'
+   '-x+0.5, -z+0.5, y+0.5'
+   '-z+0.5, -y+0.5, x+0.5'
+   '-x, y, -z'
+   'z+0.5, -y+0.5, -x+0.5'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, -z+0.5, -y+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   '-z+0.5, y+0.5, -x+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        9.05400
+_cell_length_b        9.05400
+_cell_length_c        9.05400
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+na      0.196   0.196   0.196    0.43000    4.737
+na      0.245   0.245   0.245    0.15000    2.763
+ca      0.245   0.245   0.245    0.15000    2.763
+na      0.317   0.317   0.317    0.29000    4.816
+al      0.250   0.000   0.500    0.97000    2.921
+si      0.250   0.000   0.500    0.03000    2.921
+si      0.250   0.500   0.000    1.00000    3.000
+o      0.133   0.144   0.551    0.37000    3.632
+o      0.153   0.161   0.474    0.40000    4.263
+o      0.598   0.598   0.598    0.36000    16.186
+o      0.402   0.402   0.402    0.21000    11.053
+s      0.000   0.000   0.000    1.00000    10.817
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.173000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.402145        161.31
+     4.527000         22.82
+     4.049072          9.32
+     3.696280       1000.00
+     3.201072         19.46
+     2.863126        121.52
+     2.613665        305.03
+     2.511128          0.31
+     2.419783        149.61
+     2.263500         99.05
+     2.195918          0.10
+     2.134048         85.96
+     2.024536          0.09
+     1.975745          0.04
+     1.930319         21.63
+     1.848140          4.01
+     1.810800          0.03
+     1.775635         59.48
+     1.681286          0.26
+     1.653027         24.77
+     1.600536         86.75
+     1.552748         27.31
+     1.530405          0.32
+     1.509000         18.72
+     1.488468          0.07
+     1.468753         52.04
+     1.431563          0.77
+     1.413997          0.15
+     1.397063          5.82
+     1.364942         59.60
+     1.349691          0.08
+     1.334939         12.89
+     1.306832         25.87
+     1.293429          0.01
+     1.280429         13.51
+     1.255564          0.85
+     1.243663          0.11
+     1.232093         33.25
+     1.209892          1.77
+     1.188848          4.29
+     1.178730          0.01
+     1.159246          0.09
+     1.149859          8.54
+     1.131750          5.28
+     1.123010          0.05
+     1.114470          5.29
+     1.097959          2.15
+     1.089974          0.05
+     1.082160          2.30
+     1.067024          0.83
+     1.059691          0.00
+     1.052506          5.52
+     1.045466          0.02
+     1.038565         16.42
+     1.031799          0.13
+     1.025164          4.92
+     1.012268         15.70
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

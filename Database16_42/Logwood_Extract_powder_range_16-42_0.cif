@@ -1,0 +1,18 @@
+_chemical_formula_sum  'C16 H14 O6'
+_chemical_name_mineral  'V Logwood Extract powder'
+_chemical_name_common  'Logwood Extract powder'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843        334.07
+     3.821027        495.02
+     3.446546         54.26
+     3.175937         40.14
+     3.069953        1000.0
+     2.874068        200.16
+     2.800675         60.43
+     2.746068         58.25
+     2.683836        209.89
+     2.600345         77.51
+     2.536117         39.64
+     2.220980        205.22

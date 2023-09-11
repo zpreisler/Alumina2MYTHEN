@@ -1,0 +1,14 @@
+_chemical_formula_sum  ''
+_chemical_name_mineral  'V IWAEnogu Usukuchi Murasaki'
+_chemical_name_common  'IWAEnogu Usukuchi Murasaki'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.141607        276.98
+     4.517930        130.33
+     3.298713        1000.0
+     3.074193        722.83
+     2.672717        859.17
+     2.647648        737.32
+     2.524864        202.87
+     2.421183        408.09

@@ -1,0 +1,101 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1000062
+_citation_journal_full    'Acta Crystallographica B (24,1968-38,1982)'
+_citation_journal_volume  '27'
+_citation_page_first  '2133'
+_citation_page_last   '2139'
+_citation_year  '1971'
+_citation_title  'Rutile-Type Compounds. VI. Si O2, Ge O2 and a Comparison with otherRutile-Type Structures'
+loop_
+_publ_author_name
+  'Baur W H'
+  'Khan A A'
+_chemical_formula_sum  'O2 Sn'
+_chemical_name_mineral  'Cassiterite'
+_chemical_name_common  'Tin(IV) oxide'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.73800
+_cell_length_b        4.73800
+_cell_length_c        3.18650
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+sn      0.000   0.000   0.000    1.00000    1.000
+o      0.307   0.307   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.997000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.350272       1000.00
+     2.644137        778.95
+     2.369000        217.37
+     2.308923         36.17
+     2.118898         12.70
+     1.764418        584.89
+     1.675136        137.30
+     1.593250         66.89
+     1.498287        121.22
+     1.482736          1.22
+     1.438835        125.71
+     1.415062        157.89
+     1.355882          1.64
+     1.322069         60.80
+     1.314085          0.34
+     1.273423          2.29
+     1.214837         92.72
+     1.184500         29.39
+     1.154461         62.52
+     1.149134          1.58
+     1.116757         29.78
+     1.091477         74.79
+     1.080990         80.31
+     1.059449         37.11
+     1.053908          0.06
+     1.036442         31.84
+     1.013758          0.22
+     1.012500          0.86
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,13 @@
+_chemical_formula_sum  'Fe Mn O Al H'
+_chemical_name_mineral  'Burnt Sienna Italian'
+_chemical_name_common  'Burnt Sienna Italian'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.688922        454.46
+     3.367338         390.7
+     3.223513        398.85
+     3.041014         297.9
+     2.709711        962.68
+     2.524864        1000.0
+     2.210404        473.11

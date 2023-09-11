@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C28 H16 Cl8 O8'
+_chemical_name_mineral  'V Asphaltum'
+_chemical_name_common  'Asphaltum'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        344.24
+     3.836957        516.58
+     3.438701         41.79
+     3.084689        1000.0
+     2.894393        202.65
+     2.816474         44.06
+     2.693479         225.4
+     2.606354         87.42
+     2.416036         39.05
+     2.229498        213.76

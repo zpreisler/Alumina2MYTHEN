@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C'
+_chemical_name_mineral  'V Furnace Black'
+_chemical_name_common  'Furnace Black'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843        321.45
+     3.824105         610.0
+     3.074193        1000.0
+     2.879574        212.34
+     2.688688        242.12
+     2.597351         72.78
+     2.219881        200.84

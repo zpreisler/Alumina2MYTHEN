@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008863
+_citation_journal_full    'Crystal Structures'
+_citation_journal_volume  '1'
+_citation_page_first  '85'
+_citation_page_last   '237'
+_citation_year  '1963'
+_citation_title  'Second edition. Interscience Publishers, New York, New YorkNote: wurtzite structure'
+loop_
+_publ_author_name
+  'Wyckoff R. W. G.'
+_chemical_formula_sum  'Cd Se'
+_chemical_name_mineral  'Cadmoselite'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        4.30000
+_cell_length_b        4.30000
+_cell_length_c        7.02000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.333   0.667   0.000    1.00000    1.000
+se      0.333   0.667   0.385    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.654000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.723909       1000.00
+     3.510000        658.68
+     3.289704        661.91
+     2.554220        404.01
+     2.150000        815.09
+     1.981308        733.15
+     1.861955        124.94
+     1.833393        545.66
+     1.799725        101.44
+     1.755000          6.30
+     1.644852         91.67
+     1.587534          6.35
+     1.456988        235.80
+     1.407505         87.13
+     1.380040         72.60
+     1.359562         13.34
+     1.313730        188.47
+     1.306386         74.63
+     1.277110          2.57
+     1.241303        106.33
+     1.206128        225.05
+     1.170277         98.00
+     1.170000          9.51
+     1.121019        104.20
+     1.116204         12.10
+     1.098006          2.93
+     1.075000         64.23
+     1.032827         28.77
+     1.027873         65.39
+     1.027685         38.08
+     1.021827         25.12
+     1.013430          4.75
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

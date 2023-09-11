@@ -1,0 +1,18 @@
+_chemical_formula_sum  'C7 H3 N O4'
+_chemical_name_mineral  'V Irgazin Scarlet DPP EK'
+_chemical_name_common  'Irgazin Scarlet DPP EK'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.326843        342.68
+     3.824105        485.07
+     3.730982         52.59
+     3.369838        132.99
+     3.140572         97.98
+     3.069953        1000.0
+     2.870380        251.12
+     2.786834         39.04
+     2.682275        255.57
+     2.597351         82.47
+     2.537575         20.24
+     2.218835        238.21

@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Ca C O3 Cu'
+_chemical_name_mineral  'V Calcite Copper Phthalocyanine'
+_chemical_name_common  'Studio Pigment Dark Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.882227         62.91
+     3.045070        1000.0
+     2.843161         32.13
+     2.497018        136.29
+     2.289176        216.62

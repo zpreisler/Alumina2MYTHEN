@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_7103014
+_citation_journal_full    'Chemical communications (Cambridge, England)'
+_citation_journal_volume  '13'
+_citation_page_first  '1557'
+_citation_page_last   '1559'
+_citation_year  '2008'
+_citation_title  'Hydrogenous materials using powder neutron diffraction: fullstructural determination of adsorbed water molecules in a zeolite.'
+loop_
+_publ_author_name
+  'Henry Paul F'
+  'Weller Mark T'
+  'Wilson Chick C'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_common  'Silica'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.91150
+_cell_length_b        4.91150
+_cell_length_c        5.40380
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.470   0.000   0.167    1.00000    1.973
+o      0.413   0.267   0.285    1.00000    1.973
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.651000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.253484        203.18
+     3.342295       1000.00
+     2.455750         69.47
+     2.280669         68.05
+     2.235714         30.07
+     2.126742         46.97
+     1.978992         29.19
+     1.817283        110.19
+     1.801267          2.45
+     1.671148         33.26
+     1.658667         14.09
+     1.607666          2.18
+     1.540918         73.55
+     1.452442         13.59
+     1.417828          3.29
+     1.381592         42.08
+     1.374515         50.45
+     1.371409         31.74
+     1.287568         16.00
+     1.255470         19.68
+     1.227875         10.07
+     1.199420         20.49
+     1.197354          5.63
+     1.183665         16.50
+     1.179704         18.70
+     1.152559         11.72
+     1.140335          1.87
+     1.117857          0.23
+     1.114098          1.85
+     1.081144         18.00
+     1.063371          2.91
+     1.047476          9.04
+     1.043362          6.48
+     1.034267          9.14
+     1.014572          7.60
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

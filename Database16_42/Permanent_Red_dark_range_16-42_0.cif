@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C12 H36'
+_chemical_name_mineral  'V Permanent Red dark'
+_chemical_name_common  'Permanent Red dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        361.77
+     3.824105        587.29
+     3.277182         35.85
+     3.072123        1000.0
+     2.879574        180.77
+     2.683836        207.94
+     2.598811         85.85
+     2.530512         45.16
+     2.219881        216.01

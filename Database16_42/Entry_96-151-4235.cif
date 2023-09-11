@@ -1,0 +1,94 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514234
+_citation_journal_full    'Journal of the Physical Society of Japan'
+_citation_journal_volume  '30(5)'
+_citation_page_first  '1311'
+_citation_page_last   '1318'
+_citation_year  '1971'
+_citation_title  'Determination of the exchange integrals in beta - Mn O2'
+loop_
+_publ_author_name
+  'Ohama N.'
+  'Hamaguchi Y.'
+_chemical_formula_sum  'Mn O2'
+_chemical_name_mineral  'Pyrolusite'
+_chemical_name_common  'Manganese(IV) Oxide - Beta'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.39600
+_cell_length_b        4.39600
+_cell_length_c        2.87100
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.000   0.000   0.000    1.00000    1.000
+o      0.302   0.302   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.204000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.108441       1000.00
+     2.403768        537.92
+     2.198000         90.94
+     2.109056        134.93
+     1.965951         41.42
+     1.622097        506.05
+     1.554221        144.26
+     1.435500         65.87
+     1.390137         78.89
+     1.366794          3.01
+     1.305164        152.83
+     1.303243         86.41
+     1.251184          7.83
+     1.219231          1.42
+     1.201884         22.77
+     1.159335          6.45
+     1.122229         42.47
+     1.099000         24.48
+     1.066187          5.69
+     1.054528         55.67
+     1.036147         27.41
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

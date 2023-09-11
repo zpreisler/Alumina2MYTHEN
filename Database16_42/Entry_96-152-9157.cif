@@ -1,0 +1,128 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1529156
+_citation_journal_full    'Solid State Sciences'
+_citation_journal_volume  '6'
+_citation_page_first  '167'
+_citation_page_last   '172'
+_citation_year  '2004'
+_citation_title  'A new thermoelectric misfit cobaltite: (Sr2 Co O3) (Co O2)1.8'
+loop_
+_publ_author_name
+  'Pelloquin D.'
+  'Hebert S.'
+  'Raveau B.'
+  'Maignan A.'
+_chemical_formula_sum  'Co1.796 O3.592'
+_chemical_name_common  '(Sr2 Co O3) (Co O2)1.796'
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_space_group_IT_number 12
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        4.93000
+_cell_length_b        2.80300
+_cell_length_c       11.14000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     98.0500
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.160   0.750   0.430    0.89800    1.000
+co      0.750   0.750   0.000    0.89800    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.558000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+    11.030229        524.37
+     5.515115       1000.00
+     3.676743        142.38
+     2.757557         70.02
+     2.456745         21.39
+     2.440710         90.09
+     2.357428        122.23
+     2.315644         50.76
+     2.206046         73.46
+     2.178909         10.30
+     2.124529         23.49
+     1.969656         57.59
+     1.913719         50.26
+     1.838372          7.68
+     1.764100         11.72
+     1.712497          5.26
+     1.578497         13.43
+     1.575747         26.52
+     1.533271         23.32
+     1.417354         10.91
+     1.401500         15.82
+     1.390322          5.63
+     1.378779          2.64
+     1.378583          3.10
+     1.358328         21.86
+     1.309585          9.32
+     1.279665          2.57
+     1.249395          8.09
+     1.246661          6.74
+     1.231957          5.43
+     1.228372          5.12
+     1.225581          7.15
+     1.220355          2.36
+     1.217345          4.03
+     1.215380         11.62
+     1.209990          2.41
+     1.204688         15.78
+     1.199000          7.99
+     1.194804          7.33
+     1.182961         11.55
+     1.178721          2.74
+     1.178714          6.81
+     1.169880          4.98
+     1.162480          6.71
+     1.157822          1.26
+     1.141926         11.47
+     1.137452          1.18
+     1.134370          3.05
+     1.130710         10.77
+     1.114553          2.57
+     1.112579          5.47
+     1.103023          2.23
+     1.097349          3.73
+     1.089454          5.13
+     1.084588          2.10
+     1.062534          0.96
+     1.062265          1.43
+     1.048024          5.09
+     1.047218          9.30
+     1.038485          1.74
+     1.037752          1.27
+     1.034464          8.87
+     1.009645          2.62
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

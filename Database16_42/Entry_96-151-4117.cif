@@ -1,0 +1,127 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514116
+_citation_journal_full    'Materials Research Bulletin'
+_citation_journal_volume  '27'
+_citation_page_first  '221'
+_citation_page_last   '230'
+_citation_year  '1992'
+_citation_title  'Alpha manganese dioxide for lithium batteries: a structural andelectrochemical study'
+loop_
+_publ_author_name
+  'Rossouw M. H.'
+  'Liles D. C.'
+  'Thackeray M. M.'
+  'David W. I. F.'
+  'Hull S.'
+_chemical_formula_sum  'Mn0.98 O2'
+_chemical_name_common  'Manganese Oxide (1/2) - Alpha'
+_symmetry_space_group_name_H-M 'I 4/m'
+_space_group_IT_number 87
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+_cell_length_a        9.78760
+_cell_length_b        9.78760
+_cell_length_c        2.86500
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 8
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.348   0.165   0.000    0.98000    1.000
+o      0.155   0.203   0.000    1.00000    1.000
+o      0.541   0.165   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.154000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.920878       1000.00
+     4.893800        817.81
+     3.460439         18.26
+     3.095111        464.12
+     2.749622          0.82
+     2.446900        204.34
+     2.397160        571.93
+     2.306959         94.90
+     2.188574         40.76
+     2.152766        144.62
+     1.970534         15.74
+     1.919506         53.54
+     1.827914        300.53
+     1.730220          8.33
+     1.678559          4.59
+     1.631267        139.34
+     1.616276         38.75
+     1.547555         25.85
+     1.534739        292.06
+     1.432500         62.65
+     1.402948         12.12
+     1.402767         14.24
+     1.384176         26.73
+     1.374811         24.41
+     1.357296         27.26
+     1.348624        184.07
+     1.323574          1.47
+     1.300158          2.98
+     1.300014         41.82
+     1.285175         32.13
+     1.256568          0.52
+     1.236231         28.71
+     1.223450          2.62
+     1.217088         20.02
+     1.216969         21.47
+     1.198580          6.93
+     1.186921          1.54
+     1.153480         18.15
+     1.148143         10.78
+     1.148044         10.12
+     1.137785         11.02
+     1.117792         39.30
+     1.103404          3.08
+     1.094287          2.66
+     1.089642          1.95
+     1.080860         17.79
+     1.076383         47.08
+     1.063676          2.36
+     1.051255         10.85
+     1.031704         19.66
+     1.016728          1.47
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

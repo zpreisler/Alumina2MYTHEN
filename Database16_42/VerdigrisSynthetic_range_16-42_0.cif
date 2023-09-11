@@ -1,0 +1,21 @@
+_chemical_formula_sum  'Cu'
+_chemical_name_mineral  'V Verdigris'
+_chemical_name_common  'Verdigris Synthetic'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.310847         46.93
+     3.601897        107.72
+     3.562464         39.14
+     3.472830         27.37
+     3.308323         53.71
+     3.129680         56.84
+     3.093160         38.07
+     3.043040         30.93
+     2.696709         45.36
+     2.609369         29.43
+     2.550420         37.57
+     2.435424         12.67
+     2.390708         35.64
+     2.301761         65.18
+     2.227388        1000.0

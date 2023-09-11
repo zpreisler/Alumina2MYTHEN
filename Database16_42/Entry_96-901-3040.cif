@@ -1,0 +1,258 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9013039
+_citation_journal_full    'Journal of Materials Science'
+_citation_journal_volume  '23'
+_citation_page_first  '757'
+_citation_page_last   '760'
+_citation_year  '1988'
+_citation_title  'High-temperature thermal expansion of six metallic elements measuredby dilatation method and X-ray diffractionLocality: syntheticSample: at T = 875 K'
+loop_
+_publ_author_name
+  'Suh I.-K.'
+  'Ohta H.'
+  'Waseda Y.'
+_chemical_formula_sum  'Au'
+_chemical_name_mineral  'Gold'
+_chemical_name_common  'Gold'
+_symmetry_space_group_name_H-M 'F m -3 m'
+_space_group_IT_number 225
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   'x+0.5, y, z+0.5'
+   'x, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z'
+   '-y+0.5, x, z+0.5'
+   '-y, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   '-x, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z'
+   'y+0.5, -x, z+0.5'
+   'y, -x+0.5, z+0.5'
+   'x, -z, y'
+   'x+0.5, -z+0.5, y'
+   'x+0.5, -z, y+0.5'
+   'x, -z+0.5, y+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z'
+   'x+0.5, -y, -z+0.5'
+   'x, -y+0.5, -z+0.5'
+   'x, z, -y'
+   'x+0.5, z+0.5, -y'
+   'x+0.5, z, -y+0.5'
+   'x, z+0.5, -y+0.5'
+   'z, y, -x'
+   'z+0.5, y+0.5, -x'
+   'z+0.5, y, -x+0.5'
+   'z, y+0.5, -x+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x+0.5, y, -z+0.5'
+   '-x, y+0.5, -z+0.5'
+   '-z, y, x'
+   '-z+0.5, y+0.5, x'
+   '-z+0.5, y, x+0.5'
+   '-z, y+0.5, x+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y'
+   'z+0.5, x, y+0.5'
+   'z, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x'
+   'y+0.5, z, x+0.5'
+   'y, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x'
+   '-y+0.5, -z, x+0.5'
+   '-y, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y'
+   'z+0.5, -x, -y+0.5'
+   'z, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x'
+   '-y+0.5, z, -x+0.5'
+   '-y, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y'
+   '-z+0.5, -x, y+0.5'
+   '-z, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y'
+   '-z+0.5, x, -y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x'
+   'y+0.5, -z, -x+0.5'
+   'y, -z+0.5, -x+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z'
+   'y+0.5, x, -z+0.5'
+   'y, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z'
+   '-y+0.5, -x, -z+0.5'
+   '-y, -x+0.5, -z+0.5'
+   '-x, z, y'
+   '-x+0.5, z+0.5, y'
+   '-x+0.5, z, y+0.5'
+   '-x, z+0.5, y+0.5'
+   '-x, -z, -y'
+   '-x+0.5, -z+0.5, -y'
+   '-x+0.5, -z, -y+0.5'
+   '-x, -z+0.5, -y+0.5'
+   'z, -y, x'
+   'z+0.5, -y+0.5, x'
+   'z+0.5, -y, x+0.5'
+   'z, -y+0.5, x+0.5'
+   '-z, -y, -x'
+   '-z+0.5, -y+0.5, -x'
+   '-z+0.5, -y, -x+0.5'
+   '-z, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   '-x+0.5, -y, -z+0.5'
+   '-x, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z'
+   'y+0.5, -x, -z+0.5'
+   'y, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   'x, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z'
+   '-y+0.5, x, -z+0.5'
+   '-y, x+0.5, -z+0.5'
+   '-x, z, -y'
+   '-x+0.5, z+0.5, -y'
+   '-x+0.5, z, -y+0.5'
+   '-x, z+0.5, -y+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z'
+   '-x+0.5, y, z+0.5'
+   '-x, y+0.5, z+0.5'
+   '-x, -z, y'
+   '-x+0.5, -z+0.5, y'
+   '-x+0.5, -z, y+0.5'
+   '-x, -z+0.5, y+0.5'
+   '-z, -y, x'
+   '-z+0.5, -y+0.5, x'
+   '-z+0.5, -y, x+0.5'
+   '-z, -y+0.5, x+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+   'x+0.5, -y, z+0.5'
+   'x, -y+0.5, z+0.5'
+   'z, -y, -x'
+   'z+0.5, -y+0.5, -x'
+   'z+0.5, -y, -x+0.5'
+   'z, -y+0.5, -x+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y'
+   '-z+0.5, -x, -y+0.5'
+   '-z, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x'
+   '-y+0.5, -z, -x+0.5'
+   '-y, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x'
+   'y+0.5, z, -x+0.5'
+   'y, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y'
+   '-z+0.5, x, y+0.5'
+   '-z, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x'
+   'y+0.5, -z, x+0.5'
+   'y, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y'
+   'z+0.5, x, -y+0.5'
+   'z, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y'
+   'z+0.5, -x, y+0.5'
+   'z, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x'
+   '-y+0.5, z, x+0.5'
+   '-y, z+0.5, x+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z'
+   '-y+0.5, -x, z+0.5'
+   '-y, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z'
+   'y+0.5, x, z+0.5'
+   'y, x+0.5, z+0.5'
+   'x, -z, -y'
+   'x+0.5, -z+0.5, -y'
+   'x+0.5, -z, -y+0.5'
+   'x, -z+0.5, -y+0.5'
+   'x, z, y'
+   'x+0.5, z+0.5, y'
+   'x+0.5, z, y+0.5'
+   'x, z+0.5, y+0.5'
+   '-z, y, -x'
+   '-z+0.5, y+0.5, -x'
+   '-z+0.5, y, -x+0.5'
+   '-z, y+0.5, -x+0.5'
+   'z, y, x'
+   'z+0.5, y+0.5, x'
+   'z+0.5, y, x+0.5'
+   'z, y+0.5, x+0.5'
+_cell_length_a        4.11000
+_cell_length_b        4.11000
+_cell_length_c        4.11000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+au      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    875.000000
+_exptl_crystal_density_diffrn    18.844000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.372910       1000.00
+     2.055000        480.20
+     1.453104        285.56
+     1.239212        314.74
+     1.186455         89.83
+     1.027500         44.10
+     0.942899        155.50
+     0.919024        154.21
+     0.838950        178.77
+     0.790970        389.97
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

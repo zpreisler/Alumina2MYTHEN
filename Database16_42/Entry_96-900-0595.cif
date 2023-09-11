@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9000594
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '62'
+_citation_page_first  '1168'
+_citation_page_last   '1172'
+_citation_year  '1977'
+_citation_title  'Crystal structure refinement of a weakly anisotropic pyritecubic model'
+loop_
+_publ_author_name
+  'Bayliss P.'
+_chemical_formula_sum  'Fe S2'
+_chemical_name_mineral  'Pyrite'
+_symmetry_space_group_name_H-M 'P a -3'
+_space_group_IT_number 205
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -z, x+0.5'
+   'z+0.5, -x+0.5, -y'
+   '-y, z+0.5, -x+0.5'
+   '-z+0.5, -x, y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y+0.5, -z+0.5, -x'
+   '-x+0.5, -y, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, z, -x+0.5'
+   '-z+0.5, x+0.5, y'
+   'y, -z+0.5, x+0.5'
+   'z+0.5, x, -y+0.5'
+   'z, -x+0.5, y+0.5'
+   '-y+0.5, z+0.5, x'
+   'x+0.5, y, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x, -y+0.5, z+0.5'
+_cell_length_a        5.41660
+_cell_length_b        5.41660
+_cell_length_c        5.41660
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.000   0.000   0.000    1.00000    0.280
+s      0.385   0.385   0.385    1.00000    0.330
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.015000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.127276        391.82
+     2.708300        955.22
+     2.422377        548.64
+     2.211318        454.74
+     1.915057        510.09
+     1.805533          6.36
+     1.633166       1000.00
+     1.563638        158.37
+     1.502295        161.08
+     1.447647        215.43
+     1.354150          0.32
+     1.313719          7.32
+     1.276705          4.20
+     1.242653        104.86
+     1.211189        131.12
+     1.181999         85.56
+     1.154823         42.09
+     1.105659        125.09
+     1.083320          3.65
+     1.062283          5.35
+     1.042425        335.87
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

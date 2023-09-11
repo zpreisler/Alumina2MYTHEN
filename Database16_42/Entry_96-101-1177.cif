@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011176
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '94'
+_citation_page_first  '222'
+_citation_page_last   '230'
+_citation_year  '1936'
+_citation_title  'Die Kristallstruktur von Tiefquarz Si O2 und Aluminiumorthoarsenat AlAs O4'
+loop_
+_publ_author_name
+  'Machatschki F'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz low'
+_chemical_name_common  'Silicon oxide - $-alpha'
+_symmetry_space_group_name_H-M 'P 32 2 1 S'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y, x, -z+0.66667'
+   '-y, x-y, z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z'
+_cell_length_a        4.90000
+_cell_length_b        4.90000
+_cell_length_c        5.40000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.469   0.000   0.000    1.00000    1.000
+o      0.403   0.253   0.122    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.665000
+_exptl_crystal_density_meas      2.660000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.243525        159.35
+     3.336561       1000.00
+     2.450000         71.99
+     2.277989         70.28
+     2.231105         22.67
+     2.121762         38.49
+     1.974792         24.85
+     1.814373        136.96
+     1.800000          1.99
+     1.668280         31.64
+     1.657087         14.98
+     1.603902          3.92
+     1.537515         87.69
+     1.450587         15.16
+     1.414508          4.36
+     1.378948         43.62
+     1.372607         65.99
+     1.368342         31.60
+     1.286468         17.36
+     1.252974         26.75
+     1.225000         16.37
+     1.197481         25.07
+     1.194646          8.07
+     1.182382         21.89
+     1.176942         24.01
+     1.149946         18.56
+     1.138995          2.69
+     1.115552          0.26
+     1.112187          2.40
+     1.078895         21.92
+     1.060881          3.89
+     1.046635         13.26
+     1.040982          9.16
+     1.032838         15.04
+     1.012723          8.76
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

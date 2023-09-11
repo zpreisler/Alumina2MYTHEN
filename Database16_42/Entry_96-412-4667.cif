@@ -1,0 +1,105 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_4124666
+_citation_journal_full    'Journal of the American Chemical Society'
+_citation_journal_volume  '63'
+_citation_page_first  '1392'
+_citation_page_last   '1394'
+_citation_year  '1941'
+_citation_title  'The crystal structures of the tetragonal monoxides of lead, tin,palladium, and platinum'
+loop_
+_publ_author_name
+  'Moore W.J.'
+  'Pauling L.'
+_chemical_formula_sum  'O Pb'
+_chemical_name_common  'Lead(II) oxide'
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_space_group_IT_number 129
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z'
+   '-y+0.5, x+0.5, z'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z'
+   'y, x, -z'
+   '-y, -x, -z'
+   'x+0.5, y+0.5, -z'
+   '-x, y, z'
+   'x, -y, z'
+   '-y+0.5, -x+0.5, z'
+   'y+0.5, x+0.5, z'
+_cell_length_a        3.94700
+_cell_length_b        3.94700
+_cell_length_c        4.98800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.000   0.000   0.000    1.00000    1.000
+pb      0.500   0.000   0.238    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    9.539000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.988000         22.28
+     3.095182       1000.00
+     2.790950        318.65
+     2.494000        114.03
+     2.435606          0.03
+     2.108370          6.90
+     1.973500        155.11
+     1.859680        249.03
+     1.835089          4.29
+     1.664031        300.56
+     1.662667          0.84
+     1.547591         99.85
+     1.532265        107.00
+     1.440797          3.70
+     1.428406          6.54
+     1.395475         44.44
+     1.343874          1.16
+     1.272157         55.78
+     1.271547          1.43
+     1.248151         46.71
+     1.247000         13.37
+     1.217803         41.87
+     1.210819          0.03
+     1.210293         89.24
+     1.189067          3.57
+     1.163673          0.85
+     1.138525         31.24
+     1.116174         77.24
+     1.069253         62.67
+     1.068891          0.86
+     1.054185         30.83
+     1.031727         27.51
+     1.018484          4.56
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

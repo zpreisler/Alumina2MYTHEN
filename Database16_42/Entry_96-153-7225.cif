@@ -1,0 +1,105 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1537224
+_citation_journal_full    'Physical Review, Serie 3. B - Condensed Matter (18,1978-)'
+_citation_journal_volume  '48'
+_citation_page_first  '2889'
+_citation_page_last   '2908'
+_citation_year  '1993'
+_citation_title  'Crystal-structure calculations with distorted ions'
+loop_
+_publ_author_name
+  'Lacks D.J.'
+  'Gordon R.G.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_common  'Titanium(IV) oxide'
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_space_group_IT_number 152
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.33333'
+   '-x+y, -x, z+0.66667'
+   'x-y, -y, -z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   'y, x, -z'
+_cell_length_a        5.29100
+_cell_length_b        5.29100
+_cell_length_c        6.13300
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.408   0.303   0.215    1.00000    1.000
+ti      0.453   0.000   0.333    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.676000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.582140        193.56
+     3.670765       1000.00
+     2.645500         89.18
+     2.548465        122.91
+     2.429143         75.25
+     2.291070        122.16
+     2.146207          7.39
+     2.044333         13.17
+     2.003093        100.33
+     1.866950         15.26
+     1.835383         65.10
+     1.731886          5.63
+     1.666707        103.55
+     1.617626         39.68
+     1.527380          0.04
+     1.525364         61.66
+     1.508001         72.77
+     1.482110         60.73
+     1.454009         33.87
+     1.367176         25.60
+     1.326557         24.17
+     1.322750          6.21
+     1.321440         30.57
+     1.293018         13.06
+     1.274232          4.84
+     1.270857         30.38
+     1.244421          3.40
+     1.223588          0.91
+     1.214572          3.16
+     1.184881         17.42
+     1.174028         23.96
+     1.148005         13.83
+     1.145535          1.34
+     1.126061          9.50
+     1.112805          9.67
+     1.110555         11.00
+     1.082090          2.90
+     1.081372          1.32
+     1.079307         16.35
+     1.073104          4.95
+     1.051215          4.36
+     1.036105         17.56
+     1.022167          1.89
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

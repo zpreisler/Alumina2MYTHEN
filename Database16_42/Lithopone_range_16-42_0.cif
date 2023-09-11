@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Zn S Ba'
+_chemical_name_mineral  'V Zinc sulphide Barium sulfate'
+_chemical_name_common  'Lithopone'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.458184         93.05
+     3.921760         65.76
+     3.780200         48.14
+     3.596168         92.01
+     3.457064        244.38
+     3.320416        647.36
+     3.127533        1000.0
+     2.928253        310.73
+     2.836046        203.02
+     2.729380         191.3
+     2.477907         84.05
+     2.279004         171.4
+     2.211441         107.8

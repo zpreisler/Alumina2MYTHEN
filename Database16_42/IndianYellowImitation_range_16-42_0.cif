@@ -1,0 +1,23 @@
+_chemical_formula_sum  'C8 H6 N6 O6'
+_chemical_name_mineral  'V Indian Yellow Imitation'
+_chemical_name_common  'Indian Yellow Imitation'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.890191        361.97
+     4.437234        553.35
+     3.836957        729.85
+     3.734068        280.58
+     3.425708         237.5
+     3.258271        293.44
+     3.082605        1000.0
+     2.955195         95.23
+     2.886918        263.38
+     2.798969         144.6
+     2.696709        321.19
+     2.626047        423.85
+     2.457802        167.31
+     2.386918        324.32
+     2.264442        157.74
+     2.231665        346.06
+     2.187542         80.79

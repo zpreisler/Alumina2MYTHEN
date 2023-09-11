@@ -1,0 +1,122 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9014436
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '38'
+_citation_page_first  'Online'
+_citation_page_last   'first'
+_citation_year  '2011'
+_citation_title  'New insights into the high-pressure polymorphism of SiO2 cristobaliteNote: P = 7.3 GPa'
+loop_
+_publ_author_name
+  'Dera P.'
+  'Lazarz J. D.'
+  'Prakapenka V. B.'
+  'Barkley M.'
+  'Downs R. T.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Cristobalite'
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_space_group_IT_number 92
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.25'
+   '-x, -y, z+0.5'
+   'y+0.5, -x+0.5, z+0.75'
+   'x+0.5, -y+0.5, -z+0.75'
+   '-x+0.5, y+0.5, -z+0.25'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+_cell_length_a        4.63200
+_cell_length_b        4.63200
+_cell_length_c        6.20900
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.335   0.335   0.000    1.00000    0.552
+o      0.228   0.177   0.223    1.00000    0.631
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.996000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.712692       1000.00
+     3.275319         63.96
+     2.896960        252.64
+     2.578852        382.54
+     2.316000        369.33
+     2.253182         14.90
+     2.169957         38.75
+     2.071493          9.65
+     1.965018         90.42
+     1.889616         17.48
+     1.856346          0.73
+     1.749628         80.23
+     1.723119         72.29
+     1.637659         39.30
+     1.583505          0.44
+     1.552250         76.82
+     1.543243         41.80
+     1.498367          6.48
+     1.471805          0.65
+     1.464767         35.76
+     1.464121         13.33
+     1.448480         27.07
+     1.425633         80.05
+     1.402697          6.55
+     1.382462        167.38
+     1.324719         22.08
+     1.289426         51.32
+     1.284686          6.67
+     1.284250          8.04
+     1.258039         40.41
+     1.242194         17.33
+     1.237564          0.00
+     1.199444         43.24
+     1.195625         73.38
+     1.187062         68.23
+     1.161146          4.54
+     1.158000          1.79
+     1.138371          5.69
+     1.126591         11.16
+     1.123425          0.93
+     1.105476         28.77
+     1.094678          0.58
+     1.094408          2.95
+     1.091773         25.88
+     1.091505         17.00
+     1.084978          0.60
+     1.075276          1.23
+     1.065332         22.00
+     1.065083         24.13
+     1.056385          1.58
+     1.035747          0.71
+     1.029940          0.38
+     1.021630         16.22
+     1.010573         11.94
+     1.009936          9.76
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Ellora Caves, India
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

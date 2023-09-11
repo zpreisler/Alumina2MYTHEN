@@ -1,0 +1,17 @@
+_chemical_formula_sum  'Si O Al Ca Fe Mn'
+_chemical_name_mineral  'V SiO2 Al2O3 CaO Fe2O3 MnO2'
+_chemical_name_common  'Green Earth Light'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.535299        141.37
+     4.302997         89.88
+     3.604625         74.84
+     3.364841        1000.0
+     3.263066         67.59
+     3.018605         81.39
+     2.592838        207.56
+     2.464443        110.24
+     2.403271         92.01
+     2.290350        116.12
+     2.237022         76.31

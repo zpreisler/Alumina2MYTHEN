@@ -1,0 +1,15 @@
+_chemical_formula_sum  'As2 S5'
+_chemical_name_mineral  'V Arsenic pentasulfide'
+_chemical_name_common  'Orpiment'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.855426        1000.0
+     3.200611        383.98
+     3.078341        102.01
+     2.776483        191.47
+     2.541818        171.75
+     2.448554         73.41
+     2.398266         72.27
+     2.346517        115.28
+     2.257805          31.0

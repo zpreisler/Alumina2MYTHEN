@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Cr2 O3'
+_chemical_name_mineral  'V Chrome Oxide Green'
+_chemical_name_common  'Chrome Oxide Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.656527        433.93
+     2.666384        1000.0
+     2.484730         798.7
+     2.268872         118.5
+     2.180369        321.33

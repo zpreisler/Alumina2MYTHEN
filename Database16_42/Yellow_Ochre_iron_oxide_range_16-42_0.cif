@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Ochre'
+_chemical_name_common  'Yellow Ochre iron oxide'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.202349        119.42
+     3.882227        101.07
+     3.671234         66.08
+     3.537677        137.27
+     3.036868        1000.0
+     2.687042        116.26
+     2.486059        300.35
+     2.443284        102.85
+     2.283495        164.76

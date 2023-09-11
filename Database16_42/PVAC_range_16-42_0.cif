@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C4 H6 O2'
+_chemical_name_mineral  'PVAC'
+_chemical_name_common  'PVAC'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.318726         380.9
+     3.821027        657.57
+     3.069953        1000.0
+     2.874068        237.54
+     2.682275         269.2
+     2.598811         84.31
+     2.215652        235.57

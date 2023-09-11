@@ -1,0 +1,8 @@
+_chemical_formula_sum  'Fe P O H'
+_chemical_name_mineral  'V Vivianite'
+_chemical_name_common  'Vivianite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.205232        830.19
+     2.698366        835.12

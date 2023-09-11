@@ -1,0 +1,260 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514099
+_citation_journal_full    'Proceedings of the Japan Academy'
+_citation_journal_volume  '55'
+_citation_page_first  '43'
+_citation_page_last   '48'
+_citation_year  '1979'
+_citation_title  'X-Ray Determination of Electron-Density Distributions in Oxides, MgO, MnO,CoO, and NiO, and Atomic Scattering Factors of their Constituent Atoms'
+loop_
+_publ_author_name
+  'Sasaki Satoshi'
+  'Fujino Kiyoshi'
+  'Tak?uchi Yoshio'
+_chemical_formula_sum  'Mn O'
+_chemical_name_mineral  'Manganosite'
+_chemical_name_common  'Manganese Oxide'
+_symmetry_space_group_name_H-M 'F m -3 m'
+_space_group_IT_number 225
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   'x+0.5, y, z+0.5'
+   'x, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z'
+   '-y+0.5, x, z+0.5'
+   '-y, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   '-x, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z'
+   'y+0.5, -x, z+0.5'
+   'y, -x+0.5, z+0.5'
+   'x, -z, y'
+   'x+0.5, -z+0.5, y'
+   'x+0.5, -z, y+0.5'
+   'x, -z+0.5, y+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z'
+   'x+0.5, -y, -z+0.5'
+   'x, -y+0.5, -z+0.5'
+   'x, z, -y'
+   'x+0.5, z+0.5, -y'
+   'x+0.5, z, -y+0.5'
+   'x, z+0.5, -y+0.5'
+   'z, y, -x'
+   'z+0.5, y+0.5, -x'
+   'z+0.5, y, -x+0.5'
+   'z, y+0.5, -x+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x+0.5, y, -z+0.5'
+   '-x, y+0.5, -z+0.5'
+   '-z, y, x'
+   '-z+0.5, y+0.5, x'
+   '-z+0.5, y, x+0.5'
+   '-z, y+0.5, x+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y'
+   'z+0.5, x, y+0.5'
+   'z, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x'
+   'y+0.5, z, x+0.5'
+   'y, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x'
+   '-y+0.5, -z, x+0.5'
+   '-y, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y'
+   'z+0.5, -x, -y+0.5'
+   'z, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x'
+   '-y+0.5, z, -x+0.5'
+   '-y, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y'
+   '-z+0.5, -x, y+0.5'
+   '-z, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y'
+   '-z+0.5, x, -y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x'
+   'y+0.5, -z, -x+0.5'
+   'y, -z+0.5, -x+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z'
+   'y+0.5, x, -z+0.5'
+   'y, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z'
+   '-y+0.5, -x, -z+0.5'
+   '-y, -x+0.5, -z+0.5'
+   '-x, z, y'
+   '-x+0.5, z+0.5, y'
+   '-x+0.5, z, y+0.5'
+   '-x, z+0.5, y+0.5'
+   '-x, -z, -y'
+   '-x+0.5, -z+0.5, -y'
+   '-x+0.5, -z, -y+0.5'
+   '-x, -z+0.5, -y+0.5'
+   'z, -y, x'
+   'z+0.5, -y+0.5, x'
+   'z+0.5, -y, x+0.5'
+   'z, -y+0.5, x+0.5'
+   '-z, -y, -x'
+   '-z+0.5, -y+0.5, -x'
+   '-z+0.5, -y, -x+0.5'
+   '-z, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   '-x+0.5, -y, -z+0.5'
+   '-x, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z'
+   'y+0.5, -x, -z+0.5'
+   'y, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   'x, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z'
+   '-y+0.5, x, -z+0.5'
+   '-y, x+0.5, -z+0.5'
+   '-x, z, -y'
+   '-x+0.5, z+0.5, -y'
+   '-x+0.5, z, -y+0.5'
+   '-x, z+0.5, -y+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z'
+   '-x+0.5, y, z+0.5'
+   '-x, y+0.5, z+0.5'
+   '-x, -z, y'
+   '-x+0.5, -z+0.5, y'
+   '-x+0.5, -z, y+0.5'
+   '-x, -z+0.5, y+0.5'
+   '-z, -y, x'
+   '-z+0.5, -y+0.5, x'
+   '-z+0.5, -y, x+0.5'
+   '-z, -y+0.5, x+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+   'x+0.5, -y, z+0.5'
+   'x, -y+0.5, z+0.5'
+   'z, -y, -x'
+   'z+0.5, -y+0.5, -x'
+   'z+0.5, -y, -x+0.5'
+   'z, -y+0.5, -x+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y'
+   '-z+0.5, -x, -y+0.5'
+   '-z, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x'
+   '-y+0.5, -z, -x+0.5'
+   '-y, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x'
+   'y+0.5, z, -x+0.5'
+   'y, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y'
+   '-z+0.5, x, y+0.5'
+   '-z, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x'
+   'y+0.5, -z, x+0.5'
+   'y, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y'
+   'z+0.5, x, -y+0.5'
+   'z, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y'
+   'z+0.5, -x, y+0.5'
+   'z, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x'
+   '-y+0.5, z, x+0.5'
+   '-y, z+0.5, x+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z'
+   '-y+0.5, -x, z+0.5'
+   '-y, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z'
+   'y+0.5, x, z+0.5'
+   'y, x+0.5, z+0.5'
+   'x, -z, -y'
+   'x+0.5, -z+0.5, -y'
+   'x+0.5, -z, -y+0.5'
+   'x, -z+0.5, -y+0.5'
+   'x, z, y'
+   'x+0.5, z+0.5, y'
+   'x+0.5, z, y+0.5'
+   'x, z+0.5, y+0.5'
+   '-z, y, -x'
+   '-z+0.5, y+0.5, -x'
+   '-z+0.5, y, -x+0.5'
+   '-z, y+0.5, -x+0.5'
+   'z, y, x'
+   'z+0.5, y+0.5, x'
+   'z+0.5, y, x+0.5'
+   'z, y+0.5, x+0.5'
+_cell_length_a        4.44600
+_cell_length_b        4.44600
+_cell_length_c        4.44600
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.000   0.000   0.000    1.00000    0.617
+o      0.500   0.500   0.500    1.00000    0.720
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.361000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.566899        628.57
+     2.223000       1000.00
+     1.571898        542.82
+     1.340519        214.01
+     1.283450        153.78
+     1.111500         65.45
+     1.019982         85.67
+     0.994156        190.75
+     0.907536        173.85
+     0.855633        109.31
+     0.785949        187.31
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

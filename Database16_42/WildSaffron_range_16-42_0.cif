@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C44 H64 O24'
+_chemical_name_mineral  'WildSaffron'
+_chemical_name_common  'WildSaffron'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        127.39
+     3.827350        154.19
+     3.532156        1000.0
+     3.078341        406.73
+     2.875871         99.75
+     2.691906        108.46
+     2.427617         76.44
+     2.377013        258.96
+     2.332188         79.98
+     2.227388         95.21

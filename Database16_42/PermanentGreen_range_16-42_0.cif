@@ -1,0 +1,17 @@
+_chemical_formula_sum  'Cr O Ca C Co Al'
+_chemical_name_mineral  'V chrome oxide calcite cobalt alluminate'
+_chemical_name_common  'Permanent Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.885406         31.22
+     3.642087         22.86
+     3.263066         61.51
+     3.129680        132.61
+     3.047204        1000.0
+     2.915019         47.82
+     2.850402         21.04
+     2.675895         35.49
+     2.495609        110.31
+     2.289176         116.4
+     2.195787         26.32

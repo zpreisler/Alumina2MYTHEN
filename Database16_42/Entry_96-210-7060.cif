@@ -1,0 +1,87 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2107059
+_citation_journal_full    'Acta Crystallographica B (39,1983-)'
+_citation_journal_volume  '45'
+_citation_page_first  '34'
+_citation_page_last   '40'
+_citation_year  '1989'
+_citation_title  'Atomic displacement, anharmonic thermal vibration, expansivity andpyroelectric coefficient thermal dependences in Zn O.'
+loop_
+_publ_author_name
+  'Albertsson J.'
+  'Abrahams S.C.'
+  'Kvick A.'
+_chemical_formula_sum  'O Zn'
+_chemical_name_common  'Zinc oxide'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.24170
+_cell_length_b        3.24170
+_cell_length_c        5.18760
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.000
+o      0.333   0.667   0.382    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.725000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.807394        524.64
+     2.593800        395.99
+     2.469029       1000.00
+     1.905135        216.21
+     1.620850        314.17
+     1.547092          0.00
+     1.472319        283.83
+     1.403697         42.99
+     1.374544        240.15
+     1.354970        122.56
+     1.296900         20.21
+     1.234514         38.14
+     1.182564          0.00
+     1.177344         20.68
+     1.089823         81.75
+     1.061095         27.50
+     1.039571         89.98
+     1.012642         50.16
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

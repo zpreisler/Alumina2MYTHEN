@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C H O S Na Al Si'
+_chemical_name_mineral  'V Ultramarine'
+_chemical_name_common  'Ultramarine Blue Dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.601661         92.84
+     3.740101        1000.0
+     3.599030        102.04
+     3.076265        102.68
+     2.879574         268.1
+     2.698366         45.02
+     2.629110        465.75
+     2.276738        149.07
+     2.237022         50.75

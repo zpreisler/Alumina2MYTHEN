@@ -1,0 +1,96 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011195
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '58'
+_citation_page_first  '203'
+_citation_page_last   '219'
+_citation_year  '1923'
+_citation_title  'Untersuchungen ueber die kristallstrukturen von wurtzit und rotnickelkies'
+loop_
+_publ_author_name
+  'Aminoff G.'
+_chemical_formula_sum  'S Zn'
+_chemical_name_mineral  'Wurtzite-2H'
+_chemical_name_common  'Zinc sulfide'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.80000
+_cell_length_b        3.80000
+_cell_length_c        6.23000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.000
+s      0.333   0.667   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.154000
+_exptl_crystal_density_meas      4.050000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.290896        922.96
+     3.115000        592.91
+     2.909871       1000.00
+     2.262266        339.15
+     1.900000        651.47
+     1.817362          0.00
+     1.756231        641.97
+     1.645448         95.28
+     1.622072        416.57
+     1.590895        139.57
+     1.557500         15.79
+     1.454935         67.50
+     1.407794         15.45
+     1.401806          0.00
+     1.289677        188.44
+     1.243842         62.19
+     1.219769         91.98
+     1.204520         30.64
+     1.165273        126.33
+     1.155154         53.08
+     1.131133          5.81
+     1.096965         77.70
+     1.067075        185.96
+     1.041936          0.00
+     1.038333         12.31
+     1.034683         73.15
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   from Pribram, Bohemia
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

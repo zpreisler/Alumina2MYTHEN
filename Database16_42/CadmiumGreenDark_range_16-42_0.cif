@@ -1,0 +1,21 @@
+_chemical_formula_sum  'Ba S Cd Zn Cu'
+_chemical_name_mineral  'V Barium sulfate Cadmium zinc sulfide'
+_chemical_name_common  'Cadmium Green Dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.500694         80.75
+     4.412138         36.15
+     3.921760         81.07
+     3.798981         46.71
+     3.599030        313.86
+     3.537677         199.7
+     3.451797         125.2
+     3.330279        1000.0
+     3.116734        448.97
+     2.841401        160.64
+     2.737657        120.34
+     2.487457         66.68
+     2.412223         64.79
+     2.301761         61.42
+     2.213571          58.4

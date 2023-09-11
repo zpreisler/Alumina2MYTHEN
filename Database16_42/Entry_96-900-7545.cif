@@ -1,0 +1,135 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007544
+_citation_journal_full    'Acta Crystallographica, Section B'
+_citation_journal_volume  '27'
+_citation_page_first  '2288'
+_citation_page_last   '2289'
+_citation_year  '1971'
+_citation_title  'The refinement of the crystal structure of skutterudite, CoAs3Locality: Bou-Azzer, Morocco'
+loop_
+_publ_author_name
+  'Mandel N.'
+  'Donohue J.'
+_chemical_formula_sum  'As3 Co0.87 Fe0.11 Ni0.13'
+_chemical_name_mineral  'Skutterudite'
+_symmetry_space_group_name_H-M 'I m -3'
+_space_group_IT_number 204
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        8.19500
+_cell_length_b        8.19500
+_cell_length_c        8.19500
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.250   0.250   0.250    0.87000    1.208
+fe      0.250   0.250   0.250    0.11000    1.208
+ni      0.250   0.250   0.250    0.13000    1.208
+as      0.000   0.343   0.150    1.00000    0.841
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.995000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.794740        127.79
+     4.097500        118.59
+     3.345595        112.89
+     2.897370         24.66
+     2.591486       1000.00
+     2.365693         25.22
+     2.190206        285.86
+     2.048750          6.12
+     1.931580         74.51
+     1.832458        362.28
+     1.747180         81.39
+     1.672797        203.86
+     1.607172        283.35
+     1.496195          1.80
+     1.448685          0.44
+     1.405431        120.66
+     1.365833         44.32
+     1.329404         10.19
+     1.295743         35.69
+     1.264516          4.93
+     1.235443         46.78
+     1.208287        110.11
+     1.182846         49.61
+     1.158948         31.73
+     1.136442         36.33
+     1.115198         35.57
+     1.095103          1.00
+     1.076056         72.79
+     1.040766         47.80
+     1.024375         15.83
+     1.008735         12.84
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

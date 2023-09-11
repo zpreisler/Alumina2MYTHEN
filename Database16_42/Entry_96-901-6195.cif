@@ -1,0 +1,108 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016194
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '122'
+_citation_page_first  '273'
+_citation_page_last   '280'
+_citation_year  '1996'
+_citation_title  'A crystallographic contribution to the mechanism of a mechanicallyinduced solid state reactionNote: milling time = 37 min (combustion)'
+loop_
+_publ_author_name
+  'Calos N. J.'
+  'Forrester J. S.'
+  'Schaffer G. B.'
+_chemical_formula_sum  'Cu O'
+_chemical_name_mineral  'Tenorite'
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_space_group_IT_number 15
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.67910
+_cell_length_b        3.48050
+_cell_length_c        5.11830
+_cell_angle_alpha    90.0000
+_cell_angle_beta     98.5981
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.250   0.000    1.00000    1.000
+o      0.000   0.452   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.411000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.781334         80.26
+     2.535562        955.23
+     2.530389        317.75
+     2.349955       1000.00
+     2.313257        244.55
+     1.961509         21.16
+     1.850667        286.95
+     1.793192         14.22
+     1.740250        105.71
+     1.645670          3.32
+     1.592855        157.95
+     1.503526        193.61
+     1.433878        190.64
+     1.409962          4.42
+     1.408935        147.06
+     1.390667        166.90
+     1.388105        110.20
+     1.372856          1.34
+     1.312639         87.06
+     1.311188          1.06
+     1.310157          3.04
+     1.267781         60.54
+     1.265194         58.29
+     1.211250          0.72
+     1.192754          1.90
+     1.187257         21.54
+     1.174978         44.55
+     1.165771          1.71
+     1.162877         52.74
+     1.156628         39.83
+     1.125324          0.62
+     1.123768          0.50
+     1.116975         17.09
+     1.114507          1.39
+     1.107057         62.82
+     1.090127         34.31
+     1.046126         13.73
+     1.042398          0.45
+     1.028633          0.36
+     1.023332         27.66
+     1.015682         40.55
+     1.014620          0.42
+     1.013002          0.97
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,16 @@
+_chemical_formula_sum  'Fe Mn O Al H'
+_chemical_name_mineral  'Burnt Umber Reddish'
+_chemical_name_common  'Burnt Umber Reddish'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.395711        184.32
+     4.318726         74.78
+     3.830601        108.52
+     3.212020         83.28
+     3.065828        1000.0
+     2.894393        114.72
+     2.690256        102.04
+     2.517807         93.78
+     2.491526        129.65
+     2.286889         71.53

@@ -1,0 +1,99 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008095
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '120'
+_citation_page_first  '342'
+_citation_page_last   '348'
+_citation_year  '1964'
+_citation_title  'Strukturuntersuchungen im system Al2O3-Cr2O3'
+loop_
+_publ_author_name
+  'Saalfeld H.'
+_chemical_formula_sum  'Cr2 O3'
+_chemical_name_mineral  'Eskolaite'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        5.35900
+_cell_length_b        5.35900
+_cell_length_c        5.35900
+_cell_angle_alpha    55.1300
+_cell_angle_beta     55.1300
+_cell_angle_gamma    55.1300
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cr      0.152   0.152   0.152    1.00000    1.000
+o      -0.057   0.250   0.557    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.231000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.630692        660.05
+     2.664613       1000.00
+     2.479902        898.42
+     2.264895         59.05
+     2.175254        272.78
+     2.047799         52.10
+     1.815346        359.73
+     1.672378        793.76
+     1.612014          6.46
+     1.579632         18.09
+     1.579030         52.05
+     1.464819        269.87
+     1.431772        344.85
+     1.393757          3.12
+     1.332306          3.00
+     1.295640        128.60
+     1.289682         23.54
+     1.245391          1.76
+     1.239951         69.55
+     1.210231         48.24
+     1.186755          0.69
+     1.173654          5.47
+     1.173407         27.24
+     1.148357         63.58
+     1.132448         15.00
+     1.124194         66.08
+     1.091094          0.47
+     1.087627        122.66
+     1.060665         12.77
+     1.042055         97.31
+     1.030124          7.92
+     1.023900         19.76
+     1.015370          0.36
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

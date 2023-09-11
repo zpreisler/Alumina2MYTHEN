@@ -1,0 +1,16 @@
+### Made by hand zp
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_common  'Aluminium oxide'
+_chemical_name_mineral 'SRM1976a'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+3.4808 243.7
+2.5514 1000.0
+2.0859 380.9
+1.7404 214.3
+1.6018 883.7
+1.3742 128.8
+1.2392 735.6
+1.2344 735.6
+1.0992 138.8

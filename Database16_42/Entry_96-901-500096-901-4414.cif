@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9014413
+_citation_journal_full    'Zeitschrift fur Physik'
+_citation_journal_volume  '36'
+_citation_page_first  '859'
+_citation_page_last   '896'
+_citation_year  '1926'
+_citation_title  'Die Anordnung der Atome in den tetragonalen Kristallen der einwertigen Quecksilberhalogenide Hg2 Cl2, Hg2 Br2, Hg2 J2. Berechnung der optischen Doppelbrechung von Hg2 Cl2. _cod_database_code 1010948'
+loop_
+_publ_author_name
+  'Hylleraas E.'
+_chemical_formula_sum  'Cl Hg'
+_chemical_name_mineral  'Calomel'
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_space_group_IT_number 139
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z+0.5'
+_cell_length_a        4.46400
+_cell_length_b        4.46400
+_cell_length_c       10.90000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.000   0.000   0.117    1.00000    1.000
+cl      0.000   0.000   0.347    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.217000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.450000          1.13
+     4.130989       1000.00
+     3.156525        900.47
+     2.817923        164.07
+     2.731465          1.26
+     2.725000        267.74
+     2.232000        327.57
+     2.065495          0.68
+     2.062695        457.58
+     1.963697        266.35
+     1.958893        242.28
+     1.816667          1.49
+     1.749645         82.39
+     1.726710        249.79
+     1.578262         99.89
+     1.574521          3.79
+     1.515976          0.28
+     1.474326         49.41
+     1.472289        176.86
+     1.470261          8.98
+     1.411641        131.44
+     1.408962          2.58
+     1.376996         17.66
+     1.366544          0.39
+     1.365733        104.82
+     1.362500         19.27
+     1.253439        151.99
+     1.250938         56.03
+     1.230181         50.48
+     1.228997         45.04
+     1.227816          9.31
+     1.191436          1.41
+     1.171919         19.68
+     1.168857         54.83
+     1.162944         43.28
+     1.116000         28.19
+     1.114675          2.26
+     1.093314          0.09
+     1.090000          1.08
+     1.077377         32.70
+     1.076582         58.44
+     1.075788          3.02
+     1.052175         23.89
+     1.037592         13.72
+     1.035465         76.94
+     1.033098          0.08
+     1.032747         41.34
+     1.031347         30.60
+     1.030301          3.74
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

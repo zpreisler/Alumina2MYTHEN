@@ -1,0 +1,93 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9015842
+_citation_journal_full    'Zeitschrift fur Physikalische Chemie'
+_citation_journal_volume  '135'
+_citation_page_first  '291'
+_citation_page_last   '299'
+_citation_year  '1928'
+_citation_title  'Uber die Kristallstrukturen der verbindungen RuS2, OsS2, MnTe2 und AuSb2.Mit einem Anhang uber die Gitterkonstant von Pyrit'
+loop_
+_publ_author_name
+  'Oftedal I.'
+_chemical_formula_sum  'Fe S2'
+_chemical_name_mineral  'Pyrite'
+_symmetry_space_group_name_H-M 'P a -3'
+_space_group_IT_number 205
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -z, x+0.5'
+   'z+0.5, -x+0.5, -y'
+   '-y, z+0.5, -x+0.5'
+   '-z+0.5, -x, y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y+0.5, -z+0.5, -x'
+   '-x+0.5, -y, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, z, -x+0.5'
+   '-z+0.5, x+0.5, y'
+   'y, -z+0.5, x+0.5'
+   'z+0.5, x, -y+0.5'
+   'z, -x+0.5, y+0.5'
+   '-y+0.5, z+0.5, x'
+   'x+0.5, y, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x, -y+0.5, z+0.5'
+_cell_length_a        5.41400
+_cell_length_b        5.41400
+_cell_length_c        5.41400
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.000   0.000   0.000    1.00000    1.000
+s      0.625   0.625   0.625    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.022000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.125774        539.16
+     2.707000        750.63
+     2.421214        648.49
+     2.210256        471.67
+     1.914138        480.57
+     1.632382       1000.00
+     1.562887        146.32
+     1.501573        110.63
+     1.446952        191.63
+     1.353500          0.75
+     1.242057         59.24
+     1.210607        148.86
+     1.181432         89.81
+     1.154269         41.52
+     1.105128        103.94
+     1.041925        231.11
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

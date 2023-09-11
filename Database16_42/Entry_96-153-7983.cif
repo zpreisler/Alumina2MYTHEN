@@ -1,0 +1,105 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1537982
+_citation_journal_full    'Arkiv foer Kemi, Mineralogi och Geologi'
+_citation_journal_volume  '20'
+_citation_page_first  '1'
+_citation_page_last   '31'
+_citation_year  '1945'
+_citation_title  'The decomposition products of lead peroxide and the oxidation products oflead oxide'
+loop_
+_publ_author_name
+  'Bystroem A.M.'
+_chemical_formula_sum  'O Pb'
+_chemical_name_common  'Lead(II) oxide'
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_space_group_IT_number 129
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z'
+   '-y+0.5, x+0.5, z'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z'
+   'y, x, -z'
+   '-y, -x, -z'
+   'x+0.5, y+0.5, -z'
+   '-x, y, z'
+   'x, -y, z'
+   '-y+0.5, -x+0.5, z'
+   'y+0.5, x+0.5, z'
+_cell_length_a        3.97200
+_cell_length_b        3.97200
+_cell_length_c        5.01800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.000   0.000   0.000    1.00000    1.000
+pb      0.000   0.500   0.233    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    9.363000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.018000         32.64
+     3.114406       1000.00
+     2.808628        320.85
+     2.509000        111.71
+     2.450847          0.36
+     2.121243         15.09
+     1.986000        156.77
+     1.871128        245.91
+     1.846633          6.71
+     1.674511        302.30
+     1.672667          2.35
+     1.557203         98.37
+     1.541555        102.27
+     1.449769          8.13
+     1.437116         12.33
+     1.404314         45.06
+     1.352355          1.88
+     1.280188         56.16
+     1.279364          3.81
+     1.256057         47.29
+     1.254500         12.27
+     1.225424         41.26
+     1.218465          0.26
+     1.217754         85.28
+     1.196254          7.63
+     1.170963          1.86
+     1.145433         28.25
+     1.123172         76.15
+     1.076010         62.72
+     1.075520          2.23
+     1.060621         28.10
+     1.038135         26.08
+     1.024718          9.66
+     1.008687          2.45
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

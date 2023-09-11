@@ -1,0 +1,103 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1536777
+_citation_journal_full    'Bulletin of the Chemical Society of Japan'
+_citation_journal_volume  '31(1)'
+_citation_page_first  '140'
+_citation_page_last   '141'
+_citation_year  '1958'
+_citation_title  'Crystal structure of bayerite'
+loop_
+_publ_author_name
+  'Yamaguchi Goro'
+  'Sakamoto Kenichi'
+_chemical_formula_sum  'Al H3 O3'
+_chemical_name_common  'Aluminium(III) hydroxide'
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_space_group_IT_number 162
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   '-y, -x, -z'
+   '-x+y, y, -z'
+   'x, x-y, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   'y, x, z'
+   'x-y, -y, z'
+   '-x, -x+y, z'
+_cell_length_a        5.04700
+_cell_length_b        5.04700
+_cell_length_c        4.73000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.333   0.667   0.000    1.00000    1.000
+o      0.340   0.000   0.210    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.386000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.730000       1000.00
+     4.370830        330.80
+     3.210119        245.82
+     2.523500          1.42
+     2.365000         21.57
+     2.226455        870.68
+     2.185415         24.80
+     2.080030         53.11
+     1.983895         48.47
+     1.725622        427.28
+     1.652019         25.78
+     1.605059         31.71
+     1.576667          0.02
+     1.559629         45.02
+     1.483123         16.51
+     1.456943        202.41
+     1.392387        103.38
+     1.354322         26.84
+     1.337135        141.16
+     1.278640         12.02
+     1.261750          2.14
+     1.240453          0.90
+     1.219120         63.52
+     1.212250         10.95
+     1.182500         14.18
+     1.174297         15.95
+     1.141464          6.89
+     1.140580         13.51
+     1.113227         63.29
+     1.092708          4.17
+     1.078787          8.04
+     1.070769         26.36
+     1.070040          0.45
+     1.064667          5.64
+     1.040015          4.12
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

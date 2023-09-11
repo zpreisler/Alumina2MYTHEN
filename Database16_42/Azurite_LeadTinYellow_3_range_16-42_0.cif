@@ -1,0 +1,22 @@
+_chemical_formula_sum  'Cu C O H Pb Sn'
+_chemical_name_mineral  'V Azurite LeadTinYellow'
+_chemical_name_common  'Azurite LeadTinYellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.253176        186.66
+     3.709830         76.22
+     3.587752         84.16
+     3.548634        419.21
+     3.340079        1000.0
+     3.166992         94.31
+     3.103791          84.5
+     2.866702        133.03
+     2.818288        263.54
+     2.771379         243.2
+     2.589863         70.36
+     2.564894        117.81
+     2.510860        638.67
+     2.294889        184.39
+     2.263351         99.14
+     2.234897          74.1

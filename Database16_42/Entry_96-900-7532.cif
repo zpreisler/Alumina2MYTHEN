@@ -1,0 +1,96 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007531
+_citation_journal_full    'Acta Crystallographica, Section B'
+_citation_journal_volume  '27(11)'
+_citation_page_first  '2133'
+_citation_page_last   '2139'
+_citation_year  '1971'
+_citation_title  'Rutile-type compounds. IV.SiO2, GeO2 and a comparison with other rutile-type structures'
+loop_
+_publ_author_name
+  'Baur W. H.'
+  'Khan A. A.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_mineral  'Rutile'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.59410
+_cell_length_b        4.59410
+_cell_length_c        2.95890
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    0.586
+o      0.306   0.306   0.000    1.00000    0.627
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.248000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.248519       1000.00
+     2.487595        445.94
+     2.297050         67.70
+     2.187497        181.27
+     2.054544         66.37
+     1.687607        541.84
+     1.624260        159.21
+     1.479450         75.15
+     1.452782         75.42
+     1.423839          5.90
+     1.360018        188.45
+     1.346396         92.21
+     1.304075          9.75
+     1.274174          2.05
+     1.243798         19.82
+     1.200575         11.03
+     1.170279         38.80
+     1.148525         25.97
+     1.114233          9.34
+     1.093748         63.33
+     1.082840         34.90
+     1.042750         61.19
+     1.036572         46.05
+     1.027272         27.35
+     1.016885          0.49
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

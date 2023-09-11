@@ -1,0 +1,86 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1522027
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '147'
+_citation_page_first  '410'
+_citation_page_last   '420'
+_citation_year  '1999'
+_citation_title  'In situ structural and electrochemical study of Ni1-x Cox O2 metastable oxides prepared by soft chemistry'
+loop_
+_publ_author_name
+  'Tarascon J.M.'
+  'Vaughan G.'
+  'Anne M.'
+  'Chabre Y.'
+  'Seguin L.'
+  'Strobel P.'
+  'Amatucci G.'
+_chemical_formula_sum  'Co O2'
+_chemical_name_common  'Co O2'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        2.82080
+_cell_length_b        2.82080
+_cell_length_c        4.24030
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 1
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.333   0.667   0.200    1.00000    1.000
+co      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.166000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.240300       1000.00
+     2.442885        250.78
+     2.120150         33.98
+     2.116735        596.32
+     1.601206        302.04
+     1.413433          8.78
+     1.410400        125.58
+     1.338310        125.37
+     1.223411         93.77
+     1.221442         21.17
+     1.174299         25.91
+     1.173717         55.93
+     1.060075          8.12
+     1.058367         53.20
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

@@ -1,0 +1,9 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Translucent Yellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.135269         629.0
+     2.709711        578.47
+     2.438038        1000.0

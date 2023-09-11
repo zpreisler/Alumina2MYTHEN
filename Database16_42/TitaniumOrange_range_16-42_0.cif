@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Ti Sb Cr O'
+_chemical_name_mineral  'V Rutile'
+_chemical_name_common  'Titanium Orange'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.265410        1000.0
+     3.041014         16.47
+     2.501120        277.48
+     2.300631         62.43
+     2.198909        130.45

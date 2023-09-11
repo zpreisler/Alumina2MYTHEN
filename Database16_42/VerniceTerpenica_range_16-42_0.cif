@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C5 H8'
+_chemical_name_mineral  'VerniceTerpenica'
+_chemical_name_common  'VerniceTerpenica'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885        295.81
+     3.821027        844.63
+     3.166992          30.2
+     3.065828        1000.0
+     2.874068         168.8
+     2.786834         26.61
+     2.682275        222.02
+     2.597351          69.9
+     2.530512         51.68
+     2.219881         216.6

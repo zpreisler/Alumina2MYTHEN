@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Fe Al Si'
+_chemical_name_mineral  'Red bole'
+_chemical_name_common  'Red bole'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.522259         58.89
+     4.294970        177.82
+     3.601897        255.92
+     3.372343        1000.0
+     2.709711        144.99
+     2.570732        134.52
+     2.516442        123.59
+     2.457802        195.97
+     2.386918         90.79
+     2.342932        119.59
+     2.290350         207.7
+     2.240270        105.18

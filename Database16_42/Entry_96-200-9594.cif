@@ -1,0 +1,128 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2009593
+_citation_journal_full    'Acta Crystallographica Section C'
+_citation_journal_volume  '50(4)'
+_citation_page_first  '471'
+_citation_page_last   '473'
+_citation_year  '1994'
+_citation_title  'Two lithium chloroberyllo(phosphate/arsenate) sodalites:Li~4~Cl(BePO~4~)~3~ and Li~4~Cl(BeAsO~4~)~3~'
+loop_
+_publ_author_name
+  'Harrison William T. A.'
+  'Gier Thurman E.'
+  'Stucky Galen D.'
+_chemical_formula_sum  'Be3 Cl Li4 O12 P3'
+_chemical_name_common  'lithuim chloro beryllophosphate sodalite'
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_space_group_IT_number 218
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, z+0.5, -y+0.5'
+   'x, -y, -z'
+   '-x+0.5, -z+0.5, y+0.5'
+   '-z+0.5, -y+0.5, x+0.5'
+   '-x, y, -z'
+   'z+0.5, -y+0.5, -x+0.5'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, -z+0.5, -y+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   '-z+0.5, y+0.5, -x+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        8.02690
+_cell_length_b        8.02690
+_cell_length_c        8.02690
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+be      0.250   0.000   0.500    1.00000    1.263
+p      0.250   0.500   0.000    1.00000    0.592
+o      0.143   0.414   0.138    1.00000    0.157
+li      0.181   0.181   0.181    1.00000    0.789
+cl      0.000   0.000   0.000    1.00000    1.026
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    298.000000
+_exptl_crystal_density_diffrn    2.409000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.675876        433.42
+     4.013450        187.34
+     3.589739        336.55
+     3.276968       1000.00
+     2.837938          0.27
+     2.538329          1.20
+     2.317167        341.78
+     2.226262         66.62
+     2.145279        199.16
+     2.006725          1.21
+     1.946809          0.07
+     1.891959        139.74
+     1.794869         51.08
+     1.751613         55.60
+     1.711341         96.25
+     1.638484          4.68
+     1.605380          0.03
+     1.574205         47.64
+     1.490558         48.57
+     1.465505         36.80
+     1.418969        173.47
+     1.376602         22.34
+     1.356794          0.08
+     1.337817         46.63
+     1.319614          8.12
+     1.302135         78.70
+     1.269164          0.02
+     1.253591          0.08
+     1.238578         26.08
+     1.210101         43.06
+     1.196580         27.16
+     1.183502         86.15
+     1.158583          5.69
+     1.146700          0.02
+     1.135175          9.10
+     1.113131         12.50
+     1.102580         21.52
+     1.092323         66.55
+     1.072640          2.76
+     1.053984         13.61
+     1.045013          0.03
+     1.027739         18.72
+     1.019417         55.89
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

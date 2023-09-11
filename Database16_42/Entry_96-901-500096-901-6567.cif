@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016566
+_citation_journal_full    'Journal of the American Chemical Society'
+_citation_journal_volume  '48'
+_citation_page_first  '2113'
+_citation_page_last   '2130'
+_citation_year  '1926'
+_citation_title  'Parameters in crystal structure. The mercurous halides _cod_database_code 1011076'
+loop_
+_publ_author_name
+  'Havighurst R.'
+_chemical_formula_sum  'Cl Hg'
+_chemical_name_mineral  'Calomel'
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_space_group_IT_number 139
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z+0.5'
+_cell_length_a        4.47000
+_cell_length_b        4.47000
+_cell_length_c       10.89000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.000   0.000   0.116    1.00000    1.000
+cl      0.000   0.000   0.347    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.205000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.445000          2.20
+     4.135196       1000.00
+     3.160767        889.69
+     2.817872        149.90
+     2.733581          2.19
+     2.722500        260.37
+     2.235000        323.84
+     2.067598          1.12
+     2.062791        446.20
+     1.966192        266.70
+     1.957947        246.67
+     1.815000          2.21
+     1.751076         75.75
+     1.727460        243.91
+     1.580384         98.83
+     1.573960          5.58
+     1.517747          0.44
+     1.476246         49.50
+     1.472747        180.56
+     1.469272          6.46
+     1.413538        130.06
+     1.408936          3.78
+     1.378399         16.27
+     1.368186          0.61
+     1.366790        102.49
+     1.361250         18.08
+     1.254522        148.65
+     1.250234         52.64
+     1.231798         50.57
+     1.229763         46.03
+     1.227738          6.73
+     1.191876          2.07
+     1.173218         18.13
+     1.167965         55.58
+     1.162589         40.71
+     1.117500         27.86
+     1.115222          3.32
+     1.094683          0.14
+     1.089000          1.44
+     1.078801         32.73
+     1.077434         59.72
+     1.076071          2.19
+     1.053589         23.60
+     1.038795         12.63
+     1.035143         78.14
+     1.034402          0.12
+     1.033799         40.40
+     1.031395         28.82
+     1.029604          4.98
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

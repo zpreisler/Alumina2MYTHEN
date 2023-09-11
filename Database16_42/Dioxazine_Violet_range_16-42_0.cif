@@ -1,0 +1,19 @@
+_chemical_formula_sum  'C3 H3 N O2'
+_chemical_name_mineral  'V Dioxazine'
+_chemical_name_common  'Dioxazine Violet'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.097902         52.03
+     4.326843        322.98
+     3.821027        517.32
+     3.537677          54.9
+     3.352413        185.24
+     3.191634          49.2
+     3.069953        1000.0
+     2.879574        205.99
+     2.682275        245.11
+     2.594365         79.76
+     2.403271         34.29
+     2.281274          35.0
+     2.220980        230.67

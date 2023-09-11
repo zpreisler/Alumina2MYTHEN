@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C32 H16 Cu N8'
+_chemical_name_mineral  'XLSPhthaloBlueRoyalBlueVeryLightfast'
+_chemical_name_common  'XLSPhthaloBlueRoyalBlueVeryLightfast'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.890191         422.3
+     4.225072        270.94
+     3.798981        1000.0
+     3.446546        668.66
+     3.237393         369.1
+     3.074193        140.41
+     2.968811        479.71

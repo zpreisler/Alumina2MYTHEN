@@ -1,0 +1,139 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1526482
+_citation_journal_full    'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_citation_journal_volume  '626'
+_citation_page_first  '1112'
+_citation_page_last   '1120'
+_citation_year  '2000'
+_citation_title  'Crystal structure and properties of some filled and unfilled skutterudites: Gd Fe4 P12, Sm Fe4 P12, Nd Fe4 As12, Eu0.54 Co4 Sb12, Fe0.5 Ni0.5 P3, Co P3 and Ni P3'
+loop_
+_publ_author_name
+  'Jeitschko W.'
+  'Rodewald U.C.'
+  'Foecker A.J.'
+  'Evers C.B.H.'
+  'Paschke D.'
+  'Dewalsky M.V.'
+  'Moeller M.H.'
+  'Kuennen B.'
+  'Lang A.'
+  'Kotzyba G.'
+_chemical_formula_sum  'Co P3'
+_chemical_name_common  'Co P3'
+_symmetry_space_group_name_H-M 'I m -3'
+_space_group_IT_number 204
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   'z, x, y'
+   'z+0.5, x+0.5, y+0.5'
+   'y, z, x'
+   'y+0.5, z+0.5, x+0.5'
+   '-y, -z, x'
+   '-y+0.5, -z+0.5, x+0.5'
+   'z, -x, -y'
+   'z+0.5, -x+0.5, -y+0.5'
+   '-y, z, -x'
+   '-y+0.5, z+0.5, -x+0.5'
+   '-z, -x, y'
+   '-z+0.5, -x+0.5, y+0.5'
+   '-z, x, -y'
+   '-z+0.5, x+0.5, -y+0.5'
+   'y, -z, -x'
+   'y+0.5, -z+0.5, -x+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   '-z, -x, -y'
+   '-z+0.5, -x+0.5, -y+0.5'
+   '-y, -z, -x'
+   '-y+0.5, -z+0.5, -x+0.5'
+   'y, z, -x'
+   'y+0.5, z+0.5, -x+0.5'
+   '-z, x, y'
+   '-z+0.5, x+0.5, y+0.5'
+   'y, -z, x'
+   'y+0.5, -z+0.5, x+0.5'
+   'z, x, -y'
+   'z+0.5, x+0.5, -y+0.5'
+   'z, -x, y'
+   'z+0.5, -x+0.5, y+0.5'
+   '-y, z, x'
+   '-y+0.5, z+0.5, x+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        7.71120
+_cell_length_b        7.71120
+_cell_length_c        7.71120
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 8
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+p      0.000   0.349   0.145    1.00000    1.000
+co      0.250   0.250   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.399000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.452642        209.13
+     3.855600        884.17
+     3.148084        142.94
+     2.726321        640.61
+     2.438496       1000.00
+     2.226032        308.92
+     2.060905        227.11
+     1.927800         83.41
+     1.817547         63.18
+     1.724277        975.76
+     1.644033         63.73
+     1.574042        542.50
+     1.512291        306.04
+     1.407866          2.12
+     1.363160         23.87
+     1.322460         79.50
+     1.285200         25.84
+     1.250922          3.76
+     1.219248        147.01
+     1.189864         14.22
+     1.162507        131.37
+     1.136954         77.55
+     1.113016        117.30
+     1.090528         26.96
+     1.069351        131.87
+     1.049361         34.50
+     1.030452         55.51
+     1.012530         75.70
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

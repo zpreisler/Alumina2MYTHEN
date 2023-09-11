@@ -1,0 +1,140 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514115
+_citation_journal_full    'Mineralogy and Petrology'
+_citation_journal_volume  '37'
+_citation_page_first  '15'
+_citation_page_last   '23'
+_citation_year  '1987'
+_citation_title  'Crystal structure refinement and reflectance measurements of hausmannite,Mn3 O4'
+loop_
+_publ_author_name
+  'Jarosch D.'
+_chemical_formula_sum  'Mn3 O4'
+_chemical_name_mineral  'Hausmannite'
+_chemical_name_common  'Manganese(II,III) oxide'
+_symmetry_space_group_name_H-M 'I 41/a m d'
+_space_group_IT_number 141
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y+0.25, x+0.75, z+0.25'
+   '-y+0.75, x+0.25, z+0.75'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   'y+0.25, -x+0.25, z+0.75'
+   'y+0.75, -x+0.75, z+0.25'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y+0.5, -z'
+   '-x+0.5, y, -z+0.5'
+   'y+0.25, x+0.75, -z+0.25'
+   'y+0.75, x+0.25, -z+0.75'
+   '-y+0.25, -x+0.25, -z+0.75'
+   '-y+0.75, -x+0.75, -z+0.25'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y+0.25, -x+0.75, -z+0.25'
+   'y+0.75, -x+0.25, -z+0.75'
+   'x, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   '-y+0.25, x+0.25, -z+0.75'
+   '-y+0.75, x+0.75, -z+0.25'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y+0.5, z'
+   'x+0.5, -y, z+0.5'
+   '-y+0.25, -x+0.75, z+0.25'
+   '-y+0.75, -x+0.25, z+0.75'
+   'y+0.25, x+0.25, z+0.75'
+   'y+0.75, x+0.75, z+0.25'
+_cell_length_a        5.76500
+_cell_length_b        5.76500
+_cell_length_c        9.44200
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.000   0.250   0.875    1.00000    1.000
+mn      0.000   0.500   0.500    1.00000    1.000
+o      0.000   0.472   0.259    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.843000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.920354        235.37
+     3.085411        373.20
+     2.882500        157.17
+     2.762468        753.62
+     2.487134       1000.00
+     2.460177        135.02
+     2.360500        180.50
+     2.038235        202.11
+     1.994444          2.22
+     1.883062          0.20
+     1.826277         60.67
+     1.794576        228.53
+     1.700658         94.63
+     1.640118         79.62
+     1.576479        286.16
+     1.542706        509.40
+     1.523455          7.23
+     1.468075         23.99
+     1.442841          0.27
+     1.441250        185.79
+     1.425515          9.90
+     1.383135          6.58
+     1.381234         26.11
+     1.378446          0.26
+     1.346908         48.29
+     1.313386          0.60
+     1.305811         14.64
+     1.289093         13.03
+     1.277798         88.67
+     1.243567         39.36
+     1.230089         40.50
+     1.220263          9.75
+     1.195169         48.56
+     1.191242         24.34
+     1.180250         38.76
+     1.144498          4.26
+     1.131377         20.86
+     1.123718         61.80
+     1.104030          0.05
+     1.099519         17.76
+     1.092238          8.30
+     1.082638         61.27
+     1.063718         28.18
+     1.062853          0.07
+     1.032160          2.13
+     1.030995         40.39
+     1.028470          8.53
+     1.021372         19.26
+     1.019680          0.04
+     1.019118         42.72
+     1.013509          0.13
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

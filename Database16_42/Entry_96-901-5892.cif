@@ -1,0 +1,84 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9015891
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '93'
+_citation_page_first  '368'
+_citation_page_last   '378'
+_citation_year  '1936'
+_citation_title  'Ueber Aenderungen der Ionenabstaende in Hydroxyd-Schichtengittern. _cod_database_code 1010267'
+loop_
+_publ_author_name
+  'Lotmar W.'
+  'Feitknecht W.'
+_chemical_formula_sum  'Co O2'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        3.17300
+_cell_length_b        3.17300
+_cell_length_c        4.64000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    1.000
+o      0.333   0.667   0.220    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.732000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.640000       1000.00
+     2.747899        316.91
+     2.364381        834.73
+     2.320000         31.44
+     1.772692        421.63
+     1.586500        190.58
+     1.546667         15.71
+     1.501175        169.00
+     1.373949         30.77
+     1.347833        121.98
+     1.317407         87.05
+     1.309578         30.31
+     1.182190         74.90
+     1.160000         13.53
+     1.107473         25.45
+     1.068681         28.45
+     1.038608         21.43
+     1.027188         41.28
+     1.013528         63.60
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

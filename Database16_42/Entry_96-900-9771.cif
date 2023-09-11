@@ -1,0 +1,79 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009770
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '124'
+_citation_page_first  '52'
+_citation_page_last   '57'
+_citation_year  '1996'
+_citation_title  'On the crystallographic and magnetic structures ofnearly stoichiometric iron monoxideLocality: syntheticNote: low-temperature polymorphSample: Three-Phase Mixture FeO, T = 12 K'
+loop_
+_publ_author_name
+  'Fjellvag H.'
+  'Gronvold F.'
+  'Stolen S.'
+  'Hauback B. C.'
+_chemical_formula_sum  'Fe O'
+_chemical_name_mineral  'Wuestite'
+_symmetry_space_group_name_H-M 'R -3'
+_space_group_IT_number 148
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+_cell_length_a        6.13200
+_cell_length_b        6.13200
+_cell_length_c        6.13200
+_cell_angle_alpha    59.3400
+_cell_angle_beta     59.3400
+_cell_angle_gamma    59.3400
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.000   0.000   0.000    1.00000    1.000
+fe      0.500   0.500   0.500    1.00000    1.000
+fe      0.500   0.000   0.000    1.00000    1.000
+fe      0.000   0.500   0.500    1.00000    1.000
+o      0.250   0.250   0.250    1.00000    1.000
+o      0.250   0.250   0.750    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    12.000000
+_exptl_crystal_density_diffrn    5.943000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.515793        176.14
+     2.482440        508.28
+     2.156969       1000.00
+     1.532847        263.44
+     1.517682        252.42
+     1.309010         53.54
+     1.299527        103.95
+     1.294863         51.22
+     1.257896         36.80
+     1.241220        104.13
+     1.078485         59.10
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

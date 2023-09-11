@@ -1,0 +1,16 @@
+_chemical_formula_sum  'C9 H9 N O6'
+_chemical_name_mineral  'VanDickBrown'
+_chemical_name_common  'VanDickBrown'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.367048        376.52
+     4.164768        222.05
+     3.849734        411.46
+     3.352413        478.27
+     3.091064        1000.0
+     2.894393         250.4
+     2.706448        318.48
+     2.618459        145.45
+     2.237022        310.34
+     2.195787         97.65

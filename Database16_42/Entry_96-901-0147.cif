@@ -1,0 +1,102 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9010146
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '92'
+_citation_page_first  '57'
+_citation_page_last   '63'
+_citation_year  '2007'
+_citation_title  'First in situ X-ray diffraction identification of coesite and retrogradequartz on a glass thin section of an ultrahigh-pressure metamorphic rock andtheir crystal structure details Locality: Oomine granite, Tenkawa-mura, Nara,Southwest Japan Sample: in a thin section'
+loop_
+_publ_author_name
+  'Ikuta D.'
+  'Kawame N.'
+  'Banno S.'
+  'Hirajima T.'
+  'Ito K.'
+  'Rakovan J. F.'
+  'Downs R. T.'
+  'Tamada O.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 32 2 1 S'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y, x, -z+0.66667'
+   '-y, x-y, z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z'
+_cell_length_a        4.91700
+_cell_length_b        4.91700
+_cell_length_c        5.41000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.470   0.000   0.000    1.00000    0.757
+o      0.414   0.267   0.119    1.00000    1.065
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.642000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.258247        200.42
+     3.346073       1000.00
+     2.458500         71.45
+     2.283268         70.63
+     2.238228         31.68
+     2.129123         51.98
+     1.981215         31.45
+     1.819340        124.77
+     1.803333          2.90
+     1.673036         37.68
+     1.660563         16.06
+     1.609466          2.32
+     1.542647         88.83
+     1.454095         16.73
+     1.419416          4.24
+     1.383149         54.40
+     1.376076         65.25
+     1.372947         40.36
+     1.289042         21.23
+     1.256883         26.76
+     1.229250         14.27
+     1.200777         28.19
+     1.198696          7.74
+     1.185016         23.60
+     1.181025         26.03
+     1.153851         17.47
+     1.141634          2.68
+     1.119114          0.27
+     1.115358          2.61
+     1.082359         27.50
+     1.064562          4.98
+     1.048676         14.47
+     1.044531          9.92
+     1.035442         15.14
+     1.015717         13.19
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,95 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011330
+_citation_journal_full    'Norsk Geologisk Tidsskrift'
+_citation_journal_volume  '9'
+_citation_page_first  '225'
+_citation_page_last   '233'
+_citation_year  '1926'
+_citation_title  'Die Kristallstruktur von Sn S2'
+loop_
+_publ_author_name
+  'Oftedal I'
+_chemical_formula_sum  'S2 Sn'
+_chemical_name_mineral  'Berndtite'
+_chemical_name_common  'Tin(IV) sulfide'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        3.62000
+_cell_length_b        3.62000
+_cell_length_c        5.85000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 1
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+sn      0.000   0.000   0.000    1.00000    1.000
+s      0.333   0.667   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.573000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.850000        901.04
+     3.135012        292.18
+     2.925000         29.56
+     2.763237       1000.00
+     2.138681        594.40
+     1.950000         45.30
+     1.810000        243.12
+     1.729127        177.68
+     1.655820        182.13
+     1.567506         33.81
+     1.539148         26.67
+     1.514094        129.46
+     1.462500         36.16
+     1.381619        119.34
+     1.326598         64.04
+     1.325375         34.90
+     1.221719         56.00
+     1.184923         22.44
+     1.170000          6.58
+     1.161339         93.01
+     1.137562         83.62
+     1.098231        101.89
+     1.096151         38.31
+     1.069340         15.75
+     1.045004         32.39
+     1.028720         26.40
+     1.012628         61.94
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,129 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1547818
+_citation_journal_full    'Phys. Rev B'
+_citation_journal_volume  '94'
+_citation_page_first  '134108'
+_citation_page_last   '134108'
+_citation_year  '2016'
+_citation_title  'Monazite-type SrCrO4 under compression'
+loop_
+_publ_author_name
+  'Gleissner J.'
+  'Errandonea D.'
+_chemical_formula_sum  'Cr O4 Sr'
+_chemical_name_common  'Strontium chromate(VI)'
+_symmetry_space_group_name_H-M 'I 41/a'
+_space_group_IT_number 88
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y+0.75, x+0.25, z+0.25'
+   '-y+0.25, x+0.75, z+0.75'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   'y+0.25, -x+0.25, z+0.25'
+   'y+0.75, -x+0.75, z+0.75'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y+0.75, -x+0.25, -z+0.25'
+   'y+0.25, -x+0.75, -z+0.75'
+   'x, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   '-y+0.25, x+0.25, -z+0.25'
+   '-y+0.75, x+0.75, -z+0.75'
+_cell_length_a        4.97000
+_cell_length_b        4.97000
+_cell_length_c       11.84400
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+sr      0.000   0.250   0.625    1.00000    13.420
+cr      0.000   0.250   0.125    1.00000    13.420
+o      0.237   0.113   0.045    1.00000    13.420
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.953000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.582870         37.19
+     3.091347          3.78
+     3.022223       1000.00
+     2.961000        140.88
+     2.485000        106.66
+     2.291435          6.52
+     2.264403         23.14
+     2.184519         34.95
+     2.138340         17.86
+     1.936810         19.05
+     1.903486         97.83
+     1.757160         25.20
+     1.721077         36.33
+     1.684569          0.09
+     1.640694          2.04
+     1.620858          0.20
+     1.601723          2.06
+     1.545674          0.01
+     1.527623          1.12
+     1.519066         25.01
+     1.511112         11.65
+     1.480500          1.45
+     1.388218          0.02
+     1.369188          0.48
+     1.364372          0.19
+     1.357596          0.01
+     1.346293          0.09
+     1.312494          0.00
+     1.301389          0.10
+     1.272158          0.05
+     1.271883          2.54
+     1.242500          0.76
+     1.229544          3.00
+     1.216023          0.09
+     1.199207          0.08
+     1.191396          0.23
+     1.183735          0.00
+     1.152864          0.03
+     1.149173          0.61
+     1.145717          0.55
+     1.132395          0.09
+     1.132201          0.44
+     1.122373          0.42
+     1.111326          0.47
+     1.092259          0.01
+     1.089291          0.01
+     1.077656          0.00
+     1.074307          0.05
+     1.069170          0.00
+     1.068680          0.05
+     1.052315          0.01
+     1.051538          0.00
+     1.040457          0.27
+     1.030449          0.01
+     1.007408          0.08
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

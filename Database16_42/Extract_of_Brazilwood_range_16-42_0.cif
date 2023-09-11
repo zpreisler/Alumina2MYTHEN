@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C16 H14 O5'
+_chemical_name_mineral  'Extract of Brazilwood'
+_chemical_name_common  'Extract of Brazilwood'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885         336.1
+     3.821027        578.27
+     3.072123        1000.0
+     2.875871        216.83
+     2.687042        221.82
+     2.600345         79.53
+     2.219881        207.23

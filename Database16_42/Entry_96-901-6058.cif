@@ -1,0 +1,102 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016057
+_citation_journal_full    'Journal of Physics: Condensed Matter'
+_citation_journal_volume  '3'
+_citation_page_first  '8173'
+_citation_page_last   '8180'
+_citation_year  '1991'
+_citation_title  'CuO: x-ray single-crystal structure determination at 196 K and room temperatureNote: T = 196 K'
+loop_
+_publ_author_name
+  'Asbrink S.'
+  'Waskowska A.'
+_chemical_formula_sum  'Cu O'
+_chemical_name_mineral  'Tenorite'
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_space_group_IT_number 9
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.68930
+_cell_length_b        3.42680
+_cell_length_c        5.13210
+_cell_angle_alpha    90.0000
+_cell_angle_beta     99.6530
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.247   0.000    1.00000    0.450
+o      -0.011   0.417   0.254    1.00000    0.555
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.499000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.752939         60.97
+     2.529718        301.38
+     2.526375        804.68
+     2.322737       1000.00
+     2.311453        235.37
+     1.962915         16.56
+     1.869642        290.06
+     1.776424         10.99
+     1.713400        116.12
+     1.622865          7.62
+     1.579593        153.59
+     1.506657        214.22
+     1.418629        168.84
+     1.410923        164.24
+     1.405410          3.49
+     1.378091        103.30
+     1.376469        149.25
+     1.363119          3.04
+     1.317025          2.87
+     1.303698         83.66
+     1.295821          2.74
+     1.264859         62.27
+     1.263187         73.80
+     1.201926          1.76
+     1.197358         25.00
+     1.195530          1.78
+     1.171350         56.28
+     1.161368         53.98
+     1.155798          1.54
+     1.155726         43.48
+     1.124927         20.48
+     1.122704          1.51
+     1.108917          0.20
+     1.108137          1.23
+     1.092432         72.08
+     1.074206         34.53
+     1.038671         15.88
+     1.030985          0.16
+     1.021006          0.86
+     1.017753          0.94
+     1.017614         36.58
+     1.006605         49.91
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

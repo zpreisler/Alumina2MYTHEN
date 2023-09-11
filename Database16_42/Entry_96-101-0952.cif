@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1010951
+_citation_journal_full    'Skrifter utgitt av det Norske Videnskaps-Akademi i Oslo 1: Matematisk-Naturvidenskapelig Klasse'
+_citation_journal_volume  '1928'
+_citation_page_first  '1'
+_citation_page_last   '165'
+_citation_year  '1928'
+_citation_title  'Untersuchungen ueber die Kristallstruktur von Sesquioxyden undVerbindungen ABO3'
+loop_
+_publ_author_name
+  'Zachariasen W H'
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_mineral  'Corundum'
+_chemical_name_common  'Aluminium oxide'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (rhombohedral axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x+0.5, -z+0.5, -y+0.5'
+   '-z+0.5, -y+0.5, -x+0.5'
+   '-x, -y, -z'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y+0.5, x+0.5, z+0.5'
+   'x+0.5, z+0.5, y+0.5'
+   'z+0.5, y+0.5, x+0.5'
+_cell_length_a        5.13000
+_cell_length_b        5.13000
+_cell_length_c        5.13000
+_cell_angle_alpha    55.2700
+_cell_angle_beta     55.2700
+_cell_angle_gamma    55.2700
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.350   0.350   0.350    1.00000    1.000
+o      -0.050   0.550   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.985000
+_exptl_crystal_density_meas      3.990000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.480415        822.87
+     2.551566        841.88
+     2.379485        457.82
+     2.166081          1.72
+     2.085594        957.80
+     1.964293         13.80
+     1.740208        468.57
+     1.601794       1000.00
+     1.546669         35.87
+     1.514823         31.87
+     1.511382         47.35
+     1.404648        339.91
+     1.373797        519.13
+     1.336167         17.13
+     1.275783          4.30
+     1.239482        155.49
+     1.234505         78.76
+     1.193350          9.74
+     1.189743         57.61
+     1.160138         12.42
+     1.138672          2.99
+     1.125783         42.17
+     1.124369         10.77
+     1.099282         63.42
+     1.083041         23.30
+     1.078285         64.25
+     1.046360          2.11
+     1.042797        164.54
+     1.017635         27.11
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

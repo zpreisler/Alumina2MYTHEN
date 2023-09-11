@@ -1,0 +1,110 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9012703
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '57'
+_citation_page_first  '343'
+_citation_page_last   '350'
+_citation_year  '1985'
+_citation_title  'Monoxyde quadratique PbO alpha(I): Description de la transition structuraleferroelastique Method: X-ray Diffraction T = 673 K Locality: synthetic'
+loop_
+_publ_author_name
+  'Boher P.'
+  'Garnier P.'
+  'Gavarri J. R.'
+  'Hewat A. W.'
+_chemical_formula_sum  'O Pb'
+_chemical_name_mineral  'Litharge'
+_symmetry_space_group_name_H-M 'P 4/n m m'
+_space_group_IT_number 129
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y+0.5, -z'
+   '-y+0.5, x+0.5, z'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z'
+   'y, x, -z'
+   '-y, -x, -z'
+   'x+0.5, y+0.5, -z'
+   '-x, y, z'
+   'x, -y, z'
+   '-y+0.5, -x+0.5, z'
+   'y+0.5, x+0.5, z'
+_cell_length_a        3.99980
+_cell_length_b        3.99980
+_cell_length_c        5.06540
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+pb      0.000   0.500   0.234    1.00000    1.200
+o      0.000   0.000   0.000    1.00000    1.599
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    673.000000
+_exptl_crystal_density_diffrn    9.147000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.065400         30.31
+     3.139133       1000.00
+     2.828286        319.65
+     2.532700        112.64
+     2.469427          0.20
+     2.139796         12.97
+     1.999900        154.02
+     1.886767        243.47
+     1.860167          5.93
+     1.688467          1.97
+     1.686686        296.20
+     1.569566         97.14
+     1.555546        101.64
+     1.461098          6.83
+     1.449768         10.51
+     1.414143         43.24
+     1.362059          1.59
+     1.290146          3.15
+     1.289352         53.72
+     1.266350         12.01
+     1.264848         45.31
+     1.234714         39.75
+     1.227854         82.38
+     1.227168          0.21
+     1.207287          6.33
+     1.179781          1.51
+     1.155785         27.64
+     1.131583         71.15
+     1.084133          1.80
+     1.083661         58.11
+     1.069898         26.47
+     1.046378         24.31
+     1.033561          7.71
+     1.016145          1.93
+     1.013080          1.66
+     1.012310          5.58
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

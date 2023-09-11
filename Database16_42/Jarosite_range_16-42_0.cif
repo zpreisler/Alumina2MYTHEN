@@ -1,0 +1,16 @@
+_chemical_formula_sum  'K Fe S O H'
+_chemical_name_mineral  'V Jarosite'
+_chemical_name_common  'Jarosite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.294970         84.57
+     3.587752        150.45
+     3.352413        705.33
+     3.026705        1000.0
+     2.491526          62.1
+     2.457802         74.31
+     2.333351         43.11
+     2.285775        141.04
+     2.240270         44.56
+     2.197834         40.19

@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Ca Sn Cr Si O5'
+_chemical_name_mineral  'V PinkColor'
+_chemical_name_common  'PinkColor'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.081959         172.0
+     4.080671        141.45
+     3.674219         45.64
+     3.369838        652.11
+     3.293930        1000.0
+     3.072123        811.77
+     2.660082        882.41
+     2.520611        124.11
+     2.418607        572.66
+     2.367134        126.98
+     2.334573        128.75
+     2.297193        111.87
+     2.225230         163.0

@@ -1,0 +1,16 @@
+_chemical_formula_sum  'Pb3 O4'
+_chemical_name_mineral  'V Minium'
+_chemical_name_common  'Minium'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.647820         44.96
+     3.392518        1000.0
+     3.293930         69.36
+     3.121001        252.66
+     2.913073        450.52
+     2.788524        529.23
+     2.638345        352.56
+     2.447202         41.92
+     2.293766          59.6
+     2.264442        107.13

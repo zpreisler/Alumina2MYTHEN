@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C26 H19 N5 O5'
+_chemical_name_mineral  'V Purple Red'
+_chemical_name_common  'Purple Red'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885        303.25
+     3.821027        586.02
+     3.251281         47.27
+     3.076265        1000.0
+     2.877676         225.3
+     2.685478        230.68
+     2.600345         75.49
+     2.219881        221.34

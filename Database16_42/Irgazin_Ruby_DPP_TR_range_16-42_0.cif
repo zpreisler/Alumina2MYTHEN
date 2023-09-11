@@ -1,0 +1,18 @@
+_chemical_formula_sum  'C7 H3 N O4'
+_chemical_name_mineral  'V Irgazin Ruby DPP TR'
+_chemical_name_common  'Irgazin Ruby DPP TR'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.018056        147.48
+     4.791989        107.09
+     4.330809        358.75
+     3.821027         486.4
+     3.515833         336.5
+     3.340079        310.66
+     3.196116         93.97
+     3.069953        1000.0
+     2.881384        217.33
+     2.682275        215.52
+     2.600345         90.96
+     2.219881        220.02

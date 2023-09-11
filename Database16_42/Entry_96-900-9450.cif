@@ -1,0 +1,101 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009449
+_citation_journal_full    'Mineralogical Magazine'
+_citation_journal_volume  '39'
+_citation_page_first  '152'
+_citation_page_last   '157'
+_citation_year  '1973'
+_citation_title  'Polytypism of heterogenite Note: polytype known as Heterogenite-2H Locality: Mindigi, Shaba, Zaire'
+loop_
+_publ_author_name
+  'Deliens M.'
+  'Goethals H.'
+_chemical_formula_sum  'Co H O2'
+_chemical_name_mineral  'Heterogenite'
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_space_group_IT_number 194
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+   '-x+y, y, -z+0.5'
+   'x, x-y, -z+0.5'
+   '-x, -y, -z'
+   '-x+y, -x, -z+0.5'
+   'y, -x+y, -z'
+   'x, y, -z+0.5'
+   'x-y, x, -z'
+   '-y, x-y, -z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        2.85500
+_cell_length_b        2.85500
+_cell_length_c        8.80500
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    1.399
+o      0.333   0.667   0.108    1.00000    1.399
+h      0.333   0.667   0.250    1.00000    1.399
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.913000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.402500       1000.00
+     2.472503        260.08
+     2.380432         83.97
+     2.201250         35.62
+     2.155789        583.35
+     1.890952         51.20
+     1.644089        330.62
+     1.467500         12.23
+     1.434375          0.75
+     1.427500        131.76
+     1.357901        116.73
+     1.261960         92.57
+     1.236251         20.59
+     1.224243          3.37
+     1.197701         23.95
+     1.190216         51.68
+     1.139309          4.11
+     1.121116          5.31
+     1.100625         10.69
+     1.077895         50.94
+     1.023244         17.76
+     1.011817          0.16
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C32 H16 Cu N8'
+_chemical_name_mineral  'V Copper phthalocyanine'
+_chemical_name_common  'Phthalo Green Yellowish'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.038184        549.21
+     3.859457        512.32
+     3.601897         784.3
+     3.515833        719.21
+     3.205232        538.83
+     3.072123         694.4
+     2.861247        596.51
+     2.675895        1000.0

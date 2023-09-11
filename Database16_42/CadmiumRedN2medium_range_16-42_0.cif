@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Cd S Se'
+_chemical_name_mineral  'V Cadmium sulfoselenide'
+_chemical_name_common  'Cadmium Red'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.656527        826.19
+     3.587752        108.26
+     3.433492        633.97
+     3.325279        111.82
+     3.218951        1000.0
+     2.494269        414.86

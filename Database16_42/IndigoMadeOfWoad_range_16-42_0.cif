@@ -1,0 +1,10 @@
+_chemical_formula_sum  'C16 H10 N2 O2'
+_chemical_name_mineral  'V Indigo Made Of Woad'
+_chemical_name_common  'Indigo Made Of Woad'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.849734        264.46
+     3.034850        1000.0
+     2.766295        326.73
+     2.276738        260.54

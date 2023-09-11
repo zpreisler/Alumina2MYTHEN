@@ -1,0 +1,88 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011258
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '56'
+_citation_page_first  '495'
+_citation_page_last   '505'
+_citation_year  '1921'
+_citation_title  'Ueber Lauephotogramme und Struktur von Zinkit.'
+loop_
+_publ_author_name
+  'Aminoff G'
+_chemical_formula_sum  'O Zn'
+_chemical_name_mineral  'Zincite'
+_chemical_name_common  'Zinc oxide'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.22000
+_cell_length_b        3.22000
+_cell_length_c        5.20000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.333   0.667   0.000    1.00000    1.000
+o      0.333   0.667   0.375    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.789000
+_exptl_crystal_density_meas      5.700000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.788602        511.51
+     2.600000        381.99
+     2.457528       1000.00
+     1.901660        206.47
+     1.610000        304.08
+     1.537971          0.00
+     1.472123        290.27
+     1.394301         41.54
+     1.368815        227.80
+     1.346729        120.57
+     1.300000         20.14
+     1.228764         36.16
+     1.179636          0.00
+     1.178256         20.48
+     1.086428         82.51
+     1.053992         26.76
+     1.032987         88.94
+     1.011442         49.40
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

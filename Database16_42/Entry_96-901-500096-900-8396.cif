@@ -1,0 +1,136 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008395
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '187'
+_citation_page_first  '305'
+_citation_page_last   '307'
+_citation_year  '1989'
+_citation_title  'The structure of calomel, Hg2Cl2, derived from neutron powder data'
+loop_
+_publ_author_name
+  'Calos N. J.'
+  'Kennard C. H. L.'
+  'Davis R. L.'
+_chemical_formula_sum  'Cl Hg'
+_chemical_name_mineral  'Calomel'
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_space_group_IT_number 139
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z+0.5'
+_cell_length_a        4.47950
+_cell_length_b        4.47950
+_cell_length_c       10.90540
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.000   0.000   0.119    1.00000    1.000
+cl      0.000   0.000   0.336    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.165000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.452700          0.50
+     4.143560       1000.00
+     3.167485        893.17
+     2.822653        181.17
+     2.738900          0.09
+     2.726350        249.62
+     2.239750        325.41
+     2.071780          0.01
+     2.066332        430.39
+     1.970325        265.76
+     1.960983        251.65
+     1.817567          0.24
+     1.754508         91.23
+     1.730636        236.11
+     1.583742         99.42
+     1.576463          0.66
+     1.520889          0.00
+     1.479364         49.30
+     1.475398        183.15
+     1.471463         18.78
+     1.416542        130.87
+     1.411326          0.47
+     1.381187         19.58
+     1.371032          0.00
+     1.369450         99.53
+     1.363175         16.95
+     1.256999        144.38
+     1.252141         49.40
+     1.234405         50.33
+     1.232098         46.61
+     1.229803         19.35
+     1.194043          0.27
+     1.175624         21.80
+     1.169673         53.93
+     1.164457         38.21
+     1.119875         28.00
+     1.117292          0.43
+     1.096978          0.00
+     1.090540          0.73
+     1.081087         32.51
+     1.079536         60.39
+     1.077992          6.28
+     1.055828         23.68
+     1.040942         15.16
+     1.036804         75.74
+     1.036574          0.00
+     1.035890         39.13
+     1.033166         26.99
+     1.031137          2.51
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

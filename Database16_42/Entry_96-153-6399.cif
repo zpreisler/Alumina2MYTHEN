@@ -1,0 +1,137 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1536398
+_citation_journal_full    'Magyar Kemiai Folyoirat'
+_citation_journal_volume  '61'
+_citation_page_first  '314'
+_citation_page_last   '318'
+_citation_year  '1955'
+_citation_title  'Az a-bayerit Al (O H)3 kristalyszerkezete'
+loop_
+_publ_author_name
+  'Kalman S.'
+_chemical_formula_sum  'Al H3 O3'
+_chemical_name_common  'Aluminium(III) hydroxide'
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_space_group_IT_number 12
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        5.01000
+_cell_length_b        8.68000
+_cell_length_c        4.76000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.000   0.333   0.000    1.00000    1.000
+o      0.333   0.000   -0.220    1.00000    1.000
+o      0.167   0.167   0.220    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.405000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.760000       1000.00
+     4.340000        107.16
+     4.339091        208.42
+     3.207068         92.24
+     3.206701        180.26
+     2.505525          1.12
+     2.505000          0.51
+     2.380000         35.04
+     2.217135        702.36
+     2.216771        350.05
+     2.170000         13.32
+     2.169545         28.10
+     2.086814         24.52
+     2.086712         48.21
+     1.974500         19.51
+     1.974157         40.82
+     1.725584        327.73
+     1.725413        164.32
+     1.640317         10.71
+     1.640169         10.17
+     1.639924         10.29
+     1.603534          9.29
+     1.603351         19.24
+     1.586667          0.64
+     1.550818         17.39
+     1.550693         16.33
+     1.550486         16.66
+     1.490201          7.30
+     1.490164         14.31
+     1.446667         76.41
+     1.446364        152.68
+     1.384153         34.32
+     1.383887         68.59
+     1.350611         10.14
+     1.350529          9.39
+     1.350392          9.67
+     1.340486        109.65
+     1.340406         54.84
+     1.280808          3.82
+     1.280715          7.96
+     1.252763          1.57
+     1.252500          0.81
+     1.236208          0.75
+     1.236019          1.49
+     1.211507         50.78
+     1.211269         25.49
+     1.203680          2.91
+     1.203525          3.19
+     1.203389          3.08
+     1.190000         22.33
+     1.166948          5.17
+     1.166806          5.65
+     1.166683          5.51
+     1.147641          2.60
+     1.147624          5.07
+     1.140438          5.19
+     1.140388          4.83
+     1.140306          4.96
+     1.108567         48.48
+     1.108385         24.09
+     1.085000          1.11
+     1.084773          2.01
+     1.074921         13.74
+     1.074879          6.84
+     1.074123          3.84
+     1.074013          4.18
+     1.073916          4.14
+     1.069023          0.87
+     1.068900          1.73
+     1.057866          2.04
+     1.057655          3.73
+     1.043407          1.79
+     1.043356          3.75
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

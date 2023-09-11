@@ -1,0 +1,144 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1539945
+_citation_journal_full    'Journal of the Chemical Society'
+_citation_journal_volume  '1947'
+_citation_page_first  '1670'
+_citation_page_last   '1675'
+_citation_year  '1947'
+_citation_title  'The crystal structure of anhydrous cupric chloride, and thestereochemistry of the cupric atom'
+loop_
+_publ_author_name
+  'Wells A.F.'
+_chemical_formula_sum  'Cl2 Cu'
+_chemical_name_common  'Copper(II) chloride'
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_space_group_IT_number 12
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        6.85000
+_cell_length_b        3.30000
+_cell_length_c        6.70000
+_cell_angle_alpha    90.0000
+_cell_angle_beta    121.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cl      0.500   0.000   0.250    1.00000    1.000
+cu      0.000   0.000   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.439000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.743021       1000.00
+     3.424966        283.58
+     2.947404          0.48
+     2.935798        782.38
+     2.879497        352.50
+     2.876780          0.75
+     2.871510          0.37
+     2.350399        773.77
+     2.345971        190.84
+     2.205331         78.21
+     2.195614         77.09
+     1.914340         48.19
+     1.854159        333.59
+     1.851983         85.51
+     1.819490         80.12
+     1.816066        308.44
+     1.712483          0.04
+     1.688309         60.36
+     1.683394          0.08
+     1.674231        112.62
+     1.667848          0.04
+     1.650000        106.33
+     1.643098         27.14
+     1.639067         26.88
+     1.585846         47.14
+     1.486493         36.19
+     1.473702         67.42
+     1.467899         66.34
+     1.456447          0.04
+     1.451193         32.73
+     1.439749          0.03
+     1.438390        122.08
+     1.437766          0.03
+     1.435755         60.58
+     1.435400         31.26
+     1.430636          0.03
+     1.326239         11.17
+     1.322005         11.02
+     1.321149         21.97
+     1.319051         21.83
+     1.279182          9.57
+     1.273493          9.39
+     1.258244         17.85
+     1.257110         70.40
+     1.249821         17.35
+     1.237822         16.66
+     1.233307         65.25
+     1.202865          0.00
+     1.199900         14.63
+     1.188202          0.00
+     1.175199         54.18
+     1.173567         13.37
+     1.172985          0.00
+     1.171912          0.00
+     1.164278         12.95
+     1.162841         12.88
+     1.148604          6.13
+     1.141655          5.99
+     1.120706         22.84
+     1.118786          0.00
+     1.110236         10.78
+     1.106356          0.01
+     1.102665          0.00
+     1.099128         42.80
+     1.097807          0.00
+     1.096715         42.50
+     1.090472          0.01
+     1.087528         20.68
+     1.083113         40.84
+     1.081334          9.80
+     1.081190          0.01
+     1.062520          4.62
+     1.059254          4.57
+     1.057314         38.00
+     1.053694          8.99
+     1.045054         36.78
+     1.044664          8.75
+     1.033709          8.47
+     1.031701          8.43
+     1.010956          7.96
+     1.008141          7.90
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

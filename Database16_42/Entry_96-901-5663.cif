@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9015662
+_citation_journal_full    'Acta Crystallographica, Section B'
+_citation_journal_volume  '47(4)'
+_citation_page_first  '462'
+_citation_page_last   '468'
+_citation_year  '1991'
+_citation_title  'Structural and thermal parameters for rutile and anatase'
+loop_
+_publ_author_name
+  'Howard C. J.'
+  'Sabine T. M.'
+  'Dickson F.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_mineral  'Rutile'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.59370
+_cell_length_b        4.59370
+_cell_length_c        2.95870
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    0.168
+o      0.305   0.305   0.000    1.00000    0.084
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.249000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.248236       1000.00
+     2.487413        457.39
+     2.296850         66.99
+     2.187330        190.52
+     2.054365         68.07
+     1.687471        574.97
+     1.624118        172.54
+     1.479350         82.29
+     1.452655         82.40
+     1.423721          6.29
+     1.359905        208.70
+     1.346301        101.72
+     1.303966         12.00
+     1.274063          2.46
+     1.243706         21.37
+     1.200486         12.81
+     1.170181         43.41
+     1.148425         30.78
+     1.114136         11.40
+     1.093665         75.90
+     1.082745         41.22
+     1.042661         72.37
+     1.036492         55.03
+     1.027183         32.01
+     1.016798          0.70
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

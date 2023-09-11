@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C8 H7 N O'
+_chemical_name_mineral  'Paliotol Yellow Orange'
+_chemical_name_common  'Paliotol Yellow Orange'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        337.84
+     3.830601        521.23
+     3.379880        299.24
+     3.230380        115.24
+     3.076265        1000.0
+     2.881384        239.62
+     2.687042        238.95
+     2.597351         73.34
+     2.223077        203.62

@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Fe O Mg Al Ti S Si'
+_chemical_name_mineral  'V  Fe2O3 MgO Al2O3 TiO2 MgSO4 SiO2'
+_chemical_name_common  'Caput Mortuum Reddish'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.700861        162.52
+     2.703193        1000.0
+     2.524864        758.65
+     2.209316        324.55

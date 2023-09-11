@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Fe O H'
+_chemical_name_mineral  'Ochre'
+_chemical_name_common  'Sap Green'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.697456        153.59
+     4.342750        372.95
+     3.836957        507.91
+     3.084689        1000.0
+     2.879574        238.21
+     2.695132        264.81
+     2.606354         95.94
+     2.453848        307.25
+     2.229498        264.87

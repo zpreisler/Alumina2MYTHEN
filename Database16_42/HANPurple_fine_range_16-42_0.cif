@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Cu Ba O4 Si O3'
+_chemical_name_mineral  'V Copper barium silicate'
+_chemical_name_common  'HAN Purple fine'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.076475         35.66
+     4.342750         64.78
+     3.734068         354.9
+     3.301110        239.55
+     3.047204        129.11
+     2.976636        851.67
+     2.788524          96.8
+     2.731080         99.87
+     2.492863        115.42
+     2.432816        1000.0
+     2.280111          55.1
+     2.253421         48.65

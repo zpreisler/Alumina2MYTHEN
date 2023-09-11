@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Hematite'
+_chemical_name_common  'Raw Sienna Italian'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.055229        157.91
+     4.330809        277.71
+     4.225072        153.68
+     3.746309         166.3
+     3.362348        184.67
+     3.036868        695.41
+     2.894393        1000.0
+     2.698366        362.52
+     2.581052        139.86
+     2.448554        302.85
+     2.285775        168.97
+     2.204100        206.78

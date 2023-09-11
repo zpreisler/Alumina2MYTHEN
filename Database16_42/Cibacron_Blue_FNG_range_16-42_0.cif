@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C29 H20 Cl N7 O11 S3'
+_chemical_name_mineral  'V Cibacron Blue'
+_chemical_name_common  'Cibacron_Blue_FNG'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.334782        330.26
+     3.827350        556.25
+     3.076265        1000.0
+     2.877676        198.53
+     2.685478        222.95
+     2.600345         90.51
+     2.218835        214.77

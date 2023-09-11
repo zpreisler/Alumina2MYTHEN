@@ -1,0 +1,100 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_5000035
+_citation_journal_full    'Journal of Applied Crystallography'
+_citation_journal_volume  '21'
+_citation_page_first  '182'
+_citation_page_last   '191'
+_citation_year  '1988'
+_citation_title  'Crystal structures of quartz and magnesium germanate by profileanalysis of synchrotron-radiation high-resolution powder data.'
+loop_
+_publ_author_name
+  'Will G'
+  'Bellotto M'
+  'Parrish W'
+  'Hart M'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_chemical_name_common  'Silicon oxide'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        4.91239
+_cell_length_b        4.91239
+_cell_length_c        5.40385
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 3
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.470   0.000   0.667    1.00000    1.000
+o      0.414   0.267   0.786    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.650000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.254255        201.82
+     3.342681       1000.00
+     2.456195         71.50
+     2.280803         70.73
+     2.236053         31.84
+     2.127127         50.37
+     1.979305         32.20
+     1.817471        122.22
+     1.801283          2.70
+     1.671340         37.71
+     1.658726         16.09
+     1.607957          2.45
+     1.541176         86.15
+     1.452543         16.19
+     1.418085          4.14
+     1.381781         52.22
+     1.374627         62.49
+     1.371642         39.24
+     1.287600         20.49
+     1.255651         25.58
+     1.228098         13.34
+     1.199545         27.53
+     1.197561          7.40
+     1.183724         22.45
+     1.179918         25.15
+     1.152759         16.42
+     1.140401          2.59
+     1.118027          0.35
+     1.114227          2.63
+     1.081310         26.24
+     1.063564          4.39
+     1.047496         13.50
+     1.043544          9.61
+     1.034350         13.75
+     1.014701         11.84
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

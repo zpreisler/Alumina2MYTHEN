@@ -1,0 +1,128 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1533737
+_citation_journal_full    'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_citation_journal_volume  '455'
+_citation_page_first  '16'
+_citation_page_last   '28'
+_citation_year  '1979'
+_citation_title  'Zum Hochtemperaturverhalten von Cd S O4'
+loop_
+_publ_author_name
+  'Spiess M.'
+  'Gruehn R.'
+_chemical_formula_sum  'Cd O4 S'
+_chemical_name_common  'Cd (S O4)'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        5.01200
+_cell_length_b        5.01200
+_cell_length_c        7.63700
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.187   -0.187   0.710    1.00000    1.000
+s      0.667   0.333   0.234    1.00000    1.000
+o      0.803   -0.803   0.314    1.00000    1.000
+cd      0.000   0.000   0.504    1.00000    1.000
+o      0.333   0.667   0.955    1.00000    1.000
+o      0.667   0.333   0.026    1.00000    1.000
+s      0.333   0.667   0.764    1.00000    1.000
+cd      0.667   0.333   0.689    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.211000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     7.637000        764.65
+     4.340519        224.18
+     3.818500        384.87
+     3.773614        353.33
+     2.866979        897.37
+     2.545667        107.25
+     2.506000       1000.00
+     2.381085         84.58
+     2.195871        291.91
+     2.170260         88.05
+     2.095109         31.46
+     2.087602        214.50
+     1.909250         58.91
+     1.886807        515.96
+     1.785869         13.19
+     1.747651         49.57
+     1.651542        176.85
+     1.640562          0.22
+     1.603971         72.39
+     1.527400         39.84
+     1.518702         98.34
+     1.507333        170.74
+     1.446840        126.15
+     1.440797         48.60
+     1.433489        115.38
+     1.421554         23.43
+     1.379004         51.82
+     1.352974          8.74
+     1.304238         37.16
+     1.272833          5.85
+     1.257871          3.00
+     1.253000        131.13
+     1.249069         28.57
+     1.244299         55.88
+     1.236468         19.35
+     1.221401         28.29
+     1.203843          6.13
+     1.190542         25.43
+     1.189160         12.54
+     1.153137         35.45
+     1.148137         88.14
+     1.134841         11.77
+     1.124199         13.43
+     1.117902         46.24
+     1.097936         48.03
+     1.091000          0.03
+     1.088289         43.99
+     1.085130          2.89
+     1.074339         10.77
+     1.058088         20.92
+     1.050396         15.28
+     1.047554         32.36
+     1.043801         43.45
+     1.018317         27.25
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

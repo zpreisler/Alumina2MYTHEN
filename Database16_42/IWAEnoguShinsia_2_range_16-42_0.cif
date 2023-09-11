@@ -1,0 +1,15 @@
+_chemical_formula_sum  ''
+_chemical_name_mineral  'V IWAEnogu Shinsia'
+_chemical_name_common  'IWAEnogu Shinsia'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.130683        271.97
+     4.526598         170.5
+     3.298713        1000.0
+     3.067889        669.66
+     2.672717        854.58
+     2.641438        754.27
+     2.524864        167.53
+     2.413472        455.54
+     2.226282        159.32

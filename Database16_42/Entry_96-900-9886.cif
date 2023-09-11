@@ -1,0 +1,114 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009885
+_citation_journal_full    'Journal of Chemical Physics'
+_citation_journal_volume  '50'
+_citation_page_first  '1920'
+_citation_page_last   '1927'
+_citation_year  '1969'
+_citation_title  'Diffraction and spectroscopic studies of the cobaltic acid system HCoO2 - DCoO2 Note: Neutron study Note: polytype known as Heterogenite-3R'
+loop_
+_publ_author_name
+  'Delaplane R. G.'
+  'Ibers J. A.'
+  'Ferraro J. R.'
+  'Rush J. J.'
+_chemical_formula_sum  'Co D O2'
+_chemical_name_mineral  'Heterogenite (deuterated)'
+_symmetry_space_group_name_H-M 'R -3 m'
+_space_group_IT_number 166
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z'
+   'x-y+0.66667, -y+0.33333, -z+0.33333'
+   'x-y+0.33333, -y+0.66667, -z+0.66667'
+   '-x, -x+y, -z'
+   '-x+0.66667, -x+y+0.33333, -z+0.33333'
+   '-x+0.33333, -x+y+0.66667, -z+0.66667'
+   'y, x, -z'
+   'y+0.66667, x+0.33333, -z+0.33333'
+   'y+0.33333, x+0.66667, -z+0.66667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z'
+   '-x+y+0.66667, y+0.33333, z+0.33333'
+   '-x+y+0.33333, y+0.66667, z+0.66667'
+   'x, x-y, z'
+   'x+0.66667, x-y+0.33333, z+0.33333'
+   'x+0.33333, x-y+0.66667, z+0.66667'
+   '-y, -x, z'
+   '-y+0.66667, -x+0.33333, z+0.33333'
+   '-y+0.33333, -x+0.66667, z+0.66667'
+_cell_length_a        2.85400
+_cell_length_b        2.85400
+_cell_length_c       13.35400
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    1.439
+o      0.000   0.000   0.405    1.00000    1.000
+h      0.000   0.000   0.500    1.00000    1.229
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.915000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.451333       1000.00
+     2.430359        127.65
+     2.317924        587.98
+     2.225667         34.35
+     1.986479         98.26
+     1.814039        353.50
+     1.510192        115.58
+     1.483778         11.80
+     1.427000        130.89
+     1.383323         57.01
+     1.358881        113.75
+     1.230560         12.12
+     1.215179         40.36
+     1.201290         21.25
+     1.174883         51.15
+     1.158962         11.57
+     1.121570         41.46
+     1.112833         11.09
+     1.089655          6.15
+     1.037205         22.57
+     1.028528         16.02
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

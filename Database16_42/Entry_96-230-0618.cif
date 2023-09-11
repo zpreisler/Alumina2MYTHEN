@@ -1,0 +1,145 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2300617
+_citation_journal_full    'Journal of Applied Crystallography'
+_citation_journal_volume  '47(1)'
+_citation_page_first  '414'
+_citation_page_last   '420'
+_citation_year  '2014'
+_citation_title  'Neutron and X-ray diffraction study of ferrite nanocrystals obtained bymicrowave-assisted growth. A structural comparison with the thermalsynthetic route'
+loop_
+_publ_author_name
+  'Solano Eduardo'
+  'Frontera Carlos'
+  'Puig Teresa'
+  'Obradors Xavier'
+  'Ricart Susagna'
+  'Ros Josep'
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'Hematite'
+_chemical_name_common  'Iron(III) oxide'
+_symmetry_space_group_name_H-M 'P 43 3 2'
+_space_group_IT_number 212
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.75, x+0.25, z+0.75'
+   '-x+0.5, -y, z+0.5'
+   'y+0.75, -x+0.75, z+0.25'
+   'x+0.75, -z+0.75, y+0.25'
+   'x+0.5, -y+0.5, -z'
+   'x+0.25, z+0.75, -y+0.75'
+   'z+0.25, y+0.75, -x+0.75'
+   '-x, y+0.5, -z+0.5'
+   '-z+0.75, y+0.25, x+0.75'
+   'z, x, y'
+   'y, z, x'
+   '-y+0.5, -z, x+0.5'
+   'z+0.5, -x+0.5, -y'
+   '-y, z+0.5, -x+0.5'
+   '-z+0.5, -x, y+0.5'
+   '-z, x+0.5, -y+0.5'
+   'y+0.5, -z+0.5, -x'
+   'y+0.25, x+0.75, -z+0.75'
+   '-y+0.25, -x+0.25, -z+0.25'
+   '-x+0.75, z+0.25, y+0.75'
+   '-x+0.25, -z+0.25, -y+0.25'
+   'z+0.75, -y+0.75, x+0.25'
+   '-z+0.25, -y+0.25, -x+0.25'
+_cell_length_a        8.33640
+_cell_length_b        8.33640
+_cell_length_c        8.33640
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 10
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      -0.004   -0.004   -0.004    1.00000    1.000
+fe      0.625   0.625   0.625    0.34990    1.000
+fe      0.125   0.367   0.883    0.98000    1.000
+o      0.382   0.382   0.382    0.99000    1.000
+o      0.382   0.874   0.882    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    300.000000
+_exptl_crystal_density_diffrn    4.851000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.894725         46.87
+     4.813023         24.01
+     3.728151         57.76
+     3.403321         51.38
+     2.947362        351.41
+     2.778800         11.86
+     2.636201         24.81
+     2.513519       1000.00
+     2.406511         36.13
+     2.312101         15.85
+     2.227997          6.90
+     2.084100        168.42
+     2.021874          2.06
+     1.964908          4.26
+     1.912501          0.17
+     1.864076          0.00
+     1.819152         19.69
+     1.777326          0.13
+     1.701661        112.01
+     1.667280          4.38
+     1.634903          4.95
+     1.604341        284.74
+     1.548031         10.15
+     1.522011         17.30
+     1.473681        387.34
+     1.451181          4.49
+     1.429681          7.52
+     1.409109          2.38
+     1.389400          0.05
+     1.370496          4.63
+     1.352343          7.45
+     1.318101         38.72
+     1.301927          4.44
+     1.286334          0.91
+     1.271289         74.90
+     1.256760         17.93
+     1.242717          3.26
+     1.229135          0.66
+     1.203256         18.21
+     1.190914          3.54
+     1.178945          1.40
+     1.167329          1.09
+     1.156051          0.00
+     1.145093          1.45
+     1.134440          4.51
+     1.113998         37.13
+     1.104183          0.35
+     1.094623          4.06
+     1.085307        110.46
+     1.067367          3.30
+     1.058724          4.00
+     1.042050         43.34
+     1.034003          5.24
+     1.026140          4.31
+     1.018453          0.13
+     1.010937          0.01
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,109 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_7212242
+_citation_page_first  '8'
+_citation_page_last   '15'
+_citation_year  '1970'
+_citation_title  'Efficient microwave-assisted hydrothermal synthesis of CuO seaurchin-like architectures via a mesoscale self-assembly'
+loop_
+_publ_author_name
+  'Volanti Diogo P.'
+  'Orlandi Marcelo O.'
+  'Andr?s Juan'
+  'Longo Elson'
+_chemical_formula_sum  'Cu O'
+_chemical_name_mineral  'Tenorite'
+_chemical_name_common  'Copper Oxide'
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_space_group_IT_number 15
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.68370
+_cell_length_b        3.42260
+_cell_length_c        5.12880
+_cell_angle_alpha    90.0000
+_cell_angle_beta     99.5400
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cu      0.250   0.250   0.000    1.00000    0.477
+o      0.000   0.418   0.250    1.00000    0.618
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.516000
+_exptl_crystal_density_meas      6.450000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.749921         60.10
+     2.528935        302.48
+     2.522645        807.52
+     2.321708       1000.00
+     2.309463        234.07
+     1.960326         16.83
+     1.866323        290.26
+     1.776180         10.97
+     1.711300        115.39
+     1.621029          6.95
+     1.579946        153.93
+     1.505023        213.18
+     1.417298        169.14
+     1.408949        163.55
+     1.404113          3.61
+     1.378014        103.67
+     1.374960        149.56
+     1.361245          2.99
+     1.314825          2.62
+     1.303132         83.43
+     1.294860          2.34
+     1.264467         62.04
+     1.261322         72.76
+     1.201011          1.64
+     1.195724         24.52
+     1.194441          1.66
+     1.169346         55.53
+     1.160854         53.54
+     1.155695          1.44
+     1.154731         43.56
+     1.123091         19.80
+     1.121097          1.22
+     1.108084          1.21
+     1.107581          0.00
+     1.091042         71.58
+     1.073069         34.49
+     1.038944         15.84
+     1.029695          0.00
+     1.019350          0.91
+     1.017500          0.87
+     1.016970         36.20
+     1.006704         49.51
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Tenorite - synthetic from Na2 C O3 flux at 1173 K for 20 h, slowlycooled
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

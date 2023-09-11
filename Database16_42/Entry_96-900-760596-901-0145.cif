@@ -1,0 +1,102 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9010144
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '92'
+_citation_page_first  '57'
+_citation_page_last   '63'
+_citation_year  '2007'
+_citation_title  'First in situ X-ray diffraction identification of coesite and retrogradequartz on a glass thin section of an ultrahigh-pressure metamorphic rock andtheir crystal structure details Locality: Yangkou meta-igneous complex in themiddle part of the Sulu UHP terrain, eastern China Note: Sample is on a thinsection'
+loop_
+_publ_author_name
+  'Ikuta D.'
+  'Kawame N.'
+  'Banno S.'
+  'Hirajima T.'
+  'Ito K.'
+  'Rakovan J. F.'
+  'Downs R. T.'
+  'Tamada O.'
+_chemical_formula_sum  'O2 Si'
+_chemical_name_mineral  'Quartz'
+_symmetry_space_group_name_H-M 'P 32 2 1 S'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y, x, -z+0.66667'
+   '-y, x-y, z+0.66667'
+   '-x, -x+y, -z+0.33333'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z'
+_cell_length_a        4.92300
+_cell_length_b        4.92300
+_cell_length_c        5.40900
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+si      0.468   0.000   0.000    1.00000    1.737
+o      0.414   0.264   0.121    1.00000    2.210
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.636000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.263443        199.00
+     3.348355       1000.00
+     2.461500         63.41
+     2.283767         65.84
+     2.240420         28.24
+     2.131721         45.17
+     1.983259         27.73
+     1.820403        113.85
+     1.803000          2.36
+     1.674178         32.97
+     1.660611         13.25
+     1.611430          2.60
+     1.544353         72.16
+     1.454540         14.22
+     1.421148          3.55
+     1.384328         41.74
+     1.376629         51.88
+     1.374498         31.02
+     1.288969         15.02
+     1.258035         19.80
+     1.230750         10.64
+     1.201494         20.37
+     1.200076          6.01
+     1.185183         16.94
+     1.182466         19.60
+     1.155185         12.41
+     1.141883          2.08
+     1.120210          0.14
+     1.116118          1.67
+     1.083436         17.41
+     1.065861          3.32
+     1.048571          9.37
+     1.045751          6.89
+     1.035852         10.36
+     1.016503          7.84
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

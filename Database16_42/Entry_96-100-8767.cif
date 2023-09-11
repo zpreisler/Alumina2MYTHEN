@@ -1,0 +1,155 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1008766
+_citation_journal_full    'Materials Science Forum'
+_citation_journal_volume  '79-82'
+_citation_page_first  '821'
+_citation_page_last   '826'
+_citation_year  '1991'
+_citation_title  'Rietveld studies of the aluminium-iron substitution in synthetic goethite'
+loop_
+_publ_author_name
+  'Hazemann J.-L.'
+  'B?rar J. F.'
+  'Manceau A.'
+_chemical_formula_sum  'Fe H O2'
+_chemical_name_mineral  'Goethite'
+_chemical_name_common  'Iron(III) oxide hydroxide'
+_symmetry_space_group_name_H-M 'P b n m'
+_space_group_IT_number 62
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   'x, y, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        4.61880
+_cell_length_b        9.95280
+_cell_length_c        3.02360
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.047   0.855   0.250    1.00000    1.000
+o      0.714   0.201   0.250    1.00000    1.000
+o      0.192   0.052   0.250    1.00000    1.000
+h      -1.000   -1.000   -1.000    0.50000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.222000
+_exptl_crystal_density_meas      4.000000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.976400         88.58
+     4.189638       1000.00
+     3.385353         94.86
+     2.694540        357.31
+     2.584025        222.29
+     2.529754         39.89
+     2.488200        120.33
+     2.451794        577.79
+     2.309400         30.37
+     2.255098         86.87
+     2.249633         25.07
+     2.190560        129.49
+     2.094819          6.85
+     2.011645         35.82
+     1.921285         48.00
+     1.895396          4.25
+     1.828023          7.34
+     1.804870         92.94
+     1.773932         22.39
+     1.721929        301.76
+     1.692677         91.15
+     1.658800         26.51
+     1.605943         52.21
+     1.564343        197.87
+     1.561171          3.58
+     1.521504          5.13
+     1.511800         86.64
+     1.507768         39.72
+     1.476983         27.08
+     1.470818         36.04
+     1.454315         94.48
+     1.446523          4.51
+     1.422051         51.64
+     1.396546         37.63
+     1.387176          0.34
+     1.380409          8.68
+     1.371977         38.16
+     1.359125         19.44
+     1.358899         46.79
+     1.347270         16.60
+     1.322632         15.58
+     1.318458         58.15
+     1.309236          0.50
+     1.292013         23.77
+     1.267841         19.05
+     1.264877          8.31
+     1.254784          6.59
+     1.244249         20.15
+     1.244100          0.66
+     1.239473          0.18
+     1.230630          5.16
+     1.225897          2.21
+     1.217836          0.07
+     1.210758          0.42
+     1.201441         25.79
+     1.201285          0.00
+     1.181890          1.46
+     1.165010          2.46
+     1.154700          3.93
+     1.150514         18.97
+     1.147006         23.02
+     1.129647          9.54
+     1.128451          9.52
+     1.127549         33.62
+     1.124817          0.74
+     1.123991          6.97
+     1.117366          9.90
+     1.116400          1.04
+     1.095280         11.68
+     1.090534          4.12
+     1.086039          1.63
+     1.075470          3.16
+     1.072434          4.10
+     1.072418          2.53
+     1.067575         18.32
+     1.057221         13.81
+     1.054231          3.14
+     1.054216         18.93
+     1.047409          1.54
+     1.044542          7.77
+     1.029797         15.49
+     1.025849         23.79
+     1.025836         21.83
+     1.013280         23.93
+     1.010634         29.37
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

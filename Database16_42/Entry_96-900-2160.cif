@@ -1,0 +1,153 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9002159
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '84'
+_citation_page_first  '895'
+_citation_page_last   '904'
+_citation_year  '1999'
+_citation_title  'In situ study of the goethite-hematite phase transformation by real timesynchrotron powder diffractionSample at T = 156 C'
+loop_
+_publ_author_name
+  'Gualtieri A.'
+  'Venturelli P.'
+_chemical_formula_sum  'Fe H O2'
+_chemical_name_mineral  'Goethite'
+_symmetry_space_group_name_H-M 'P n m a'
+_space_group_IT_number 62
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x+0.5, -y, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y+0.5, -z'
+   '-x, -y, -z'
+   'x+0.5, y, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y+0.5, z'
+_cell_length_a        9.91890
+_cell_length_b        3.01480
+_cell_length_c        4.58350
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+fe      0.146   0.250   -0.049    1.00000    3.789
+h      -0.105   0.250   -0.411    1.00000    4.737
+o      -0.199   0.250   0.286    1.00000    3.947
+o      -0.050   0.250   -0.209    1.00000    3.947
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    429.100000
+_exptl_crystal_density_diffrn    4.306000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.959450        132.69
+     4.160746       1000.00
+     3.366095        114.81
+     2.681460        432.38
+     2.576159        229.94
+     2.518782         57.17
+     2.479725        141.51
+     2.441299        672.48
+     2.291750         24.61
+     2.245748         91.36
+     2.232924         37.45
+     2.181001        143.45
+     2.080373         11.66
+     2.003608         41.23
+     1.915126         51.12
+     1.883519          7.33
+     1.820577          4.07
+     1.794357         69.34
+     1.767077         19.44
+     1.712271        251.06
+     1.683047         76.59
+     1.653150         24.31
+     1.597395         48.71
+     1.558458        147.97
+     1.555094          3.09
+     1.510025          4.20
+     1.507400         66.45
+     1.499899         27.88
+     1.469557         18.76
+     1.460118         28.47
+     1.449528         62.12
+     1.442252          3.11
+     1.417256         32.18
+     1.386915         22.39
+     1.382062          0.40
+     1.375751          6.06
+     1.362821         23.53
+     1.353770         30.24
+     1.350137         10.27
+     1.342884          0.07
+     1.340730         10.19
+     1.314109         12.11
+     1.314006         36.28
+     1.300759          0.26
+     1.288080         13.84
+     1.259982          7.94
+     1.259391          4.33
+     1.249361          4.90
+     1.240044         11.77
+     1.239862          0.25
+     1.234974          0.41
+     1.225051          1.79
+     1.220649          1.54
+     1.210452          0.05
+     1.205217          0.09
+     1.196847          0.02
+     1.194334         15.34
+     1.176903          1.14
+     1.161068          0.68
+     1.146678          9.33
+     1.145875          1.93
+     1.138304         10.84
+     1.123293          4.52
+     1.122874         14.59
+     1.122032          3.47
+     1.119106          4.19
+     1.116462          0.12
+     1.113863          5.19
+     1.112395          0.51
+     1.090500          4.46
+     1.082695          1.50
+     1.082361          0.77
+     1.071559          1.56
+     1.066820          1.22
+     1.064924          2.03
+     1.063231          7.07
+     1.051565          6.33
+     1.048777          8.28
+     1.046976          0.56
+     1.040187          0.33
+     1.038940          2.34
+     1.025476          6.56
+     1.020638          6.88
+     1.018978          8.82
+     1.009677          7.95
+     1.007209         10.57
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

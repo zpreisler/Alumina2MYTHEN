@@ -1,0 +1,85 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1528838
+_citation_journal_full    'Journal of the Physical Society of Japan'
+_citation_journal_volume  '21'
+_citation_page_first  '850'
+_citation_page_last   '860'
+_citation_year  '1966'
+_citation_title  'X-ray diffraction study on Co O'
+loop_
+_publ_author_name
+  'Saito S.'
+  'Nakahigashi K.'
+  'Shimomura Y.'
+_chemical_formula_sum  'Co O'
+_chemical_name_common  'Co O'
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_space_group_IT_number 12
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        5.18000
+_cell_length_b        3.01500
+_cell_length_c        3.01700
+_cell_angle_alpha    90.0000
+_cell_angle_beta    125.5500
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    1.000
+o      0.000   0.500   0.500    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    6.491000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.454657        270.80
+     2.452126        539.97
+     2.451747        269.86
+     2.132633       1000.00
+     2.107246        479.34
+     1.508499        129.28
+     1.507500        128.92
+     1.499607        252.08
+     1.498280        251.12
+     1.285261         55.32
+     1.284589         55.20
+     1.284425         55.17
+     1.284171         55.13
+     1.274146         26.70
+     1.273385         53.28
+     1.272925         26.60
+     1.227328         52.39
+     1.226063        104.31
+     1.225874         52.12
+     1.066316         60.10
+     1.053623         28.88
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

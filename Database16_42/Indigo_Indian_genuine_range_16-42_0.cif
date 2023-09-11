@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C16 H10 N2 O2'
+_chemical_name_mineral  'V Indigo Indian genuine'
+_chemical_name_common  'Indigo Indian genuine'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.367048        469.74
+     3.856155        535.34
+     3.423250        932.64
+     3.082605        1000.0
+     2.894393        345.48
+     2.704780        303.32
+     2.231665        295.01

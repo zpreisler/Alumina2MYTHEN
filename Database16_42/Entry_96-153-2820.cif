@@ -1,0 +1,101 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1532819
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '88'
+_citation_page_first  '986'
+_citation_page_last   '995'
+_citation_year  '2003'
+_citation_title  'Intergrown niobian rutile phases with Sc- and W-rich ferrocolumbite: anelectron-microprobe and Rietveld study'
+loop_
+_publ_author_name
+  'Okrusch M.'
+  'Schuessler U.'
+  'Hock R.'
+  'Brummer A.'
+  'Theisinger H.'
+  'Baier M.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_common  'Titanium(IV) oxide'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.62570
+_cell_length_b        4.62570
+_cell_length_c        2.98060
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    1.000
+o      0.282   0.282   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.159000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.270864       1000.00
+     2.505506        627.63
+     2.312850         44.18
+     2.203088        236.19
+     2.068676         29.37
+     1.699465        530.39
+     1.635432        211.32
+     1.490300         78.93
+     1.462775         99.94
+     1.433783          0.86
+     1.369503        152.39
+     1.356165         86.87
+     1.313160         29.93
+     1.282938          2.13
+     1.252753         14.21
+     1.209193          4.51
+     1.178412         47.22
+     1.156425         40.17
+     1.121897          5.39
+     1.101544         74.63
+     1.090288         23.56
+     1.049981         52.57
+     1.043934         53.14
+     1.034338         13.17
+     1.023934          3.46
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

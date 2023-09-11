@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Hg S'
+_chemical_name_mineral  'V Cinnabar'
+_chemical_name_common  'Natural Cinnabar'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.621806         44.51
+     3.377364        714.62
+     3.171403        153.15
+     2.870380        1000.0
+     2.378223         84.38

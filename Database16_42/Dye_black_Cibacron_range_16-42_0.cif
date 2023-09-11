@@ -1,0 +1,14 @@
+_chemical_formula_sum  'C31 H22 Cl F N10 O13 S4'
+_chemical_name_mineral  'V Dye black Cibacron'
+_chemical_name_common  'Dye black Cibacron'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.318726        313.96
+     3.821027        628.71
+     3.065828        1000.0
+     2.872178        191.53
+     2.680638        202.86
+     2.598811         80.86
+     2.530512         51.45
+     2.218835        237.21

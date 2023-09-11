@@ -1,0 +1,23 @@
+_chemical_formula_sum  'Cu C O H'
+_chemical_name_mineral  'V Malachite'
+_chemical_name_common  'Malachite Natural Standard'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.130683        288.07
+     4.749027         33.82
+     4.535299          21.0
+     3.706937         631.3
+     3.034850        139.98
+     2.990556        145.91
+     2.855814        1000.0
+     2.776483        478.68
+     2.520611        578.53
+     2.477907        101.89
+     2.431545         91.51
+     2.384479         26.62
+     2.346517         84.17
+     2.320398        153.56
+     2.290350         67.48
+     2.253421         52.31
+     2.187542        116.74

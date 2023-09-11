@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Cu'
+_chemical_name_mineral  'V Copper phthalocyanine'
+_chemical_name_common  'Phthalo Green Dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.938561        212.66
+     3.644878        232.08
+     3.457064        277.46
+     3.362348        1000.0
+     3.151543        276.94
+     2.916876        267.97
+     2.857593         302.2
+     2.727763        161.35
+     2.677526        258.33
+     2.618459        349.06
+     2.495609        222.71
+     2.228442        120.54
+     2.178307        201.91

@@ -1,0 +1,116 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_2104122
+_citation_journal_full    'Acta Crystallographica Section B'
+_citation_journal_volume  '64(3)'
+_citation_page_first  '281'
+_citation_page_last   '286'
+_citation_year  '2008'
+_citation_title  'Structural analysis of perovskite LaCr~1{-~<i>x</i>}Ni~<i>x~</i>O~3~by Rietveld refinement of X-ray powder diffraction data'
+loop_
+_publ_author_name
+  'Yang J.'
+_chemical_formula_sum  'Cr2 O3'
+_chemical_name_common  'Chromium Oxide'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        4.95800
+_cell_length_b        4.95800
+_cell_length_c       13.59000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cr      0.000   0.000   0.352    1.00000    47.374
+o      0.319   0.000   0.250    1.00000    47.374
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    298.000000
+_exptl_crystal_density_diffrn    5.235000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.629797       1000.00
+     2.664316        613.45
+     2.479000        267.01
+     2.265000          5.28
+     2.174668         27.57
+     2.047131          2.44
+     1.814898          4.38
+     1.672144          2.23
+     1.611437          0.00
+     1.579617          0.06
+     1.578490          0.05
+     1.464398          0.08
+     1.431251          0.06
+     1.393400          0.00
+     1.332158          0.00
+     1.295652          0.00
+     1.289599          0.00
+     1.239500          0.00
+     1.209932          0.00
+     1.195553          0.00
+     1.173457          0.00
+     1.172995          0.00
+     1.148276          0.00
+     1.123835          0.00
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,96 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9004143
+_citation_journal_full    'The Canadian Mineralogist'
+_citation_journal_volume  '17'
+_citation_page_first  '77'
+_citation_page_last   '85'
+_citation_year  '1979'
+_citation_title  'Polyhedral thermal expansion in the TiO2 polymorphs: Refinementof the crystal structure of rutile and brookite at high temperatureSample at 600 degrees C'
+loop_
+_publ_author_name
+  'Meagher E. P.'
+  'Lager G. A.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_mineral  'Rutile'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.61600
+_cell_length_b        4.61600
+_cell_length_c        2.97700
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    1.309
+o      0.304   0.304   0.000    1.00000    1.290
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.182000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.264005       1000.00
+     2.501826        444.88
+     2.308000         63.58
+     2.199538        179.57
+     2.064338         62.34
+     1.696392        500.59
+     1.632003        148.01
+     1.488500         67.67
+     1.459707         67.36
+     1.431071          4.92
+     1.366888        162.49
+     1.354320         79.35
+     1.310633          9.18
+     1.280248          1.83
+     1.250913         15.94
+     1.207365          8.98
+     1.176105         30.84
+     1.154000         21.34
+     1.119544          7.47
+     1.099769         50.01
+     1.088002         26.61
+     1.047895         45.31
+     1.042200         34.58
+     1.032169         19.63
+     1.021894          0.43
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

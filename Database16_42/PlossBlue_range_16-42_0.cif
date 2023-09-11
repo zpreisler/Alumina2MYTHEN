@@ -1,0 +1,19 @@
+_chemical_formula_sum  'Cu C O'
+_chemical_name_mineral  'V Copper carbonate Copper hydroxide'
+_chemical_name_common  'PlossBlue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.697982         73.85
+     3.633304         84.68
+     3.562464        1000.0
+     3.298713         31.78
+     3.055464         88.93
+     2.827138         26.59
+     2.719468         99.17
+     2.696709         77.59
+     2.644539         36.94
+     2.509434        308.86
+     2.301761         33.93
+     2.213571         46.94
+     2.194715         32.37

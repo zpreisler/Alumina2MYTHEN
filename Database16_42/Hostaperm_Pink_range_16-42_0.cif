@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C22 H16 N2 O2'
+_chemical_name_mineral  'V Hostaperm Pink'
+_chemical_name_common  'Hostaperm Pink'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.318726        355.19
+     3.824105        590.25
+     3.504946         76.27
+     3.267757         200.6
+     3.072123        1000.0
+     2.874068        227.48
+     2.682275        266.58
+     2.597351         92.97
+     2.216695        240.29

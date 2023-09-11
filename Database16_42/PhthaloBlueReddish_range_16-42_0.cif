@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Cu'
+_chemical_name_mineral  'V Copper phthalocyanine'
+_chemical_name_common  'Phthalo Blue Reddish'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.141607        148.94
+     4.342750        381.47
+     4.069965        113.23
+     3.836957        763.44
+     3.305915         71.86
+     3.140572        251.26
+     3.084689        1000.0
+     2.955195        199.14
+     2.885101        246.06
+     2.695132        305.49
+     2.607823        100.16
+     2.228442        260.08

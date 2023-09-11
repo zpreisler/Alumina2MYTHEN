@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Hg S Al'
+_chemical_name_mineral  'V Madder Lake Natural Cinnabar'
+_chemical_name_common  'MadderLake Natural Cinnabar'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.945893        1000.0
+     4.441408         91.15
+     3.621806         20.85
+     3.377364        453.32
+     3.178154         86.01
+     2.870380         433.4
+     2.464443         49.24
+     2.425026         29.74
+     2.386918         95.67
+     2.290350         27.62
+     2.249001         23.48
+     2.166173         40.07

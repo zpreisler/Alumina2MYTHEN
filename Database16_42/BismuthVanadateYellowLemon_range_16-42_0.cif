@@ -1,0 +1,17 @@
+_chemical_formula_sum  'Bi O V'
+_chemical_name_mineral  'V BismuthVanadate'
+_chemical_name_common  'BismuthVanadateYellowLemon'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.782260        118.61
+     3.305915        275.39
+     3.225798        259.02
+     3.103791        1000.0
+     2.968811         104.8
+     2.928253         245.6
+     2.809410         50.03
+     2.610842        136.88
+     2.585450        173.39
+     2.553301         56.05
+     2.266682        181.52

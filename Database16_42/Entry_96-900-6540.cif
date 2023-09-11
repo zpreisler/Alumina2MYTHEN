@@ -1,0 +1,88 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9006539
+_citation_journal_full    'Physics and Chemistry of Minerals'
+_citation_journal_volume  '25'
+_citation_page_first  '130'
+_citation_page_last   '137'
+_citation_year  '1998'
+_citation_title  'Pressure dependence of hydrogen bonding in metal deuteroxides: a neutron powder diffraction study of Mn(OD)2 and beta-Co(OD)2. Sample: P = 7.5 GPa'
+loop_
+_publ_author_name
+  'Parise J. B.'
+  'Theroux B.'
+  'Li R.'
+  'Loveday J. S.'
+  'Marshall W. G.'
+  'Klotz S.'
+_chemical_formula_sum  'Co D2 O2'
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_space_group_IT_number 164
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-x, -y, -z'
+   'y, -x+y, -z'
+   'x-y, x, -z'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+_cell_length_a        3.08400
+_cell_length_b        3.08400
+_cell_length_c        4.36300
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    0.076
+o      0.333   0.667   0.242    1.00000    0.631
+h      0.386   -0.386   0.455    0.33330    0.179
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_pressure       7500000.000000
+_exptl_crystal_density_diffrn    4.387000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.363000        743.42
+     2.670822        329.88
+     2.277908       1000.00
+     2.181500         35.69
+     1.689540        443.30
+     1.542000        228.19
+     1.454333         24.68
+     1.453870        175.35
+     1.335411         40.67
+     1.277251        126.15
+     1.276937        118.78
+     1.259188         41.98
+     1.138954         99.69
+     1.090750         19.32
+     1.058004         52.03
+     1.009786         37.33
+     1.009476         36.64
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

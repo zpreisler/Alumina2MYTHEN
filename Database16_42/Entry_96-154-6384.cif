@@ -1,0 +1,129 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1546383
+_citation_journal_full    'The Journal of Physical Chemistry C'
+_citation_journal_volume  '116(44)'
+_citation_page_first  '23785'
+_citation_page_last   '23792'
+_citation_year  '2012'
+_citation_title  'Insights into the Mechanism Related to the Phase Transition from\a-Fe2O3 to \g-Fe2O3 Nanoparticles Induced by Thermal Treatment andLaser Irradiation'
+loop_
+_publ_author_name
+  'El Mendili Yassine'
+  'Bardeau Jean-Fran?ois'
+  'Randrianantoandro Nirina'
+  'Grasset Fabien'
+  'Greneche Jean-Marc'
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'Hematite'
+_chemical_name_common  'Iron(III) oxide'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        5.03000
+_cell_length_b        5.03000
+_cell_length_c       13.75000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 6
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.000   0.356   0.250    1.00000    1.000
+fe      0.000   0.000   0.353    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.281000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.679653        179.64
+     2.698496       1000.00
+     2.515000        654.36
+     2.291667         28.85
+     2.204867        161.38
+     2.076346         66.71
+     1.839827        219.21
+     1.693917        450.58
+     1.634776          2.41
+     1.601178         33.70
+     1.598800         34.50
+     1.484913        217.47
+     1.452036        246.01
+     1.412626          1.17
+     1.349248         24.97
+     1.311229         83.38
+     1.305738         14.05
+     1.261819          0.66
+     1.257500         54.94
+     1.226551         26.50
+     1.212685          8.66
+     1.203530          0.79
+     1.189933          5.45
+     1.188956         23.28
+     1.162695         59.36
+     1.145833          3.13
+     1.139816         83.77
+     1.106125          0.54
+     1.102433         70.24
+     1.075616          1.58
+     1.055372         75.62
+     1.042714          0.12
+     1.038173         31.39
+     1.029091          0.41
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

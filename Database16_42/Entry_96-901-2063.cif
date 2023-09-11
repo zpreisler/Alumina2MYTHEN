@@ -1,0 +1,131 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9012062
+_citation_journal_full    'Materials Research Bulletin'
+_citation_journal_volume  '14'
+_citation_page_first  '1571'
+_citation_page_last   '1581'
+_citation_year  '1979'
+_citation_title  'Crystal growth and structure of BiVO4Locality: syntheticSample: T = 566 K'
+loop_
+_publ_author_name
+  'Sleight A. W.'
+  'Chen H.-Y.'
+  'Ferretti A.'
+  'Cox D. E.'
+_chemical_formula_sum  'Bi O4 V'
+_chemical_name_mineral  'Clinobisvanite'
+_symmetry_space_group_name_H-M 'I 41/a'
+_space_group_IT_number 88
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y+0.75, x+0.25, z+0.25'
+   '-y+0.25, x+0.75, z+0.75'
+   '-x, -y+0.5, z'
+   '-x+0.5, -y, z+0.5'
+   'y+0.25, -x+0.25, z+0.25'
+   'y+0.75, -x+0.75, z+0.75'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y+0.75, -x+0.25, -z+0.25'
+   'y+0.25, -x+0.75, -z+0.75'
+   'x, y+0.5, -z'
+   'x+0.5, y, -z+0.5'
+   '-y+0.25, x+0.25, -z+0.25'
+   '-y+0.75, x+0.75, -z+0.75'
+_cell_length_a        5.14700
+_cell_length_b        5.14700
+_cell_length_c       11.72160
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+bi      0.000   0.250   0.625    1.00000    1.429
+v      0.000   0.250   0.125    1.00000    0.300
+o      0.138   0.498   0.203    1.00000    1.669
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    566.000000
+_exptl_crystal_density_diffrn    6.929000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.712682        430.04
+     3.112081        125.56
+     3.091836       1000.00
+     2.930400        172.90
+     2.573500        215.56
+     2.356341          3.44
+     2.282490         12.06
+     2.258670        168.80
+     2.133444         83.11
+     1.983240        123.84
+     1.933679        265.53
+     1.819739        104.20
+     1.737895          0.00
+     1.721295        159.36
+     1.697579         31.28
+     1.642448         34.89
+     1.592362         28.02
+     1.570894         27.19
+     1.568271        226.41
+     1.556040          0.03
+     1.545918        104.42
+     1.465200         16.41
+     1.422877          0.06
+     1.417051         25.96
+     1.384508          8.50
+     1.359189          0.61
+     1.354108         18.11
+     1.340832         17.02
+     1.331560          0.00
+     1.286750         26.22
+     1.273293         56.95
+     1.262605          7.72
+     1.256815          0.88
+     1.250494         94.45
+     1.241311         15.29
+     1.219261         20.63
+     1.198345          5.19
+     1.189115         11.34
+     1.187976         38.40
+     1.178170         36.97
+     1.150904         38.42
+     1.141245         31.94
+     1.133530         13.22
+     1.129335          0.32
+     1.120901          0.17
+     1.115722         30.59
+     1.101853         13.02
+     1.088962          0.01
+     1.086344         12.91
+     1.074597          0.02
+     1.071246         51.30
+     1.066722          0.10
+     1.043472          4.46
+     1.037360          4.92
+     1.030612         23.99
+     1.025453         13.30
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

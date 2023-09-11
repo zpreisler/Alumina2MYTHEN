@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Pb2 Sn Sb O6'
+_chemical_name_mineral  'V Lead tin antimony'
+_chemical_name_common  'Naples Yellow From Paris'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.700861         19.72
+     3.310734         29.78
+     3.248958         20.81
+     3.028712        1000.0
+     2.821752          25.7
+     2.624481        319.31
+     2.583934        107.18
+     2.477907         66.01
+     2.412223         39.22

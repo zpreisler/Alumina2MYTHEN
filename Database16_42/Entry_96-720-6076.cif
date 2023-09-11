@@ -1,0 +1,113 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_7206075
+_citation_journal_full    'CrystEngComm'
+_citation_journal_volume  '13(16)'
+_citation_page_first  '5055'
+_citation_year  '2011'
+_citation_title  'The role of brookite in mechanical activation of anatase-to-rutiletransformation of nanocrystalline TiO2: An XRD and Raman spectroscopyinvestigation'
+loop_
+_publ_author_name
+  'Rezaee Masih'
+  'Mousavi Khoie Seyyed Mohammad'
+  'Liu Kun Hua'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_mineral  'Anatase'
+_chemical_name_common  'Titanium oxide'
+_symmetry_space_group_name_H-M 'I 41/a m d'
+_space_group_IT_number 141
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-x, -y+0.5, -z+0.25'
+   '-x+0.5, -y, -z+0.75'
+   '-y, x+0.5, z+0.25'
+   '-y+0.5, x, z+0.75'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x+0.5, z+0.25'
+   'y+0.5, -x, z+0.75'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   'x, -y+0.5, -z+0.25'
+   'x+0.5, -y, -z+0.75'
+   '-x, y+0.5, -z+0.25'
+   '-x+0.5, y, -z+0.75'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   'x, y+0.5, -z+0.25'
+   'x+0.5, y, -z+0.75'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x+0.5, z+0.25'
+   '-y+0.5, -x, z+0.75'
+   'y, x+0.5, z+0.25'
+   'y+0.5, x, z+0.75'
+_cell_length_a        3.78500
+_cell_length_b        3.78500
+_cell_length_c        9.51960
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    1.000
+o      0.000   0.000   0.210    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    298.000000
+_exptl_crystal_density_diffrn    3.890000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.517187       1000.00
+     2.431695         65.75
+     2.379900        209.92
+     2.332891         65.08
+     1.892500        271.33
+     1.700860        167.87
+     1.666562        162.30
+     1.493497         27.42
+     1.481255        130.43
+     1.364808         48.66
+     1.338200         59.66
+     1.279839          4.06
+     1.265033         88.99
+     1.250730         23.48
+     1.189950          4.41
+     1.172396          5.55
+     1.166446         45.49
+     1.160784         14.91
+     1.060169          4.61
+     1.051707         21.15
+     1.043445         23.60
+     1.018703         17.01
+     1.007364         10.44
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

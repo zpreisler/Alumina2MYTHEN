@@ -1,0 +1,11 @@
+_chemical_formula_sum  'K Co N O H'
+_chemical_name_mineral  'V Cobalt Yellow'
+_chemical_name_common  'CobaltYellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.253176         89.58
+     3.688922         395.6
+     2.994474        327.12
+     2.594365        1000.0
+     2.319191        470.45

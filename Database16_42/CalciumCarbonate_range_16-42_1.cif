@@ -1,0 +1,11 @@
+_chemical_formula_sum  'Ca C O3'
+_chemical_name_mineral  'V Calcite'
+_chemical_name_common  'Calcite'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.875717         31.29
+     3.036868        1000.0
+     2.836046         24.82
+     2.492863         57.62
+     2.285775        111.54

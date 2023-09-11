@@ -1,0 +1,18 @@
+_chemical_formula_sum  'Si'
+_chemical_name_mineral  'V Maya blue'
+_chemical_name_common  'Maya blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.548416        124.36
+     4.342750        383.74
+     3.830601        655.57
+     3.709830         94.34
+     3.337623        315.61
+     3.230380        176.98
+     3.076265        1000.0
+     2.877676        235.49
+     2.688688        422.04
+     2.597351        182.33
+     2.541818        120.97
+     2.223077        209.92

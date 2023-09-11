@@ -1,0 +1,10 @@
+_chemical_formula_sum  'Cd Zn S'
+_chemical_name_mineral  'V Cadmium zinc sulfide'
+_chemical_name_common  'Cadmium Yellow'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.590458        634.26
+     3.369838         599.5
+     3.169196        1000.0
+     2.451198         271.5

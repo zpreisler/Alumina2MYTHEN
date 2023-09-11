@@ -1,0 +1,101 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016056
+_citation_journal_full    'Acta Crystallographica, Section A'
+_citation_journal_volume  '33'
+_citation_page_first  '355'
+_citation_page_last   '359'
+_citation_year  '1977'
+_citation_title  'The structure and Bijvoet ratios of cadmium selenide'
+loop_
+_publ_author_name
+  'Freeman D. K.'
+  'Mair S. L.'
+  'Barnea Z.'
+_chemical_formula_sum  'Cd Se'
+_chemical_name_mineral  'Cadmoselite'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        4.29900
+_cell_length_b        4.29900
+_cell_length_c        7.01000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+cd      0.333   0.667   0.000    1.00000    1.563
+se      0.333   0.667   0.377    1.00000    1.126
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.665000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.723043       1000.00
+     3.505000        598.00
+     3.288076        725.52
+     2.552013        361.78
+     2.149500        792.76
+     1.979153        757.37
+     1.861522        119.86
+     1.832369        474.49
+     1.799165        104.67
+     1.752500          3.34
+     1.644038         78.55
+     1.585616          3.12
+     1.455975        234.04
+     1.407178         80.26
+     1.379655         70.85
+     1.358273          5.60
+     1.312053        157.55
+     1.305866         61.24
+     1.276006          1.00
+     1.241014         95.35
+     1.205465        214.63
+     1.169850         78.16
+     1.168333         11.86
+     1.119906         83.78
+     1.114734         14.89
+     1.097238          0.90
+     1.074750         55.35
+     1.032586         24.46
+     1.027529         49.99
+     1.026501         45.58
+     1.021563         21.94
+     1.012791          1.27
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

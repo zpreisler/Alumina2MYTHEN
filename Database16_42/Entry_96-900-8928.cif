@@ -1,0 +1,98 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008927
+_citation_journal_full    'Crystal Structures'
+_citation_journal_volume  '1'
+_citation_page_first  '85'
+_citation_page_last   '237'
+_citation_year  '1963'
+_citation_title  'Second edition. Interscience Publishers, New York, New York Note: manganese phosphide structure'
+loop_
+_publ_author_name
+  'Wyckoff R. W. G.'
+_chemical_formula_sum  'As Co'
+_chemical_name_mineral  'Modderite'
+_symmetry_space_group_name_H-M 'P b n m'
+_space_group_IT_number 62
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z+0.5'
+   'x+0.5, -y+0.5, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   'x, y, -z+0.5'
+   '-x+0.5, y+0.5, z'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a        5.86900
+_cell_length_b        5.29200
+_cell_length_c        3.45800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.250   0.000   0.250    1.00000    1.000
+as      0.600   0.250   0.250    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    8.278000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.979315         44.52
+     2.934500        109.60
+     2.646000         12.34
+     2.596160        808.98
+     2.566346        540.04
+     1.978397       1000.00
+     1.965107        311.17
+     1.729000        260.66
+     1.702729        465.78
+     1.620892         24.74
+     1.517894        132.42
+     1.511867         90.12
+     1.489657         19.71
+     1.467250          0.09
+     1.447390          4.72
+     1.433930        146.88
+     1.431873          5.78
+     1.413911         26.55
+     1.323000         90.82
+     1.298080        123.06
+     1.283173        127.23
+     1.225100          8.37
+     1.209144          1.94
+     1.206091          7.68
+     1.138125         60.34
+     1.131059          0.68
+     1.128037         11.17
+     1.118721          0.19
+     1.111510         16.39
+     1.106078         39.57
+     1.094532         20.18
+     1.087775         57.25
+     1.050694         76.58
+     1.044713        142.18
+     1.040025         86.04
+     1.030409        114.51
+     1.024766         25.07
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

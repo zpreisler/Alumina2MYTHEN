@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9016588
+_citation_journal_full    'American Journal of Science'
+_citation_journal_volume  '10'
+_citation_page_first  '15'
+_citation_page_last   '28'
+_citation_year  '1925'
+_citation_title  'Crystal structure of the mercurous halides _cod_database_code 1011069'
+loop_
+_publ_author_name
+  'Havighurst R.'
+_chemical_formula_sum  'Cl Hg'
+_chemical_name_mineral  'Calomel'
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_space_group_IT_number 139
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z+0.5'
+_cell_length_a        4.47000
+_cell_length_b        4.47000
+_cell_length_c       10.89000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.000   0.000   0.110    1.00000    1.000
+cl      0.000   0.000   0.360    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.205000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.445000         25.40
+     4.135196       1000.00
+     3.160767        857.29
+     2.817872         93.05
+     2.733581         19.38
+     2.722500        244.33
+     2.235000        312.05
+     2.067598          8.67
+     2.062791        417.01
+     1.966192        268.01
+     1.957947        242.04
+     1.815000         11.68
+     1.751076         47.60
+     1.727460        227.41
+     1.580384         95.23
+     1.573960         28.56
+     1.517747          3.06
+     1.476246         49.82
+     1.472747        178.71
+     1.469272          0.09
+     1.413538        125.32
+     1.408936         19.04
+     1.378399         10.26
+     1.368186          4.17
+     1.366790         95.36
+     1.361250         14.43
+     1.254522        138.27
+     1.250234         41.96
+     1.231798         50.92
+     1.229763         45.66
+     1.227738          0.08
+     1.191876         10.30
+     1.173218         11.44
+     1.167965         47.35
+     1.162589         32.44
+     1.117500         26.85
+     1.115222         16.52
+     1.094683          0.96
+     1.089000          4.38
+     1.078801         32.95
+     1.077434         59.24
+     1.076071          0.03
+     1.053589         22.74
+     1.038795          7.97
+     1.035143         66.54
+     1.034402          0.82
+     1.033799         37.58
+     1.031395         22.98
+     1.029604         15.18
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

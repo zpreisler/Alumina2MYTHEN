@@ -1,0 +1,92 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1514228
+_citation_journal_full    'Transactions and Journal of the British Ceramic Society'
+_citation_journal_volume  '83'
+_citation_page_first  '32'
+_citation_page_last   '37'
+_citation_year  '1984'
+_citation_title  'Thermal expansion data: II. Binary oxides with the fluorite and rutilestructures, M O2, and the antifluorite structure, M2 O'
+loop_
+_publ_author_name
+  'Taylor D.'
+_chemical_formula_sum  'Mn O2'
+_chemical_name_common  'Manganese Oxide (1/2)'
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_space_group_IT_number 136
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   'y, x, z'
+_cell_length_a        4.39700
+_cell_length_b        4.39700
+_cell_length_c        2.86900
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      0.000   0.000   0.000    1.00000    1.000
+o      0.305   0.305   0.000    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    5.205000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.109148       1000.00
+     2.402757        516.14
+     2.198500         94.17
+     2.108483        129.42
+     1.966398         44.34
+     1.621987        501.56
+     1.554574        138.40
+     1.434500         64.73
+     1.390453         75.72
+     1.366818          3.59
+     1.305211        153.78
+     1.302546         85.89
+     1.251248          6.37
+     1.219508          1.29
+     1.201378         23.17
+     1.158899          6.89
+     1.122325         41.69
+     1.099250         22.77
+     1.066429          5.73
+     1.054242         53.47
+     1.036383         27.97
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

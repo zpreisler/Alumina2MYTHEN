@@ -170,6 +170,7 @@ class MainWindow(QtWidgets.QMainWindow):
         self.container.read_single_data_repeat(self.filename)
         self.container.remove_background()
 
+        #alumina = self.container.database['Aluminium oxide'][0]
         alumina = self.container.database['SRM1976a'][0]
         self.pm = PhaseMap(self.container,alumina)
 

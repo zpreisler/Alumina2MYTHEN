@@ -1,0 +1,21 @@
+_chemical_formula_sum  'C H O'
+_chemical_name_mineral  'V Anthraquinone'
+_chemical_name_common  'AlizarineCrimsonDark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        515.01
+     4.153608        505.81
+     3.849734        748.67
+     3.743202        327.18
+     3.587752        454.84
+     3.362348        406.34
+     3.246638         342.4
+     3.084689        1000.0
+     2.994474        371.77
+     2.894393        391.69
+     2.781690        219.89
+     2.698366        378.37
+     2.546147        338.67
+     2.334573        367.07
+     2.233783        508.27

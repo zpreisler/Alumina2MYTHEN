@@ -1,0 +1,77 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1010981
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '94'
+_citation_page_first  '375'
+_citation_page_last   '396'
+_citation_year  '1936'
+_citation_title  'On the crystal structure of gypsum Ca S O4 (H2 O)2'
+loop_
+_publ_author_name
+  'Wooster W A'
+_chemical_formula_sum  'Ca H4 O6 S'
+_chemical_name_mineral  'Gypsum'
+_chemical_name_common  'Calcium sulfate dihydrate'
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_space_group_IT_number 15
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, y, -z+0.5'
+   '-x+0.5, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, -y, z+0.5'
+   'x+0.5, -y+0.5, z+0.5'
+_cell_length_a       10.47000
+_cell_length_b       15.15000
+_cell_length_c        6.51000
+_cell_angle_alpha    90.0000
+_cell_angle_beta    151.5500
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ca      0.000   0.420   0.250    1.00000    1.000
+s      0.000   0.083   -0.250    1.00000    1.000
+o      0.033   0.140   -0.018    1.00000    1.000
+o      0.241   0.026   0.066    1.00000    1.000
+o      0.128   0.314   0.165    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.270000
+_exptl_crystal_density_meas      2.310000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     7.575000        649.33
+     4.270879       1000.00
+     3.055579        579.33
+     2.678572        338.93
+     2.211367         89.43
+     2.082916        154.53
+     1.893893        141.89
+     1.806483        123.52
+
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

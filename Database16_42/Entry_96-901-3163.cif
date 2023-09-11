@@ -1,0 +1,123 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9013162
+_citation_journal_full    'American Mineralogist'
+_citation_journal_volume  '47'
+_citation_page_first  '977'
+_citation_page_last   '979'
+_citation_year  '1962'
+_citation_title  'Hydrothermal wurtzite at Thomaston Dam, ConnecticutLocality: Thomaston Dam, Connecticut'
+loop_
+_publ_author_name
+  'Myer G. H.'
+_chemical_formula_sum  'S Zn'
+_chemical_name_mineral  'Wurtzite-6H'
+_symmetry_space_group_name_H-M 'P 63 m c'
+_space_group_IT_number 186
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        3.81200
+_cell_length_b        3.81200
+_cell_length_c       18.68999
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+zn      0.000   0.000   0.000    1.00000    1.000
+zn      0.333   0.667   0.167    1.00000    1.000
+zn      0.667   0.333   0.333    1.00000    1.000
+s      0.000   0.000   0.125    1.00000    1.000
+s      0.333   0.667   0.292    1.00000    1.000
+s      0.667   0.333   0.458    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.128000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     9.344995          0.00
+     4.672497          0.00
+     3.250964        583.73
+     3.114998        668.00
+     3.112764       1000.00
+     2.917047        504.20
+     2.696216        155.85
+     2.474428         78.87
+     2.336249          0.00
+     2.076003        146.05
+     1.907026        371.94
+     1.906000        742.32
+     1.868999          0.00
+     1.757804        322.45
+     1.644244         62.58
+     1.626436        118.53
+     1.625800        473.52
+     1.625482        118.29
+     1.595590         70.68
+     1.557499         17.79
+     1.556382         26.60
+     1.510741         14.21
+     1.509976         14.17
+     1.476858          0.00
+     1.404006         33.36
+     1.348108         96.94
+     1.334999          0.00
+     1.334471          0.00
+     1.318121          8.01
+     1.292174         95.14
+     1.244998         40.94
+     1.237634         39.18
+     1.237214         39.11
+     1.236794         78.13
+     1.223472         46.67
+     1.206044         34.72
+     1.205525         17.33
+     1.183938          5.09
+     1.183570         10.16
+     1.168124          0.00
+     1.165732         63.34
+     1.130421         28.26
+     1.101219         44.32
+     1.100627         88.54
+     1.100430         88.47
+     1.093459          0.00
+     1.084126          3.61
+     1.069551         93.83
+     1.043089         10.90
+     1.038333         13.87
+     1.038002         20.80
+     1.037753         41.55
+     1.037588         83.07
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

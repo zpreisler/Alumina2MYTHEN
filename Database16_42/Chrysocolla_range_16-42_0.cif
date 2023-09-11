@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Cu Si O3'
+_chemical_name_mineral  'V CuSiO3'
+_chemical_name_common  'Chrysocolla'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.119514         91.33
+     4.395711        169.16
+     4.283294        234.69
+     3.700861        257.91
+     3.362348        1000.0
+     2.859463        184.47
+     2.771379        108.37
+     2.522050        182.36
+     2.279004        174.83

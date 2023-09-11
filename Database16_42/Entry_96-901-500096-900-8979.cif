@@ -1,0 +1,134 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008978
+_citation_journal_full    'Crystal Structures'
+_citation_journal_volume  '1'
+_citation_page_first  '85'
+_citation_page_last   '237'
+_citation_year  '1963'
+_citation_title  'Second edition. Interscience Publishers, New York, New York'
+loop_
+_publ_author_name
+  'Wyckoff R. W. G.'
+_chemical_formula_sum  'Cl Hg'
+_chemical_name_mineral  'Calomel'
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_space_group_IT_number 139
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-y, x, z'
+   '-y+0.5, x+0.5, z+0.5'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x, z'
+   'y+0.5, -x+0.5, z+0.5'
+   'x, -y, -z'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z+0.5'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z+0.5'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   'x, y, -z'
+   'x+0.5, y+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x, z'
+   '-y+0.5, -x+0.5, z+0.5'
+   'y, x, z'
+   'y+0.5, x+0.5, z+0.5'
+_cell_length_a        4.47800
+_cell_length_b        4.47800
+_cell_length_c       10.91000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+hg      0.000   0.000   0.116    1.00000    1.000
+cl      0.000   0.000   0.347    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    7.166000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.455000          2.20
+     4.142625       1000.00
+     3.166424        890.22
+     2.822995        149.96
+     2.738506          2.19
+     2.727500        260.64
+     2.239000        324.30
+     2.071312          1.12
+     2.066538        446.95
+     1.969714        267.10
+     1.961525        247.11
+     1.818333          2.21
+     1.754229         75.88
+     1.730584        244.44
+     1.583212         99.06
+     1.576832          5.59
+     1.520469          0.44
+     1.478889         49.62
+     1.475414        181.02
+     1.471963          6.48
+     1.416068        130.39
+     1.411497          3.79
+     1.380875         16.31
+     1.370639          0.62
+     1.369253        102.76
+     1.363750         18.13
+     1.256780        149.00
+     1.252521         52.77
+     1.234004         50.69
+     1.231983         46.14
+     1.229971          6.74
+     1.194033          2.07
+     1.175323         18.16
+     1.170106         55.69
+     1.164710         40.78
+     1.119500         27.90
+     1.117238          3.32
+     1.096644          0.14
+     1.091000          1.44
+     1.080733         32.75
+     1.079374         59.77
+     1.078021          2.19
+     1.055475         23.60
+     1.040658         12.63
+     1.037031         78.14
+     1.036256          0.12
+     1.035656         40.39
+     1.033269         28.81
+     1.031489          4.98
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

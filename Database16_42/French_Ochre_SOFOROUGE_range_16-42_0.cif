@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Fe2 O3'
+_chemical_name_mineral  'V Ochre'
+_chemical_name_common  'French Ochre SOFOROUGE'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750         88.84
+     4.279416        120.24
+     3.395058        269.35
+     3.342538        1000.0
+     3.080523        159.04
+     3.034850        142.92
+     2.691906        188.77
+     2.503885        186.39
+     2.279004          94.2

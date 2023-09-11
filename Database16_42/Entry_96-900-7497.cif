@@ -1,0 +1,121 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9007496
+_citation_journal_full    'Acta Crystallographica, Section A'
+_citation_journal_volume  '38'
+_citation_page_first  '733'
+_citation_page_last   '739'
+_citation_year  '1982'
+_citation_title  'Electric field gradients and charge density in corundum alpha-Al2O3'
+loop_
+_publ_author_name
+  'Lewis J.'
+  'Schwarzenbach D.'
+  'Flack H. D.'
+_chemical_formula_sum  'Al2 O3'
+_chemical_name_mineral  'Corundum'
+_symmetry_space_group_name_H-M 'R -3 c'
+_space_group_IT_number 167
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.66667, y+0.33333, z+0.33333'
+   'x+0.33333, y+0.66667, z+0.66667'
+   '-y, x-y, z'
+   '-y+0.66667, x-y+0.33333, z+0.33333'
+   '-y+0.33333, x-y+0.66667, z+0.66667'
+   '-x+y, -x, z'
+   '-x+y+0.66667, -x+0.33333, z+0.33333'
+   '-x+y+0.33333, -x+0.66667, z+0.66667'
+   'x-y, -y, -z+0.5'
+   'x-y+0.66667, -y+0.33333, -z+0.83333'
+   'x-y+0.33333, -y+0.66667, -z+0.16667'
+   '-x, -x+y, -z+0.5'
+   '-x+0.66667, -x+y+0.33333, -z+0.83333'
+   '-x+0.33333, -x+y+0.66667, -z+0.16667'
+   'y, x, -z+0.5'
+   'y+0.66667, x+0.33333, -z+0.83333'
+   'y+0.33333, x+0.66667, -z+0.16667'
+   '-x, -y, -z'
+   '-x+0.66667, -y+0.33333, -z+0.33333'
+   '-x+0.33333, -y+0.66667, -z+0.66667'
+   'y, -x+y, -z'
+   'y+0.66667, -x+y+0.33333, -z+0.33333'
+   'y+0.33333, -x+y+0.66667, -z+0.66667'
+   'x-y, x, -z'
+   'x-y+0.66667, x+0.33333, -z+0.33333'
+   'x-y+0.33333, x+0.66667, -z+0.66667'
+   '-x+y, y, z+0.5'
+   '-x+y+0.66667, y+0.33333, z+0.83333'
+   '-x+y+0.33333, y+0.66667, z+0.16667'
+   'x, x-y, z+0.5'
+   'x+0.66667, x-y+0.33333, z+0.83333'
+   'x+0.33333, x-y+0.66667, z+0.16667'
+   '-y, -x, z+0.5'
+   '-y+0.66667, -x+0.33333, z+0.83333'
+   '-y+0.33333, -x+0.66667, z+0.16667'
+_cell_length_a        4.76020
+_cell_length_b        4.76020
+_cell_length_c       12.99330
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+al      0.000   0.000   0.352    1.00000    0.224
+o      0.306   0.000   0.250    1.00000    0.271
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    3.984000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.480811        618.94
+     2.551433        965.99
+     2.380100        445.80
+     2.165550          4.95
+     2.085889        998.21
+     1.964710         14.60
+     1.740406        500.46
+     1.601767       1000.00
+     1.547057         26.03
+     1.515173         33.03
+     1.511114         75.79
+     1.404878        396.55
+     1.374151        613.21
+     1.336334         13.08
+     1.275716         15.16
+     1.239234        177.34
+     1.234370         95.78
+     1.193410          7.83
+     1.190050         68.72
+     1.160270          7.68
+     1.147521         57.48
+     1.138962          3.09
+     1.126057         42.04
+     1.124388         29.96
+     1.099170         83.68
+     1.082775         20.50
+     1.078503         99.51
+     1.046544          2.30
+     1.042945        202.18
+     1.017885         26.98
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

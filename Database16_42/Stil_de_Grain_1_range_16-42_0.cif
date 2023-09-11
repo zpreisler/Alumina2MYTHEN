@@ -1,0 +1,17 @@
+_chemical_formula_sum  'C36 H34 Cl2 N6 O4'
+_chemical_name_mineral  'V Stil de Grain'
+_chemical_name_common  'Stil de Grain'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885        364.98
+     3.817792        530.18
+     3.166992         27.34
+     3.065828        1000.0
+     2.874068        214.46
+     2.682275         208.3
+     2.594365         73.75
+     2.531894         33.84
+     2.471188         52.76
+     2.402033         29.65
+     2.216695        215.23

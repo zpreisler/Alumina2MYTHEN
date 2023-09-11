@@ -1,0 +1,20 @@
+_chemical_formula_sum  'As4 S4'
+_chemical_name_mineral  'V Realgar'
+_chemical_name_common  'Realgar'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     5.191199         110.1
+     4.870226        245.29
+     4.310847         35.28
+     3.777036         79.26
+     3.349939         63.62
+     3.310734          60.0
+     3.205232        1000.0
+     3.082605         110.8
+     3.041014         300.0
+     2.909372         70.68
+     2.804180        133.33
+     2.773134        408.83
+     2.541818        476.54
+     2.261118        115.14

@@ -1,0 +1,15 @@
+_chemical_formula_sum  'C22 H16 N2 O2'
+_chemical_name_mineral  'Quindo_Red_R6713'
+_chemical_name_common  'Quindo_Red_R6713'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        293.85
+     3.830601        501.01
+     3.389983         67.78
+     3.244322        105.22
+     3.076265        1000.0
+     2.881384        209.24
+     2.687042        214.68
+     2.597351         67.13
+     2.218835        212.96

@@ -1,0 +1,21 @@
+_chemical_formula_sum  'C29 H12 Cl8 N6 O2'
+_chemical_name_mineral  'V Isoindolol Orange'
+_chemical_name_common  'Isoindolol Orange'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.623984        458.59
+     4.466621        575.67
+     3.830601        297.92
+     3.749265        377.22
+     3.565272        202.84
+     3.387451        1000.0
+     3.196116        146.98
+     3.082605        441.63
+     2.836046        434.36
+     2.783374        634.57
+     2.734405        698.61
+     2.457802         144.9
+     2.386918        202.77
+     2.284662        156.74
+     2.228442        266.18

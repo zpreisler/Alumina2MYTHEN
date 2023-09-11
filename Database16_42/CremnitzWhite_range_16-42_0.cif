@@ -1,0 +1,17 @@
+_chemical_formula_sum  'Pb C O3'
+_chemical_name_mineral  'V Lead carbonate'
+_chemical_name_common  'Cremnitz White'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.814724          28.6
+     3.715936         38.63
+     3.621806         44.49
+     3.362348         80.72
+     3.289161         88.06
+     2.957105          29.8
+     2.916876         25.69
+     2.719468          18.0
+     2.632181        1000.0
+     2.502535        300.39
+     2.190588         23.54

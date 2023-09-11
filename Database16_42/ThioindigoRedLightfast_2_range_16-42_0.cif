@@ -1,0 +1,24 @@
+_chemical_formula_sum  'C16 H4 Cl4 O2 S2'
+_chemical_name_mineral  'V Thioindigo Red Lightfast'
+_chemical_name_common  'Thioindigo Red Lightfast'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.322885         171.8
+     4.073650        147.62
+     3.836957        266.36
+     3.712880        254.63
+     3.590458        516.46
+     3.337623        1000.0
+     3.263066        655.29
+     3.082605        554.37
+     3.026705        151.58
+     2.886918         200.0
+     2.788524        236.34
+     2.698366        221.05
+     2.597351        159.99
+     2.495609        221.16
+     2.395741        145.63
+     2.347695        100.85
+     2.228442        228.27
+     2.172247        125.75

@@ -1,0 +1,99 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1545302
+_citation_journal_full    'Scientific Reports'
+_citation_journal_volume  '7'
+_citation_page_first  '42420'
+_citation_year  '2017'
+_citation_title  'Controlled growth of hexagonal gold nanostructures during thermallyinduced self-assembling on Ge(001) surface'
+loop_
+_publ_author_name
+  'Jany B. R.'
+  'Gauquelin N.'
+  'Willhammar T.'
+  'Nikiel M.'
+  'van den Bos K. H. W.'
+  'Janas A.'
+  'Szajna K.'
+  'Verbeeck J.'
+  'Van Aert S.'
+  'Van Tendeloo G.'
+  'Krok F.'
+_chemical_formula_sum  'Au'
+_chemical_name_common  'Hexagonal Gold - Au hcp'
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_space_group_IT_number 194
+_space_group_crystal_system 'hexagonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x-y, x, z+0.5'
+   '-y, x-y, z'
+   '-x, -y, z+0.5'
+   '-x+y, -x, z'
+   'y, -x+y, z+0.5'
+   'x-y, -y, -z'
+   '-x, -x+y, -z'
+   'y, x, -z'
+   '-y, -x, -z+0.5'
+   '-x+y, y, -z+0.5'
+   'x, x-y, -z+0.5'
+   '-x, -y, -z'
+   '-x+y, -x, -z+0.5'
+   'y, -x+y, -z'
+   'x, y, -z+0.5'
+   'x-y, x, -z'
+   '-y, x-y, -z+0.5'
+   '-x+y, y, z'
+   'x, x-y, z'
+   '-y, -x, z'
+   'y, x, z+0.5'
+   'x-y, -y, z+0.5'
+   '-x, -x+y, z+0.5'
+_cell_length_a        2.90000
+_cell_length_b        2.90000
+_cell_length_c        4.88000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+_cell_formula_units_Z 2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+au      0.333   0.667   0.750    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    17.900000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     2.511474        236.95
+     2.440000        290.29
+     2.233095       1000.00
+     1.750063        149.88
+     1.450000        151.39
+     1.365305        181.05
+     1.255737         22.07
+     1.246509        171.85
+     1.220000         26.49
+     1.216119        117.87
+     1.116548         29.46
+     1.097376         27.95
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

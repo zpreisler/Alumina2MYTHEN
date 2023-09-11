@@ -1,0 +1,118 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9014401
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '216'
+_citation_page_first  '417'
+_citation_page_last   '419'
+_citation_year  '2001'
+_citation_title  'In situ structure solution of helical sulphur at 3 GPa and 400 deg CP = 3 GPa, T = 400 C'
+loop_
+_publ_author_name
+  'Crichton W. A.'
+  'Vaughan G. B. M.'
+  'Mezouar M.'
+_chemical_formula_sum  'S'
+_chemical_name_mineral  'Sulfur'
+_symmetry_space_group_name_H-M 'P 32 2 1'
+_space_group_IT_number 154
+_space_group_crystal_system 'trigonal (hexagonal axes)'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x-y, z+0.66667'
+   '-x+y, -x, z+0.33333'
+   'x-y, -y, -z+0.33333'
+   '-x, -x+y, -z+0.66667'
+   'y, x, -z'
+_cell_length_a        7.08970
+_cell_length_b        7.08970
+_cell_length_c        4.30238
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma   120.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+s      0.773   0.307   0.611    1.00000    5.176
+s      0.875   0.000   0.167    1.00000    4.632
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.559000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     6.139860          0.86
+     3.544850       1000.00
+     3.523439         29.70
+     3.069930         10.73
+     2.735842        897.50
+     2.498983        354.63
+     2.320649         71.54
+     2.046620          7.21
+     2.042475         93.17
+     2.030188         94.53
+     1.848168        102.56
+     1.839050         22.24
+     1.772425         26.67
+     1.761720         46.11
+     1.702891         48.26
+     1.638808         42.78
+     1.583376        101.16
+     1.577631        133.45
+     1.534965          6.84
+     1.482769         32.57
+     1.445711         20.71
+     1.434127          0.02
+     1.408581         31.98
+     1.396537         44.46
+     1.367921          4.01
+     1.339827         14.66
+     1.338662         12.41
+     1.335185         11.90
+     1.329450          0.69
+     1.299339          5.56
+     1.279233          6.98
+     1.249492          5.60
+     1.227972          1.56
+     1.219968          3.02
+     1.181617          4.75
+     1.180817          7.62
+     1.178429          3.89
+     1.174480          1.03
+     1.160325         12.51
+     1.139425          0.53
+     1.137279         14.64
+     1.120297          2.28
+     1.114881          5.55
+     1.102751          2.34
+     1.096944          6.19
+     1.068221          5.36
+     1.066451          2.61
+     1.059461          1.66
+     1.047917          2.03
+     1.035664          1.71
+     1.029258          1.54
+     1.023310          0.23
+     1.021237          2.95
+     1.015094          3.49
+     1.009387          1.12
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Synthetic
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

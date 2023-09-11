@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Ca C O3'
+_chemical_name_mineral  'V Calcite'
+_chemical_name_common  'Studio Pigment Yellow Sun Gold'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.885406         47.95
+     3.570900         30.63
+     3.267757        109.09
+     3.127533        129.68
+     3.043040        1000.0
+     2.857593         38.57
+     2.498361        164.96
+     2.285775        212.11
+     2.198909         40.61

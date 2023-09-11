@@ -1,0 +1,135 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1526822
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '160'
+_citation_page_first  '322'
+_citation_page_last   '331'
+_citation_year  '2001'
+_citation_title  'Three forms of the misfit layered cobaltite (Ca2 Co O3) (Co O2)1.62. A 4D structural investigation'
+loop_
+_publ_author_name
+  'Lambert S.'
+  'Leligny H.'
+  'Grebille D.'
+_chemical_formula_sum  'Co O2'
+_chemical_name_common  'Co O2'
+_symmetry_space_group_name_H-M 'C c m m'
+_space_group_IT_number 63
+_space_group_crystal_system 'orthorhombic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z'
+   '-x, -y, z+0.5'
+   '-x+0.5, -y+0.5, z+0.5'
+   'x, -y, -z+0.5'
+   'x+0.5, -y+0.5, -z+0.5'
+   '-x, y, -z'
+   '-x+0.5, y+0.5, -z'
+   '-x, -y, -z'
+   '-x+0.5, -y+0.5, -z'
+   'x, y, -z+0.5'
+   'x+0.5, y+0.5, -z+0.5'
+   '-x, y, z+0.5'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z'
+_cell_length_a        4.83400
+_cell_length_b        2.82000
+_cell_length_c       21.51800
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+o      0.584   0.250   -0.047    0.50000    1.000
+co      0.250   0.250   0.000    0.50000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.059000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+    10.759000       1000.00
+     5.379500        145.21
+     3.586333         27.69
+     2.689750          5.92
+     2.417000          6.22
+     2.401895          0.40
+     2.358226         12.95
+     2.290454          2.35
+     2.204693         13.75
+     2.151800          1.94
+     2.107388          2.79
+     2.004305         13.36
+     1.900017          1.40
+     1.797796         11.14
+     1.793167          1.28
+     1.699770          0.24
+     1.607167          7.88
+     1.537000          1.26
+     1.520567          0.01
+     1.440115          4.83
+     1.410000          3.16
+     1.398045          5.48
+     1.365680          0.15
+     1.363927          3.62
+     1.344875          1.27
+     1.312225          1.91
+     1.296973          2.67
+     1.248816          0.93
+     1.233616          0.20
+     1.217910          1.07
+     1.215964          0.03
+     1.210181          2.25
+     1.208500          0.50
+     1.206599          0.02
+     1.200948          1.07
+     1.200724          0.23
+     1.195444          1.16
+     1.191703          0.11
+     1.187848          2.56
+     1.179360          0.53
+     1.179113          1.23
+     1.175199          1.43
+     1.171887          0.34
+     1.163497          0.16
+     1.153225          2.87
+     1.145227          1.40
+     1.132280          0.23
+     1.124706          0.11
+     1.121308          0.13
+     1.109474          2.96
+     1.108383          0.47
+     1.102346          1.47
+     1.085222          0.05
+     1.078549          0.02
+     1.075900          0.95
+     1.071543          0.81
+     1.059913          2.75
+     1.053694          1.38
+     1.039022          0.57
+     1.033901          0.00
+     1.028126          0.00
+     1.025528          0.04
+     1.007499          2.32
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

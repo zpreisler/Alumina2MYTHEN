@@ -1,0 +1,120 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+
+data_lab6
+_citation_journal_full    'Kristallografiya'
+_citation_journal_id_ASTM 'KRISAJ'
+_citation_journal_volume  '31'
+_citation_page_first  '803'
+_citation_page_last   '805'
+_citation_year  '1986'
+_citation_title  'X-ray structural investigation of single crystals of lanthanum, cerium,and samarium hexaborides_cod_database_code 1000057'
+loop_
+_publ_author_name
+  'Eliseev A'
+  'Efremmov V'
+  'Kuzmicheva G'
+  'Konovalova E'
+  'Lazorenko V'
+  'Paderno Y'
+  'Khlyustova S'
+_chemical_formula_sum  'La B6'
+_chemical_name_common  'Lanthanum hexaboride'
+_symmetry_space_group_name_H-M 'P m -3 m'
+_space_group_IT_number 221
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-y, x, z'
+   '-x, -y, z'
+   'y, -x, z'
+   'x, -z, y'
+   'x, -y, -z'
+   'x, z, -y'
+   'z, y, -x'
+   '-x, y, -z'
+   '-z, y, x'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, z, y'
+   '-x, -z, -y'
+   'z, -y, x'
+   '-z, -y, -x'
+   '-x, -y, -z'
+   'y, -x, -z'
+   'x, y, -z'
+   '-y, x, -z'
+   '-x, z, -y'
+   '-x, y, z'
+   '-x, -z, y'
+   '-z, -y, x'
+   'x, -y, z'
+   'z, -y, -x'
+   '-z, -x, -y'
+   '-y, -z, -x'
+   'y, z, -x'
+   '-z, x, y'
+   'y, -z, x'
+   'z, x, -y'
+   'z, -x, y'
+   '-y, z, x'
+   '-y, -x, z'
+   'y, x, z'
+   'x, -z, -y'
+   'x, z, y'
+   '-z, y, -x'
+   'z, y, x'
+_cell_length_a        4.15700
+_cell_length_b        4.15700
+_cell_length_c        4.15700
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+la      0.000   0.000   0.000    1.00000    1.000
+b      0.198   0.500   0.500    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.710000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.157000        641.24
+     2.939443       1000.00
+     2.400045        418.72
+     2.078500        205.71
+     1.859067        450.43
+     1.697088        232.01
+     1.469721         82.70
+     1.385667        228.49
+     1.314559        160.04
+     1.253383         97.91
+     1.200023         17.05
+     1.152944         60.77
+     1.111005        126.67
+     1.039250         20.84
+     1.008221        103.06
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+##############################################################################
+
+

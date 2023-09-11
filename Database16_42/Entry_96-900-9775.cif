@@ -1,0 +1,150 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9009774
+_citation_journal_full    'Journal of Solid State Chemistry'
+_citation_journal_volume  '133'
+_citation_page_first  '486'
+_citation_page_last   '500'
+_citation_year  '1997'
+_citation_title  'Hydrogen bonding and Jahn-Teller distortion in groutite, alpha-MnOOH,and manganite, gamma-MnOOH, and their relations to the manganesedioxides ramsdellite and pyrolusiteLocality: Nchwaning Mine, Kalahari manganese field, Republic of South AfricaNote: Uiso corrected'
+loop_
+_publ_author_name
+  'Kohler T.'
+  'Armbruster T.'
+  'Libowitzky E.'
+_chemical_formula_sum  'H Mn O2'
+_chemical_name_mineral  'Manganite'
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_space_group_IT_number 14
+_space_group_crystal_system 'monoclinic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, y+0.5, -z+0.5'
+   '-x, -y, -z'
+   'x, -y+0.5, z+0.5'
+_cell_length_a        5.30400
+_cell_length_b        5.27700
+_cell_length_c        5.30400
+_cell_angle_alpha    90.0000
+_cell_angle_beta    114.3800
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+mn      -0.237   0.010   0.755    1.00000    0.497
+o      0.875   0.126   0.121    1.00000    0.481
+o      0.375   0.124   0.628    1.00000    0.655
+h      0.284   0.027   0.725    1.00000    2.289
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    4.320000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.831031          7.48
+     3.563305          5.56
+     3.405391       1000.00
+     2.639926          0.02
+     2.638500        269.98
+     2.523948        134.79
+     2.415515        407.50
+     2.360966          9.91
+     2.315644          9.16
+     2.270593        105.91
+     2.228932         30.04
+     2.196350         96.46
+     2.053282          0.01
+     1.943633          0.05
+     1.873232          1.29
+     1.866205          3.58
+     1.781653        284.50
+     1.765307          6.04
+     1.703078          1.41
+     1.702695        119.14
+     1.670707        399.15
+     1.652848          3.57
+     1.636229         95.72
+     1.620761          1.69
+     1.610344          2.73
+     1.540224          0.59
+     1.527430          2.81
+     1.500303        125.68
+     1.464907          0.05
+     1.463820          3.42
+     1.436999         67.00
+     1.430888          2.72
+     1.430328         57.56
+     1.421933         14.97
+     1.386510          0.01
+     1.380815          0.02
+     1.374557          4.11
+     1.323951         82.38
+     1.319963         43.39
+     1.319250          5.69
+     1.305317          0.12
+     1.294744          9.32
+     1.282284          2.67
+     1.280511          7.59
+     1.272651          2.99
+     1.267126          3.91
+     1.265018          0.00
+     1.261974         35.18
+     1.244617         28.74
+     1.243513          0.38
+     1.223551          1.41
+     1.214256         12.57
+     1.210361          1.98
+     1.207758          8.63
+     1.198967          0.02
+     1.187768          1.22
+     1.180483         54.20
+     1.180100          1.83
+     1.177316          0.02
+     1.169972          0.44
+     1.157822         49.63
+     1.140160          1.06
+     1.135297         48.81
+     1.135130         23.27
+     1.124847          0.61
+     1.114466         23.18
+     1.114444          1.78
+     1.112852          0.04
+     1.098175         41.27
+     1.090414          0.01
+     1.079717         37.73
+     1.078607          1.96
+     1.072179          0.51
+     1.060695          1.23
+     1.055899          0.05
+     1.055765          2.91
+     1.050711          2.39
+     1.048225          2.41
+     1.046622          2.05
+     1.042944          1.96
+     1.039896          0.11
+     1.031082          1.71
+     1.027010         16.27
+     1.026641         17.31
+     1.020516          2.10
+     1.019501         16.17
+     1.015402          1.92
+     1.013745         32.46
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

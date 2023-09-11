@@ -1,0 +1,12 @@
+_chemical_formula_sum  'Pb2 Sb2 O7'
+_chemical_name_mineral  'V Lead antimonate'
+_chemical_name_common  'Naples Yellow Dark'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.205232          25.2
+     3.036868        1000.0
+     2.834207         27.77
+     2.632181        235.69
+     2.416036         47.41
+     2.393222         38.73

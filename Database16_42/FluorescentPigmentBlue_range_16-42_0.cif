@@ -1,0 +1,13 @@
+_chemical_formula_sum  'C32 H16 Cu N8'
+_chemical_name_mineral  'Fluorescent Pigment Blue'
+_chemical_name_common  'Fluorescent Pigment Blue'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.367048         320.0
+     3.856155        674.84
+     3.091064        1000.0
+     2.892475        188.52
+     2.709711        329.04
+     2.618459        160.07
+     2.232723        399.54

@@ -1,0 +1,15 @@
+_chemical_formula_sum  'Cu C H O'
+_chemical_name_mineral  'V copper acetate hydrate'
+_chemical_name_common  'Copper resinate'
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.342750        328.96
+     4.109568        201.54
+     3.843335         819.0
+     3.601897        156.51
+     3.537677        193.68
+     3.082605        1000.0
+     2.888829        193.61
+     2.698366        260.15
+     2.225230        290.83

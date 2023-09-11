@@ -1,0 +1,112 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_9008213
+_citation_journal_full    'Zeitschrift fur Kristallographie'
+_citation_journal_volume  '136'
+_citation_page_first  '273'
+_citation_page_last   '281'
+_citation_year  '1972'
+_citation_title  'Refinement of the structure of anatase at several temperaturesSample: T = 25 CLocality: Legenbach quarry, Binnatal, Switzerland'
+loop_
+_publ_author_name
+  'Horn M.'
+  'Schwerdtfeger C. F.'
+  'Meagher E. P.'
+_chemical_formula_sum  'O2 Ti'
+_chemical_name_mineral  'Anatase'
+_symmetry_space_group_name_H-M 'I 41/a m d'
+_space_group_IT_number 141
+_space_group_crystal_system 'tetragonal'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'x+0.5, y+0.5, z+0.5'
+   '-x, -y+0.5, -z+0.25'
+   '-x+0.5, -y, -z+0.75'
+   '-y, x+0.5, z+0.25'
+   '-y+0.5, x, z+0.75'
+   '-x, -y, z'
+   '-x+0.5, -y+0.5, z+0.5'
+   'y, -x+0.5, z+0.25'
+   'y+0.5, -x, z+0.75'
+   'y, -x, -z'
+   'y+0.5, -x+0.5, -z+0.5'
+   '-y, x, -z'
+   '-y+0.5, x+0.5, -z+0.5'
+   'x, -y+0.5, -z+0.25'
+   'x+0.5, -y, -z+0.75'
+   '-x, y+0.5, -z+0.25'
+   '-x+0.5, y, -z+0.75'
+   'y, x, -z'
+   'y+0.5, x+0.5, -z+0.5'
+   '-y, -x, -z'
+   '-y+0.5, -x+0.5, -z+0.5'
+   'x, y+0.5, -z+0.25'
+   'x+0.5, y, -z+0.75'
+   '-x, y, z'
+   '-x+0.5, y+0.5, z+0.5'
+   'x, -y, z'
+   'x+0.5, -y+0.5, z+0.5'
+   '-y, -x+0.5, z+0.25'
+   '-y+0.5, -x, z+0.75'
+   'y, x+0.5, z+0.25'
+   'y+0.5, x, z+0.75'
+_cell_length_a        3.78420
+_cell_length_b        3.78420
+_cell_length_c        9.51460
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+ti      0.000   0.000   0.000    1.00000    0.390
+o      0.000   0.000   0.208    1.00000    0.612
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_cell_measurement_temperature    298.100000
+_exptl_crystal_density_diffrn    3.894000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     3.516292       1000.00
+     2.430733         62.85
+     2.378650        202.40
+     2.332222         71.28
+     1.892100        280.73
+     1.700075        179.21
+     1.666194        175.60
+     1.493078         29.60
+     1.480762        136.80
+     1.364202         60.30
+     1.337917         66.53
+     1.279213          5.33
+     1.264591        102.40
+     1.250459         27.54
+     1.189325          4.74
+     1.172097          6.66
+     1.166111         51.83
+     1.160517         19.78
+     1.059742          6.68
+     1.051384         26.26
+     1.043220         30.03
+     1.018192         20.13
+     1.006925         12.44
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+

@@ -1,0 +1,155 @@
+##############################################################################
+###               Crystal structure data exported by Match!                ###
+##############################################################################
+###                           Data published by:                           ###
+###                                                                        ###
+###               COD (Crystallography Open Database)
+##############################################################################
+data_1011139
+_citation_journal_full    'Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,Kristallchemie (-144,1977)'
+_citation_journal_volume  '83'
+_citation_page_first  '405'
+_citation_page_last   '414'
+_citation_year  '1932'
+_citation_title  'The structures of the minerals of the sodalite family'
+loop_
+_publ_author_name
+  'Barth T F W'
+_chemical_formula_sum  'Al6 Cl2 Na8 O24 Si6'
+_chemical_name_mineral  'Sodalite'
+_chemical_name_common  'Octasodium tecto-hexaalumohexasilicate dichloride'
+_symmetry_space_group_name_H-M 'P -4 3 m'
+_space_group_IT_number 215
+_space_group_crystal_system 'cubic'
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   'y, -x, -z'
+   '-x, -y, z'
+   '-y, x, -z'
+   '-x, z, -y'
+   'x, -y, -z'
+   '-x, -z, y'
+   '-z, -y, x'
+   '-x, y, -z'
+   'z, -y, -x'
+   'z, x, y'
+   'y, z, x'
+   '-y, -z, x'
+   'z, -x, -y'
+   '-y, z, -x'
+   '-z, -x, y'
+   '-z, x, -y'
+   'y, -z, -x'
+   '-y, -x, z'
+   'y, x, z'
+   'x, -z, -y'
+   'x, z, y'
+   '-z, y, -x'
+   'z, y, x'
+_cell_length_a        8.89000
+_cell_length_b        8.89000
+_cell_length_c        8.89000
+_cell_angle_alpha    90.0000
+_cell_angle_beta     90.0000
+_cell_angle_gamma    90.0000
+_cell_formula_units_Z 1
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+na      0.175   0.175   0.175    1.00000    1.000
+na      0.675   0.675   0.675    1.00000    1.000
+al      0.250   0.000   0.500    0.50000    1.000
+si      0.250   0.000   0.500    0.50000    1.000
+o      0.147   0.147   0.445    1.00000    1.000
+o      0.660   0.660   -0.056    1.00000    1.000
+cl      0.000   0.000   0.000    1.00000    1.000
+cl      0.500   0.500   0.500    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+_exptl_crystal_density_diffrn    2.290000
+_exptl_crystal_density_meas      2.300000
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     8.890000          2.34
+     6.286180        282.61
+     5.132644          2.82
+     4.445000         38.17
+     3.975729          0.04
+     3.629327       1000.00
+     3.143090          3.24
+     2.963333          1.38
+     2.811265         82.22
+     2.680436          0.07
+     2.566322        125.76
+     2.465642          0.70
+     2.375953        182.17
+     2.222500         21.43
+     2.156142          0.92
+     2.095393        362.14
+     2.039506          1.22
+     1.987865         55.39
+     1.939957          0.21
+     1.895354         24.43
+     1.814664         24.62
+     1.778000          1.11
+     1.743473         25.00
+     1.710881          0.81
+     1.650832          0.14
+     1.623085         41.68
+     1.571545         85.32
+     1.547550          1.32
+     1.524622         54.07
+     1.502684          0.30
+     1.481667        107.35
+     1.461507          0.03
+     1.442148         84.84
+     1.405632          4.86
+     1.388385          0.30
+     1.371757         28.41
+     1.355712          0.34
+     1.340218         31.61
+     1.325243          0.58
+     1.310759         30.04
+     1.283161         32.58
+     1.270000          0.44
+     1.257236          1.94
+     1.244849          0.17
+     1.232821          4.37
+     1.221135          0.15
+     1.209776         98.50
+     1.187976          3.97
+     1.177509          0.29
+     1.167314         17.36
+     1.157379          0.19
+     1.138248          0.22
+     1.129031         37.80
+     1.111250          2.32
+     1.102669          0.52
+     1.094283         25.64
+     1.086086          0.01
+     1.078071         21.99
+     1.070230          0.27
+     1.062558          2.10
+     1.047697          3.51
+     1.040496          0.61
+     1.033442          2.64
+     1.026529          0.08
+     1.019753         13.69
+     1.013110          0.09
+     1.006594         11.43
+##############################################################################
+###                            Comments                                    ###
+##############################################################################
+###   from Bancroft, Ontario
+###   Diffraction pattern calculated by Match!. 
+###   I/Ic calculated by Match!. 
+###   Space group has been derived from given symmetry operations. 
+##############################################################################
+
+
