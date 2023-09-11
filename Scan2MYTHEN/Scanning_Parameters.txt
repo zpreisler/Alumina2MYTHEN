@@ -1,0 +1,17 @@
+AXIS: x	SCAN MODE: STEPM	STEP[um]: 20	TIME[msec]: 20000	N. STEP: 200
+
+AXIS: y	SCAN MODE: STEPM	STEP[um]: 0	TIME[msec]: 0	N. STEP: 1
+
+TLIST_ACQ_TIME[msec]: Not Defined
+******FalconCH1******
+Number of bins= 2048.00
+Bin Width= 20.0000
+detection threshold= 0.0080
+Min. Separation=12.0
+Detection Filter= MID_RATE
+Risetime Optim= 300
+Scale Factor= 1.845
+Reset Blanking= Enabled
+Reset Blanking threshold= -0.008
+Reset Blanking presamples= 50
+Reset Blanking postsamples= 50
