@@ -87,11 +87,11 @@ class MainWindow(QtWidgets.QMainWindow):
         self.tableWidget_opt_left.setColumnCount(3)
         self.tableWidget_opt_right.setColumnCount(3)
 
-        self.tableWidget_opt_left.setFixedHeight(50)
-        self.tableWidget_opt_right.setFixedHeight(50)
+        self.tableWidget_opt_left.setFixedHeight(100)
+        self.tableWidget_opt_right.setFixedHeight(100)
 
-        self.tableWidget_opt_left.setMinimumHeight(50)
-        self.tableWidget_opt_right.setMinimumHeight(50)
+        self.tableWidget_opt_left.setMinimumHeight(100)
+        self.tableWidget_opt_right.setMinimumHeight(100)
 
 
         self.tableWidget_opt_left.setHorizontalHeaderLabels(['a','s','beta'])
@@ -109,8 +109,8 @@ class MainWindow(QtWidgets.QMainWindow):
         self.tableWidget_theta_left.setColumnCount(3)
         self.tableWidget_theta_right.setColumnCount(3)
 
-        self.tableWidget_theta_left.setFixedHeight(50)
-        self.tableWidget_theta_right.setFixedHeight(50)
+        self.tableWidget_theta_left.setFixedHeight(100)
+        self.tableWidget_theta_right.setFixedHeight(100)
 
         self.tableWidget_theta_left.setHorizontalHeaderLabels(['theta_min','theta_max','range'])
         self.tableWidget_theta_right.setHorizontalHeaderLabels(['theta_min','theta_max','range'])
